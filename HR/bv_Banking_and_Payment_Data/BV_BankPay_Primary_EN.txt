@@ -1,0 +1,9 @@
+Bank
+Account
+IBAN
+Payment
+Salary Account
+Payroll Account
+Transfer
+Remittance
+SEPA

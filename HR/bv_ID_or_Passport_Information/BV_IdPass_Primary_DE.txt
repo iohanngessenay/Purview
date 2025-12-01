@@ -1,0 +1,8 @@
+Pass
+Passkarte
+Ausweis
+Ausländerausweis
+Arbeitsbewilligung
+Aufenthaltsbewilligung
+Visum
+Identitätsnachweis

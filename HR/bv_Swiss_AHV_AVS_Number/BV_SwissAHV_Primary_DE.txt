@@ -1,0 +1,6 @@
+AHV
+AVS
+Versicherungsnummer
+Sozialversicherungsnummer
+Sozialvers.-Nr
+AHV-Nummer

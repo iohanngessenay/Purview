@@ -1,0 +1,12 @@
+Salary
+Payroll
+Bonus
+Compensation
+Gross Salary
+Net Salary
+Pay Slip
+13th Month
+Commission
+Base Pay
+Variable Pay
+Merit Increase

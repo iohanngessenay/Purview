@@ -1,0 +1,6 @@
+Sort Code
+BIC
+SWIFT
+Bank Details
+Account Holder
+Bank Statement

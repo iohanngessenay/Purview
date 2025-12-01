@@ -1,0 +1,6 @@
+BLZ
+BIC
+SWIFT
+Bankverbindung
+Kontoinhaber
+Kontoauszug
