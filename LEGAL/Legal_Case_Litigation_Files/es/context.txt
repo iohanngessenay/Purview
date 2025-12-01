@@ -1,0 +1,14 @@
+Tribunal
+Tribunal
+Judge
+Abogado
+Abogado
+General Asesor
+Paralegal
+Docket
+Presentación
+Caso ID
+Caso File
+Legal Team
+Prosecutor
+Defense Asesor

@@ -1,0 +1,7 @@
+Employé
+Personnel
+Worker
+Manager
+HR
+Signature
+Effective Date

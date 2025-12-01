@@ -1,0 +1,12 @@
+Salaire
+Paie
+Bonus
+Rémunération
+Gross Salaire
+Net Salaire
+Pay Slip
+13th Month
+Commission
+Base Pay
+Variable Pay
+Merit Increase

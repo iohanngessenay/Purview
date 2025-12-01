@@ -1,0 +1,9 @@
+Banco
+Cuenta
+IBAN
+Pago
+Salario Cuenta
+Nómina Cuenta
+Transfer
+Remittance
+SEPA
