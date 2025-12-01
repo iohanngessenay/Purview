@@ -1,0 +1,6 @@
+Gericht
+Verhandlung
+Spruchkörper
+Urteil
+Akten-ID
+Verfahren

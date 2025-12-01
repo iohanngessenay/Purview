@@ -1,0 +1,5 @@
+Aktenzeichen
+Geschäftsnummer
+Docket-Nummer
+Fallnummer
+Gerichtsreferenz

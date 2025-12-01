@@ -1,0 +1,13 @@
+Gericht
+Spruchkörper
+Richter
+Anwalt
+Rechtsanwalt
+Syndikus
+Protokoll
+Einreichung
+Aktenzeichen-ID
+Akte
+Rechtsteam
+Staatsanwalt
+Verteidiger
