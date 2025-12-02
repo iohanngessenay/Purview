@@ -1,0 +1,17 @@
+# Purview SIT Repository
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+~$*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
