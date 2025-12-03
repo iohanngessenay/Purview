@@ -8,6 +8,52 @@ A collection of pre-configured Sensitive Information Types (SITs) for Microsoft 
 
 ---
 
+## Quick Start
+
+### 1. Download or Clone Repository
+```powershell
+git clone https://github.com/iohanngessenay/Purview.git
+cd Purview
+```
+
+### 2. Install Prerequisites
+```powershell
+# Install Exchange Online Management module
+Install-Module -Name ExchangeOnlineManagement -Scope CurrentUser
+```
+
+### 3. Generate SIT XML Files
+```powershell
+.\scripts\Generate-SIT-XML-Files.ps1
+```
+This creates 112 XML files in `SIT_XML_Export\` folder.
+
+### 4. Connect to Microsoft 365
+```powershell
+Import-Module ExchangeOnlineManagement
+Connect-IPPSSession
+```
+You need Compliance Administrator role or equivalent.
+
+### 5. Upload SITs to Your Tenant
+```powershell
+# Test first (no changes made)
+.\scripts\Upload-Individual-SITs.ps1 -DryRun
+
+# Upload all SITs
+.\scripts\Upload-Individual-SITs.ps1
+
+# Or upload by language
+.\scripts\Upload-Individual-SITs.ps1 -Language EN,DE
+```
+
+### 6. Verify in Purview Portal
+Navigate to: `https://purview.microsoft.com` > Information Protection > Classifiers > Sensitive info types
+
+Filter by publisher: "PurviewInsights SIT"
+
+---
+
 ## Overview
 
 This project provides 112 ready-to-use custom SITs for Microsoft Purview, designed to detect sensitive HR and Legal information in documents and emails. Each SIT includes multiple confidence patterns and supports English, German, French, and Spanish.
