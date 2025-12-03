@@ -30,6 +30,14 @@ param(
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 
+# Get project root (parent of scripts folder)
+$projectRoot = Split-Path -Parent $PSScriptRoot
+
+# Resolve output path relative to project root if not absolute
+if (-not [System.IO.Path]::IsPathRooted($OutputPath)) {
+    $OutputPath = Join-Path $projectRoot $OutputPath
+}
+
 # Create output directory
 if (-not (Test-Path $OutputPath)) {
     New-Item -ItemType Directory -Path $OutputPath -Force | Out-Null
@@ -38,8 +46,8 @@ if (-not (Test-Path $OutputPath)) {
 Write-Host "[1/5] Discovering SIT categories..." -ForegroundColor Cyan
 
 # Discover all SIT categories
-$hrCategories = @(Get-ChildItem -Path ".\HR" -Directory | Select-Object -ExpandProperty Name)
-$legalCategories = @(Get-ChildItem -Path ".\LEGAL" -Directory | Select-Object -ExpandProperty Name)
+$hrCategories = @(Get-ChildItem -Path (Join-Path $projectRoot "HR") -Directory | Select-Object -ExpandProperty Name)
+$legalCategories = @(Get-ChildItem -Path (Join-Path $projectRoot "LEGAL") -Directory | Select-Object -ExpandProperty Name)
 
 $allCategories = @(
     $hrCategories | ForEach-Object { [PSCustomObject]@{Name = $_; Domain = "HR"} }
@@ -65,7 +73,7 @@ $skippedCount = 0
 foreach ($category in $allCategories) {
     foreach ($lang in $languages) {
         
-        $sitFolderPath = Join-Path $category.Domain $category.Name
+        $sitFolderPath = Join-Path $projectRoot (Join-Path $category.Domain $category.Name)
         $langFolderPath = Join-Path $sitFolderPath $lang
         
         if (-not (Test-Path $langFolderPath)) {

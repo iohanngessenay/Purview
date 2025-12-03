@@ -50,7 +50,7 @@
 [CmdletBinding()]
 param(
     [Parameter(Mandatory=$false)]
-    [string]$InputPath = ".\SIT_XML_Export",
+    [string]$InputPath = "",  # Will be set to project root default
     
     [Parameter(Mandatory=$false)]
     [switch]$DryRun,
@@ -68,6 +68,18 @@ param(
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
+
+# Get project root (parent of scripts folder)
+$projectRoot = Split-Path -Parent $PSScriptRoot
+
+# Set default input path if not provided
+if ([string]::IsNullOrEmpty($InputPath)) {
+    $InputPath = Join-Path $projectRoot "SIT_XML_Export"
+}
+# Resolve relative paths
+elseif (-not [System.IO.Path]::IsPathRooted($InputPath)) {
+    $InputPath = Join-Path $projectRoot $InputPath
+}
 
 Write-Host "`n========================================" -ForegroundColor Cyan
 Write-Host "Microsoft Purview SIT Upload Tool" -ForegroundColor Cyan
