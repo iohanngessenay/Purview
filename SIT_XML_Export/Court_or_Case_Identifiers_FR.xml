@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="0f1c67b2-c2b5-422b-8885-a7657f40dd84">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Court_or_Case_Identifiers_FR</Name>
+        <Description>Court or Case Identifiers - French (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="b34877de-0516-48a9-8b4a-dac86bc10241" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Court_or_Case_Identifiers_FR" />
+        <Match idRef="Keyword_Context_Court_or_Case_Identifiers_FR" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Court_or_Case_Identifiers_FR" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Court_or_Case_Identifiers_FR">
+      <Group matchStyle="word">
+      <Term>Affaire Number</Term>
+      <Term>File Number</Term>
+      <Term>Docket Number</Term>
+      <Term>Affaire ID</Term>
+      <Term>Tribunal Reference</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Court_or_Case_Identifiers_FR">
+      <Group matchStyle="word">
+      <Term>Tribunal</Term>
+      <Term>Hearing</Term>
+      <Term>Tribunal</Term>
+      <Term>Judgment</Term>
+      <Term>Affaire ID</Term>
+      <Term>Proceeding</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="b34877de-0516-48a9-8b4a-dac86bc10241">
+        <Name default="true" langcode="en-us">Court_or_Case_Identifiers_FR</Name>
+        <Description default="true" langcode="en-us">Court or Case Identifiers - French (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="cced53b0-5673-41fc-a01b-f15d1682802f">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Sanctions_Export_Control_References_DE</Name>
+        <Description>Sanctions Export Control References - German (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="c549c4a7-74b7-4740-9f54-242a254f6b89" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Sanctions_Export_Control_References_DE" />
+        <Match idRef="Keyword_Context_Sanctions_Export_Control_References_DE" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Sanctions_Export_Control_References_DE" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Sanctions_Export_Control_References_DE">
+      <Group matchStyle="word">
+      <Term>Sanktion</Term>
+      <Term>Sanktionen</Term>
+      <Term>Embargo</Term>
+      <Term>Exportkontrolle</Term>
+      <Term>Sanktionsliste</Term>
+      <Term>Gesperrte Partei</Term>
+      <Term>Gesperrte Person</Term>
+      <Term>SDN-Liste</Term>
+      <Term>OFAC</Term>
+      <Term>EU-Sanktionen</Term>
+      <Term>UN-Sanktionen</Term>
+      <Term>UK-Sanktionen</Term>
+      <Term>BIS</Term>
+      <Term>EAR</Term>
+      <Term>ITAR</Term>
+      <Term>SECO</Term>
+      <Term>Güter mit doppeltem Verwendungszweck</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Sanctions_Export_Control_References_DE">
+      <Group matchStyle="word">
+      <Term>Compliance-Prüfung</Term>
+      <Term>KYC</Term>
+      <Term>Know Your Customer</Term>
+      <Term>AML</Term>
+      <Term>Geldwäscheprävention</Term>
+      <Term>Ausfuhrgenehmigung</Term>
+      <Term>Genehmigungsantrag</Term>
+      <Term>Hochrisikoland</Term>
+      <Term>Restriktives Land</Term>
+      <Term>Transaktionsprüfung</Term>
+      <Term>Regulatorisch</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="c549c4a7-74b7-4740-9f54-242a254f6b89">
+        <Name default="true" langcode="en-us">Sanctions_Export_Control_References_DE</Name>
+        <Description default="true" langcode="en-us">Sanctions Export Control References - German (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

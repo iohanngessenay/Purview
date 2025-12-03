@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="3034d130-0e04-4407-a43e-b1f37d546766">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Disciplinary_or_Legal_Records_ES</Name>
+        <Description>Disciplinary or Legal Records - Spanish (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="b1feeac4-77ea-403f-a05f-f4f9349b6406" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Disciplinary_or_Legal_Records_ES" />
+        <Match idRef="Keyword_Context_Disciplinary_or_Legal_Records_ES" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Disciplinary_or_Legal_Records_ES" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Disciplinary_or_Legal_Records_ES">
+      <Group matchStyle="word">
+      <Term>Warning</Term>
+      <Term>Suspension</Term>
+      <Term>Termination</Term>
+      <Term>Misconduct</Term>
+      <Term>Complaint</Term>
+      <Term>Disciplinario</Term>
+      <Term>Investigación</Term>
+      <Term>Final Written Warning</Term>
+      <Term>Desempeño Improvement Plan</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Disciplinary_or_Legal_Records_ES">
+      <Group matchStyle="word">
+      <Term>HR Caso</Term>
+      <Term>Hearing</Term>
+      <Term>Meeting Notes</Term>
+      <Term>Breach</Term>
+      <Term>Policy Violation</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="b1feeac4-77ea-403f-a05f-f4f9349b6406">
+        <Name default="true" langcode="en-us">Disciplinary_or_Legal_Records_ES</Name>
+        <Description default="true" langcode="en-us">Disciplinary or Legal Records - Spanish (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

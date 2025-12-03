@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="997e8563-afdf-4786-bcfb-2e57edd0ab13">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Regulatory_and_Compliance_References_FR</Name>
+        <Description>Regulatory and Compliance References - French (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="08944f2e-1141-4a25-bb0d-ae2268cf78fa" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Regulatory_and_Compliance_References_FR" />
+        <Match idRef="Keyword_Context_Regulatory_and_Compliance_References_FR" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Regulatory_and_Compliance_References_FR" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Regulatory_and_Compliance_References_FR">
+      <Group matchStyle="word">
+      <Term>GDPR</Term>
+      <Term>DSGVO</Term>
+      <Term>FADP</Term>
+      <Term>FINMA</Term>
+      <Term>SEC</Term>
+      <Term>SOX</Term>
+      <Term>Sarbanes-Oxley</Term>
+      <Term>HIPAA</Term>
+      <Term>ISO 27001</Term>
+      <Term>ISO/IEC 27001</Term>
+      <Term>PCI DSS</Term>
+      <Term>NIST</Term>
+      <Term>FedRAMP</Term>
+      <Term>FISMA</Term>
+      <Term>CCPA</Term>
+      <Term>LGPD</Term>
+      <Term>Data Protection Act</Term>
+      <Term>Swiss Data Protection Act</Term>
+      <Term>Basel III</Term>
+      <Term>MiFID II</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Regulatory_and_Compliance_References_FR">
+      <Group matchStyle="word">
+      <Term>Conformité</Term>
+      <Term>Regulation</Term>
+      <Term>Audit</Term>
+      <Term>Audit Finding</Term>
+      <Term>Risk Report</Term>
+      <Term>Risk Assessment</Term>
+      <Term>Juridique Obligation</Term>
+      <Term>Control</Term>
+      <Term>Control Failure</Term>
+      <Term>Remediation Plan</Term>
+      <Term>Certification</Term>
+      <Term>Conformance</Term>
+      <Term>Policy Violation</Term>
+      <Term>Réglementaire Dépôt</Term>
+      <Term>Conformité Évaluation</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="08944f2e-1141-4a25-bb0d-ae2268cf78fa">
+        <Name default="true" langcode="en-us">Regulatory_and_Compliance_References_FR</Name>
+        <Description default="true" langcode="en-us">Regulatory and Compliance References - French (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="60c61a53-2fb1-4d32-a97f-230169ec438b">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Training_and_Certification_Records_FR</Name>
+        <Description>Training and Certification Records - French (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="3acac88d-eb0e-45e7-991a-87550973b8e9" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Training_and_Certification_Records_FR" />
+        <Match idRef="Keyword_Context_Training_and_Certification_Records_FR" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Training_and_Certification_Records_FR" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Training_and_Certification_Records_FR">
+      <Group matchStyle="word">
+      <Term>Formation Record</Term>
+      <Term>Certificate of Completion</Term>
+      <Term>Learning Plan</Term>
+      <Term>Certification</Term>
+      <Term>Course Attendance</Term>
+      <Term>Workshop</Term>
+      <Term>Seminar</Term>
+      <Term>Formation Transcript</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Training_and_Certification_Records_FR">
+      <Group matchStyle="word">
+      <Term>Learning</Term>
+      <Term>L&amp;D</Term>
+      <Term>Learning and Development</Term>
+      <Term>Conformité Formation</Term>
+      <Term>Mandatory Formation</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="3acac88d-eb0e-45e7-991a-87550973b8e9">
+        <Name default="true" langcode="en-us">Training_and_Certification_Records_FR</Name>
+        <Description default="true" langcode="en-us">Training and Certification Records - French (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

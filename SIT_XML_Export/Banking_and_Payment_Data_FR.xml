@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="2c170691-ba60-4f57-961e-18609996a0c4">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Banking_and_Payment_Data_FR</Name>
+        <Description>Banking and Payment Data - French (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="2320d8a5-a5f3-46c7-a32b-e2b4e2f9c90f" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Banking_and_Payment_Data_FR" />
+        <Match idRef="Keyword_Context_Banking_and_Payment_Data_FR" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Banking_and_Payment_Data_FR" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Banking_and_Payment_Data_FR">
+      <Group matchStyle="word">
+      <Term>Banque</Term>
+      <Term>Compte</Term>
+      <Term>IBAN</Term>
+      <Term>Paiement</Term>
+      <Term>Salaire Compte</Term>
+      <Term>Paie Compte</Term>
+      <Term>Transfer</Term>
+      <Term>Remittance</Term>
+      <Term>SEPA</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Banking_and_Payment_Data_FR">
+      <Group matchStyle="word">
+      <Term>Sort Code</Term>
+      <Term>BIC</Term>
+      <Term>SWIFT</Term>
+      <Term>Banque Details</Term>
+      <Term>Compte Holder</Term>
+      <Term>Banque Statement</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="2320d8a5-a5f3-46c7-a32b-e2b4e2f9c90f">
+        <Name default="true" langcode="en-us">Banking_and_Payment_Data_FR</Name>
+        <Description default="true" langcode="en-us">Banking and Payment Data - French (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

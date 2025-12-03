@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="6a7e34a4-5085-4437-8a6e-45181033cb05">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Applicant_Recruiting_Data_DE</Name>
+        <Description>Applicant Recruiting Data - German (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="e6d0e4e3-6304-4334-ab24-3807590cb54f" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Applicant_Recruiting_Data_DE" />
+        <Match idRef="Keyword_Context_Applicant_Recruiting_Data_DE" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Applicant_Recruiting_Data_DE" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Applicant_Recruiting_Data_DE">
+      <Group matchStyle="word">
+      <Term>Bewerbung</Term>
+      <Term>Lebenslauf</Term>
+      <Term>Anschreiben</Term>
+      <Term>Motivationsschreiben</Term>
+      <Term>Kandidat</Term>
+      <Term>Vorstellungsgespräch</Term>
+      <Term>Rekrutierung</Term>
+      <Term>Einstellungsprozess</Term>
+      <Term>Shortlist</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Applicant_Recruiting_Data_DE">
+      <Group matchStyle="word">
+      <Term>Stellenausschreibung</Term>
+      <Term>Anforderungsprofil</Term>
+      <Term>HR</Term>
+      <Term>Talentakquise</Term>
+      <Term>Referenzprüfung</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="e6d0e4e3-6304-4334-ab24-3807590cb54f">
+        <Name default="true" langcode="en-us">Applicant_Recruiting_Data_DE</Name>
+        <Description default="true" langcode="en-us">Applicant Recruiting Data - German (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

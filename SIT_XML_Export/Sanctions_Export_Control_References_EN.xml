@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="b32c5fa8-aa84-422c-bb77-ea865b956e77">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Sanctions_Export_Control_References_EN</Name>
+        <Description>Sanctions Export Control References - English (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="51f1121f-9c7e-49fb-a609-4035a2e5fda5" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Sanctions_Export_Control_References_EN" />
+        <Match idRef="Keyword_Context_Sanctions_Export_Control_References_EN" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Sanctions_Export_Control_References_EN" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Sanctions_Export_Control_References_EN">
+      <Group matchStyle="word">
+      <Term>Sanction</Term>
+      <Term>Sanctions</Term>
+      <Term>Embargo</Term>
+      <Term>Export Control</Term>
+      <Term>Restricted Party</Term>
+      <Term>Denied Entity</Term>
+      <Term>Blocked Person</Term>
+      <Term>SDN List</Term>
+      <Term>OFAC</Term>
+      <Term>EU Sanctions</Term>
+      <Term>UN Sanctions</Term>
+      <Term>UK Sanctions</Term>
+      <Term>BIS</Term>
+      <Term>EAR</Term>
+      <Term>ITAR</Term>
+      <Term>SECO</Term>
+      <Term>Dual Use Goods</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Sanctions_Export_Control_References_EN">
+      <Group matchStyle="word">
+      <Term>Compliance Screening</Term>
+      <Term>KYC</Term>
+      <Term>AML</Term>
+      <Term>Export License</Term>
+      <Term>License Application</Term>
+      <Term>High Risk Country</Term>
+      <Term>Restricted Country</Term>
+      <Term>Transaction Screening</Term>
+      <Term>Regulatory</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="51f1121f-9c7e-49fb-a609-4035a2e5fda5">
+        <Name default="true" langcode="en-us">Sanctions_Export_Control_References_EN</Name>
+        <Description default="true" langcode="en-us">Sanctions Export Control References - English (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="a101e6a6-caa0-4384-a85d-0ebc4e319f1f">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Court_or_Case_Identifiers_EN</Name>
+        <Description>Court or Case Identifiers - English (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="87824bc1-4e19-4c45-b6bb-b9caa841b053" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Court_or_Case_Identifiers_EN" />
+        <Match idRef="Keyword_Context_Court_or_Case_Identifiers_EN" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Court_or_Case_Identifiers_EN" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Court_or_Case_Identifiers_EN">
+      <Group matchStyle="word">
+      <Term>Case Number</Term>
+      <Term>File Number</Term>
+      <Term>Docket Number</Term>
+      <Term>Case ID</Term>
+      <Term>Court Reference</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Court_or_Case_Identifiers_EN">
+      <Group matchStyle="word">
+      <Term>Court</Term>
+      <Term>Hearing</Term>
+      <Term>Tribunal</Term>
+      <Term>Judgment</Term>
+      <Term>Case ID</Term>
+      <Term>Proceeding</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="87824bc1-4e19-4c45-b6bb-b9caa841b053">
+        <Name default="true" langcode="en-us">Court_or_Case_Identifiers_EN</Name>
+        <Description default="true" langcode="en-us">Court or Case Identifiers - English (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

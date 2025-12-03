@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="dfd46438-5323-4a47-a61b-82b0c9f0f116">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Contract_and_Agreement_Data_DE</Name>
+        <Description>Contract and Agreement Data - German (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="7d0474fc-de3f-43f0-98a2-664154b5a9e9" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Contract_and_Agreement_Data_DE" />
+        <Match idRef="Keyword_Context_Contract_and_Agreement_Data_DE" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Contract_and_Agreement_Data_DE" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Contract_and_Agreement_Data_DE">
+      <Group matchStyle="word">
+      <Term>Vertrag</Term>
+      <Term>Vereinbarung</Term>
+      <Term>Allgemeine Geschäftsbedingungen</Term>
+      <Term>AGB</Term>
+      <Term>Rahmenvertrag</Term>
+      <Term>Hauptdienstleistungsvertrag</Term>
+      <Term>Leistungsbeschreibung</Term>
+      <Term>Statement of Work</Term>
+      <Term>SOW</Term>
+      <Term>Nachtrag</Term>
+      <Term>Amendment</Term>
+      <Term>Zusatzvereinbarung</Term>
+      <Term>Kündigungsklausel</Term>
+      <Term>Dienstleistungsvertrag</Term>
+      <Term>Kaufvertrag</Term>
+      <Term>Beauftragungsbrief</Term>
+      <Term>Arbeitsauftrag</Term>
+      <Term>Änderungsauftrag</Term>
+      <Term>Bestellformular</Term>
+      <Term>Anlage</Term>
+      <Term>Anhang</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Contract_and_Agreement_Data_DE">
+      <Group matchStyle="word">
+      <Term>Wirksamkeitsdatum</Term>
+      <Term>Unterschrift</Term>
+      <Term>Gegenstücke</Term>
+      <Term>Anwendbares Recht</Term>
+      <Term>Gerichtsstand</Term>
+      <Term>Partei</Term>
+      <Term>Parteien</Term>
+      <Term>Kunde</Term>
+      <Term>Lieferant</Term>
+      <Term>Anbieter</Term>
+      <Term>Verpflichtungen</Term>
+      <Term>Laufzeit</Term>
+      <Term>Verlängerung</Term>
+      <Term>Verstoß</Term>
+      <Term>Abhilfe</Term>
+      <Term>Vertraulichkeit</Term>
+      <Term>Haftung</Term>
+      <Term>Freistellung</Term>
+      <Term>Höhere Gewalt</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="7d0474fc-de3f-43f0-98a2-664154b5a9e9">
+        <Name default="true" langcode="en-us">Contract_and_Agreement_Data_DE</Name>
+        <Description default="true" langcode="en-us">Contract and Agreement Data - German (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

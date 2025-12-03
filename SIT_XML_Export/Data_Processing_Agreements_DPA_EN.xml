@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="d48cd08b-6d7b-4450-955e-b083b268c4de">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Data_Processing_Agreements_DPA_EN</Name>
+        <Description>Data Processing Agreements DPA - English (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="98202550-285f-4668-ad38-2be3e24314dd" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Data_Processing_Agreements_DPA_EN" />
+        <Match idRef="Keyword_Context_Data_Processing_Agreements_DPA_EN" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Data_Processing_Agreements_DPA_EN" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Data_Processing_Agreements_DPA_EN">
+      <Group matchStyle="word">
+      <Term>Data Processing Agreement</Term>
+      <Term>DPA</Term>
+      <Term>Data Protection Addendum</Term>
+      <Term>Processing Terms</Term>
+      <Term>Controller</Term>
+      <Term>Processor</Term>
+      <Term>Sub-Processor</Term>
+      <Term>Joint Controller</Term>
+      <Term>Standard Contractual Clauses</Term>
+      <Term>SCC</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Data_Processing_Agreements_DPA_EN">
+      <Group matchStyle="word">
+      <Term>Personal Data</Term>
+      <Term>Data Subject</Term>
+      <Term>International Transfer</Term>
+      <Term>Annex</Term>
+      <Term>Technical and Organisational Measures</Term>
+      <Term>TOMs</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="98202550-285f-4668-ad38-2be3e24314dd">
+        <Name default="true" langcode="en-us">Data_Processing_Agreements_DPA_EN</Name>
+        <Description default="true" langcode="en-us">Data Processing Agreements DPA - English (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

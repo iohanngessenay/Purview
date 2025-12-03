@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="611cd66d-de0d-495e-94e7-eb6c52cf9854">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Employee_Contract_Employment_Terms_DE</Name>
+        <Description>Employee Contract Employment Terms - German (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="f5c02e19-7fe6-4b72-aaa6-d35f41eb8e6e" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Employee_Contract_Employment_Terms_DE" />
+        <Match idRef="Keyword_Context_Employee_Contract_Employment_Terms_DE" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Employee_Contract_Employment_Terms_DE" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Employee_Contract_Employment_Terms_DE">
+      <Group matchStyle="word">
+      <Term>Arbeitsvertrag</Term>
+      <Term>Anstellungsvertrag</Term>
+      <Term>Eintrittsdatum</Term>
+      <Term>Kündigungsfrist</Term>
+      <Term>Stellenbezeichnung</Term>
+      <Term>Position</Term>
+      <Term>Probezeit</Term>
+      <Term>Kündigung</Term>
+      <Term>Abfindung</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Employee_Contract_Employment_Terms_DE">
+      <Group matchStyle="word">
+      <Term>Mitarbeiter</Term>
+      <Term>Belegschaft</Term>
+      <Term>Angestellter</Term>
+      <Term>Vorgesetzter</Term>
+      <Term>HR</Term>
+      <Term>Unterschrift</Term>
+      <Term>Wirksamkeitsdatum</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="f5c02e19-7fe6-4b72-aaa6-d35f41eb8e6e">
+        <Name default="true" langcode="en-us">Employee_Contract_Employment_Terms_DE</Name>
+        <Description default="true" langcode="en-us">Employee Contract Employment Terms - German (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="40527873-de3a-451d-8b91-085a9d765ef5">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Swiss_AHV_AVS_Number_ES</Name>
+        <Description>Swiss AHV AVS Number - Spanish (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="96324287-04ef-45dd-b314-1d6ed27156ea" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Swiss_AHV_AVS_Number_ES" />
+        <Match idRef="Keyword_Context_Swiss_AHV_AVS_Number_ES" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Swiss_AHV_AVS_Number_ES" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Swiss_AHV_AVS_Number_ES">
+      <Group matchStyle="word">
+      <Term>AHV</Term>
+      <Term>AVS</Term>
+      <Term>Seguro Number</Term>
+      <Term>Social Security Number</Term>
+      <Term>Social Security</Term>
+      <Term>Social Ins. No.</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Swiss_AHV_AVS_Number_ES">
+      <Group matchStyle="word">
+      <Term>Empleado</Term>
+      <Term>Nómina</Term>
+      <Term>HR</Term>
+      <Term>Onboarding</Term>
+      <Term>Identity Document</Term>
+      <Term>Copy of ID</Term>
+      <Term>National ID</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="96324287-04ef-45dd-b314-1d6ed27156ea">
+        <Name default="true" langcode="en-us">Swiss_AHV_AVS_Number_ES</Name>
+        <Description default="true" langcode="en-us">Swiss AHV AVS Number - Spanish (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

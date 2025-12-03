@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="9245cc4b-1c98-4412-b87a-c0aff89f088a">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Whistleblower_Reports_ES</Name>
+        <Description>Whistleblower Reports - Spanish (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="79c86985-b7b8-4faa-b9f4-8079eee9c7d2" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Whistleblower_Reports_ES" />
+        <Match idRef="Keyword_Context_Whistleblower_Reports_ES" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Whistleblower_Reports_ES" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Whistleblower_Reports_ES">
+      <Group matchStyle="word">
+      <Term>Denunciante</Term>
+      <Term>Ethics Hotline</Term>
+      <Term>Incident Report</Term>
+      <Term>Misconduct</Term>
+      <Term>Anonymous Report</Term>
+      <Term>Retaliation Prevention</Term>
+      <Term>Tip-off</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Whistleblower_Reports_ES">
+      <Group matchStyle="word">
+      <Term>Investigación</Term>
+      <Term>Caso Number</Term>
+      <Term>Follow-up</Term>
+      <Term>Confidencial</Term>
+      <Term>Sensitive</Term>
+      <Term>Ethics</Term>
+      <Term>Hotline Caso</Term>
+      <Term>Intake</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="79c86985-b7b8-4faa-b9f4-8079eee9c7d2">
+        <Name default="true" langcode="en-us">Whistleblower_Reports_ES</Name>
+        <Description default="true" langcode="en-us">Whistleblower Reports - Spanish (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

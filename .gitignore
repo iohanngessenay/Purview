@@ -1,5 +1,14 @@
 # Purview SIT Repository
 
+# Sensitive files - never commit
+*.pfx
+*.p12
+*.pem
+*.key
+*.env
+.env.*
+secrets.json
+
 # Python cache
 __pycache__/
 *.pyc
@@ -15,3 +24,6 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Build outputs
+*.log

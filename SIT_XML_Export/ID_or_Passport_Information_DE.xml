@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="662f3ab5-e781-433f-b4bc-45ef290004aa">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>ID_or_Passport_Information_DE</Name>
+        <Description>ID or Passport Information - German (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="f46075e0-5f1b-4743-b6cc-84d1a3a2042d" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_ID_or_Passport_Information_DE" />
+        <Match idRef="Keyword_Context_ID_or_Passport_Information_DE" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_ID_or_Passport_Information_DE" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_ID_or_Passport_Information_DE">
+      <Group matchStyle="word">
+      <Term>Pass</Term>
+      <Term>Passkarte</Term>
+      <Term>Ausweis</Term>
+      <Term>Ausländerausweis</Term>
+      <Term>Arbeitsbewilligung</Term>
+      <Term>Aufenthaltsbewilligung</Term>
+      <Term>Visum</Term>
+      <Term>Identitätsnachweis</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_ID_or_Passport_Information_DE">
+      <Group matchStyle="word">
+      <Term>Dokumentennummer</Term>
+      <Term>Ablaufdatum</Term>
+      <Term>Ausstellende Behörde</Term>
+      <Term>Scan</Term>
+      <Term>Passkopie</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="f46075e0-5f1b-4743-b6cc-84d1a3a2042d">
+        <Name default="true" langcode="en-us">ID_or_Passport_Information_DE</Name>
+        <Description default="true" langcode="en-us">ID or Passport Information - German (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

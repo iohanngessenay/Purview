@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="dd297928-a280-4cf3-8682-e9d05069c341">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Data_Processing_Agreements_DPA_DE</Name>
+        <Description>Data Processing Agreements DPA - German (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="17108dcc-fdc0-49bc-8238-ae336ff5aabf" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Data_Processing_Agreements_DPA_DE" />
+        <Match idRef="Keyword_Context_Data_Processing_Agreements_DPA_DE" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Data_Processing_Agreements_DPA_DE" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Data_Processing_Agreements_DPA_DE">
+      <Group matchStyle="word">
+      <Term>Auftragsverarbeitungsvertrag</Term>
+      <Term>AVV</Term>
+      <Term>Datenverarbeitungszusatz</Term>
+      <Term>Verarbeitungsbedingungen</Term>
+      <Term>Verantwortlicher</Term>
+      <Term>Auftragsverarbeiter</Term>
+      <Term>Unterauftragsverarbeiter</Term>
+      <Term>Gemeinsame Verantwortliche</Term>
+      <Term>Standardvertragsklauseln</Term>
+      <Term>SVK</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Data_Processing_Agreements_DPA_DE">
+      <Group matchStyle="word">
+      <Term>Personenbezogene Daten</Term>
+      <Term>Betroffene Person</Term>
+      <Term>Internationale Übermittlung</Term>
+      <Term>Anlage</Term>
+      <Term>Technische und organisatorische Maßnahmen</Term>
+      <Term>TOM</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="17108dcc-fdc0-49bc-8238-ae336ff5aabf">
+        <Name default="true" langcode="en-us">Data_Processing_Agreements_DPA_DE</Name>
+        <Description default="true" langcode="en-us">Data Processing Agreements DPA - German (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

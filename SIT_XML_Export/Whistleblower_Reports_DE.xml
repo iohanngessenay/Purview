@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="41f4bd42-44d5-4644-b4bd-5f3078567ac0">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Whistleblower_Reports_DE</Name>
+        <Description>Whistleblower Reports - German (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="d90dfbc5-070e-4289-b030-e955ccb5653d" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Whistleblower_Reports_DE" />
+        <Match idRef="Keyword_Context_Whistleblower_Reports_DE" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Whistleblower_Reports_DE" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Whistleblower_Reports_DE">
+      <Group matchStyle="word">
+      <Term>Whistleblower</Term>
+      <Term>Ethik-Hotline</Term>
+      <Term>Vorfallsbericht</Term>
+      <Term>Fehlverhalten</Term>
+      <Term>Anonymer Bericht</Term>
+      <Term>Schutz vor Repressalien</Term>
+      <Term>Hinweis</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Whistleblower_Reports_DE">
+      <Group matchStyle="word">
+      <Term>Untersuchung</Term>
+      <Term>Aktenzeichen</Term>
+      <Term>Nachverfolgung</Term>
+      <Term>Vertraulich</Term>
+      <Term>Sensibel</Term>
+      <Term>Ethik</Term>
+      <Term>Hotline-Fall</Term>
+      <Term>Intake</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="d90dfbc5-070e-4289-b030-e955ccb5653d">
+        <Name default="true" langcode="en-us">Whistleblower_Reports_DE</Name>
+        <Description default="true" langcode="en-us">Whistleblower Reports - German (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="39e68b31-46b9-4597-bce2-3909f970e246">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Board_or_Corporate_Governance_Documents_EN</Name>
+        <Description>Board or Corporate Governance Documents - English (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="da3fd78b-1bc5-43ac-b463-bfd79117ab3c" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Board_or_Corporate_Governance_Documents_EN" />
+        <Match idRef="Keyword_Context_Board_or_Corporate_Governance_Documents_EN" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Board_or_Corporate_Governance_Documents_EN" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Board_or_Corporate_Governance_Documents_EN">
+      <Group matchStyle="word">
+      <Term>Board Meeting Minutes</Term>
+      <Term>Board Minutes</Term>
+      <Term>Minutes of Meeting</Term>
+      <Term>Resolution</Term>
+      <Term>Board Resolution</Term>
+      <Term>Shareholder Resolution</Term>
+      <Term>Articles of Association</Term>
+      <Term>Articles of Incorporation</Term>
+      <Term>Shareholders&apos; Agreement</Term>
+      <Term>Corporate Governance</Term>
+      <Term>Company Bylaws</Term>
+      <Term>Bylaws</Term>
+      <Term>Voting Rights</Term>
+      <Term>Director Appointment</Term>
+      <Term>Board Charter</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Board_or_Corporate_Governance_Documents_EN">
+      <Group matchStyle="word">
+      <Term>Board of Directors</Term>
+      <Term>Chairman</Term>
+      <Term>CEO</Term>
+      <Term>CFO</Term>
+      <Term>Company Secretary</Term>
+      <Term>Agenda</Term>
+      <Term>Quorum</Term>
+      <Term>Motion</Term>
+      <Term>Approved</Term>
+      <Term>Signed</Term>
+      <Term>Attendees</Term>
+      <Term>Proxy</Term>
+      <Term>General Meeting</Term>
+      <Term>AGM</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="da3fd78b-1bc5-43ac-b463-bfd79117ab3c">
+        <Name default="true" langcode="en-us">Board_or_Corporate_Governance_Documents_EN</Name>
+        <Description default="true" langcode="en-us">Board or Corporate Governance Documents - English (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

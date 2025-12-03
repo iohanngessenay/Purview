@@ -85,104 +85,103 @@ foreach ($category in $allCategories) {
             continue
         }
         
-        # Read keywords (filter out empty lines)
-        $primaryKeywords = @(Get-Content $primaryPath.FullName | Where-Object { $_.Trim() -ne "" })
-        $contextKeywords = if ($contextPath) { @(Get-Content $contextPath.FullName | Where-Object { $_.Trim() -ne "" }) } else { @() }
-        $regexPatterns = if ($regexPath) { @(Get-Content $regexPath.FullName | Where-Object { $_.Trim() -ne "" }) } else { @() }
-        
-        # Generate unique GUIDs
-        $sitGuid = [guid]::NewGuid().ToString()
-        $entityGuid = [guid]::NewGuid().ToString()
-        $primaryMatchGuid = [guid]::NewGuid().ToString()
-        $contextMatchGuid = if ($contextKeywords -and $contextKeywords.Count -gt 0) { [guid]::NewGuid().ToString() } else { $null }
-        $regexMatchGuid = if ($regexPatterns -and $regexPatterns.Count -gt 0) { [guid]::NewGuid().ToString() } else { $null }
+        # Read keywords (filter out empty lines) with UTF-8 encoding
+        $primaryKeywords = @(Get-Content $primaryPath.FullName -Encoding UTF8 -ErrorAction SilentlyContinue | Where-Object { $_.Trim() -ne "" })
+        $contextKeywords = if ($contextPath) { 
+            $temp = @(Get-Content $contextPath.FullName -Encoding UTF8 -ErrorAction SilentlyContinue | Where-Object { $_.Trim() -ne "" })
+            if ($temp) { $temp } else { @() }
+        } else { @() }
+        $regexPatterns = if ($regexPath) { 
+            $temp = @(Get-Content $regexPath.FullName -Encoding UTF8 -ErrorAction SilentlyContinue | Where-Object { $_.Trim() -ne "" })
+            if ($temp) { $temp } else { @() }
+        } else { @() }
         
         # Build SIT name and description
         $langUpper = $lang.ToUpper()
         $sitName = "$($category.Name)_$langUpper"
         $sitDescription = "$($category.Name.Replace('_', ' ')) - $($languageNames[$lang]) (Custom SIT for Microsoft Purview)"
         
+        # Generate IDs (Entity must be GUID, keywords can be descriptive)
+        $sitGuid = [guid]::NewGuid().ToString()  # RulePack GUID
+        $entityGuid = [guid]::NewGuid().ToString()  # Entity MUST be GUID per schema
+        $primaryMatchGuid = "Keyword_Primary_$sitName"
+        $contextMatchGuid = if ($null -ne $contextKeywords -and @($contextKeywords).Count -gt 0) { "Keyword_Context_$sitName" } else { $null }
+        
         # Build XML keyword elements
         $primaryKeywordXml = ($primaryKeywords | ForEach-Object { 
-            "        <Keyword>$([System.Security.SecurityElement]::Escape($_))</Keyword>" 
+            "      <Term>$([System.Security.SecurityElement]::Escape($_))</Term>" 
         }) -join "`n"
         
-        $hasContext = ($contextKeywords -and $contextKeywords.Count -gt 0)
+        $hasContext = ($null -ne $contextKeywords -and @($contextKeywords).Count -gt 0)
         $contextKeywordXml = if ($hasContext) {
             ($contextKeywords | ForEach-Object { 
-                "        <Keyword>$([System.Security.SecurityElement]::Escape($_))</Keyword>" 
-            }) -join "`n"
-        } else { "" }
-        
-        $hasRegex = ($regexPatterns -and $regexPatterns.Count -gt 0)
-        $regexKeywordXml = if ($hasRegex) {
-            ($regexPatterns | ForEach-Object { 
-                "        <Keyword>$([System.Security.SecurityElement]::Escape($_))</Keyword>" 
+                "      <Term>$([System.Security.SecurityElement]::Escape($_))</Term>" 
             }) -join "`n"
         } else { "" }
         
         # Build Match elements
         $primaryMatchXml = @"
     <Keyword id="$primaryMatchGuid">
+      <Group matchStyle="word">
 $primaryKeywordXml
+      </Group>
     </Keyword>
 "@
         
         $contextMatchXml = if ($hasContext) {
 @"
     <Keyword id="$contextMatchGuid">
+      <Group matchStyle="word">
 $contextKeywordXml
+      </Group>
     </Keyword>
 "@
         } else { "" }
         
-        $regexMatchXml = if ($hasRegex) {
-@"
-    <Keyword id="$regexMatchGuid">
-$regexKeywordXml
-    </Keyword>
+        # Build multiple patterns with different confidence levels
+        $patternsXml = ""
+        
+        # Pattern 1 (85% - High): Primary + Context (both required)
+        if ($hasContext) {
+            $patternsXml += @"
+
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="$primaryMatchGuid" />
+        <Match idRef="$contextMatchGuid" />
+      </Pattern>
 "@
-        } else { "" }
-        
-        # Build supporting elements (context + regex)
-        $supportingElements = @()
-        if ($contextMatchGuid) {
-            $supportingElements += "          <Match idRef=`"$contextMatchGuid`" />"
-        }
-        if ($regexMatchGuid) {
-            $supportingElements += "          <Match idRef=`"$regexMatchGuid`" />"
         }
         
-        $hasSupportingElements = ($supportingElements -and $supportingElements.Count -gt 0)
-        $supportingElementsXml = if ($hasSupportingElements) {
-            "`n        <Any minMatches=`"1`">`n" + ($supportingElements -join "`n") + "`n        </Any>"
-        } else { "" }
+        # Pattern 2 (75% - Medium): Primary only (always include)
+        $patternsXml += @"
+
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="$primaryMatchGuid" />
+      </Pattern>
+"@
         
-        # Determine confidence level based on supporting elements
-        $confidenceLevel = if ($hasSupportingElements) { 85 } else { 75 }
+        # Determine recommended confidence (highest pattern available)
+        $recommendedConfidence = if ($hasContext) { 85 } else { 75 }
         
         # Build complete XML
         $xml = @"
 <?xml version="1.0" encoding="utf-8"?>
-<RulePackage xmlns="http://schemas.microsoft.com/office/2018/edm">
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
   <RulePack id="$sitGuid">
     <Version major="1" minor="0" build="0" revision="0" />
     <Publisher id="00000000-0000-0000-0000-000000000000" />
     <Details defaultLangCode="en-us">
       <LocalizedDetails langcode="en-us">
-        <PublisherName>Custom SIT Provider</PublisherName>
+        <PublisherName>PurviewInsights SIT</PublisherName>
         <Name>$sitName</Name>
         <Description>$sitDescription</Description>
       </LocalizedDetails>
     </Details>
   </RulePack>
   <Rules>
-    <Entity id="$entityGuid" patternsProximity="300" recommendedConfidence="$confidenceLevel">
-      <Pattern confidenceLevel="$confidenceLevel">
-        <IdMatch idRef="$primaryMatchGuid" />$supportingElementsXml
-      </Pattern>
+    <Entity id="$entityGuid" patternsProximity="300" recommendedConfidence="$recommendedConfidence">$patternsXml
     </Entity>
-$primaryMatchXml$contextMatchXml$regexMatchXml
+$primaryMatchXml$contextMatchXml
     <LocalizedStrings>
       <Resource idRef="$entityGuid">
         <Name default="true" langcode="en-us">$sitName</Name>
@@ -200,9 +199,9 @@ $primaryMatchXml$contextMatchXml$regexMatchXml
         $xml | Out-File -FilePath $outputFilePath -Encoding UTF8 -Force
         
         $generatedCount++
-        $contextCount = if ($contextKeywords) { $contextKeywords.Count } else { 0 }
-        $regexCount = if ($regexPatterns) { $regexPatterns.Count } else { 0 }
-        Write-Host "    [OK] $sitName ($($primaryKeywords.Count)p/$contextCount`c/$regexCount`r keywords)" -ForegroundColor Green
+        $contextCount = if ($null -ne $contextKeywords) { @($contextKeywords).Count } else { 0 }
+        $regexCount = if ($null -ne $regexPatterns) { @($regexPatterns).Count } else { 0 }
+        Write-Host "    [OK] $sitName ($(@($primaryKeywords).Count)p/$contextCount`c/$regexCount`r keywords)" -ForegroundColor Green
     }
 }
 

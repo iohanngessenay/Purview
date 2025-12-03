@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="268b5c79-fc3d-4bba-afa8-3f79f5d6f3b0">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Compliance_Investigations_DE</Name>
+        <Description>Compliance Investigations - German (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="14d8effb-7684-46ad-921b-63f83c06138f" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Compliance_Investigations_DE" />
+        <Match idRef="Keyword_Context_Compliance_Investigations_DE" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Compliance_Investigations_DE" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Compliance_Investigations_DE">
+      <Group matchStyle="word">
+      <Term>Interne Untersuchung</Term>
+      <Term>Compliance-Vorfall</Term>
+      <Term>Fehlverhalten</Term>
+      <Term>Whistleblower</Term>
+      <Term>Ergebnisbericht</Term>
+      <Term>Ethikprüfung</Term>
+      <Term>Sachverhaltsabklärung</Term>
+      <Term>Untersuchungsbericht</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Compliance_Investigations_DE">
+      <Group matchStyle="word">
+      <Term>Hotline</Term>
+      <Term>Anonym</Term>
+      <Term>Repressalien</Term>
+      <Term>Disziplinarmaßnahme</Term>
+      <Term>Fallmanagement</Term>
+      <Term>Anschuldigung</Term>
+      <Term>Interviewnotizen</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="14d8effb-7684-46ad-921b-63f83c06138f">
+        <Name default="true" langcode="en-us">Compliance_Investigations_DE</Name>
+        <Description default="true" langcode="en-us">Compliance Investigations - German (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

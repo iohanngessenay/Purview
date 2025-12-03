@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="0e0a17b7-5fe6-4773-8732-c5c4b74fc9a9">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Legal_Opinion_Counsel_Memorandum_ES</Name>
+        <Description>Legal Opinion Counsel Memorandum - Spanish (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="6246001a-8f31-43b5-8530-f0d676f92bd6" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Legal_Opinion_Counsel_Memorandum_ES" />
+        <Match idRef="Keyword_Context_Legal_Opinion_Counsel_Memorandum_ES" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Legal_Opinion_Counsel_Memorandum_ES" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Legal_Opinion_Counsel_Memorandum_ES">
+      <Group matchStyle="word">
+      <Term>Legal Opinión</Term>
+      <Term>Asesor Memo</Term>
+      <Term>Advisory Note</Term>
+      <Term>Opinión Letter</Term>
+      <Term>Memorando</Term>
+      <Term>Puesto Paper</Term>
+      <Term>Stellungnahme</Term>
+      <Term>Gutachten</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Legal_Opinion_Counsel_Memorandum_ES">
+      <Group matchStyle="word">
+      <Term>Asesor</Term>
+      <Term>Abogado</Term>
+      <Term>Legal Department</Term>
+      <Term>Opinión</Term>
+      <Term>Conclusion</Term>
+      <Term>Assumptions</Term>
+      <Term>Qualifications</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="6246001a-8f31-43b5-8530-f0d676f92bd6">
+        <Name default="true" langcode="en-us">Legal_Opinion_Counsel_Memorandum_ES</Name>
+        <Description default="true" langcode="en-us">Legal Opinion Counsel Memorandum - Spanish (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

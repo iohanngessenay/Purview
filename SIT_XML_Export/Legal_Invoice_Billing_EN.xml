@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="884bccd2-981e-4924-90fd-5519805ab087">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Legal_Invoice_Billing_EN</Name>
+        <Description>Legal Invoice Billing - English (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="c4ae2b70-6106-46ce-98af-63d13b8d852f" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Legal_Invoice_Billing_EN" />
+        <Match idRef="Keyword_Context_Legal_Invoice_Billing_EN" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Legal_Invoice_Billing_EN" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Legal_Invoice_Billing_EN">
+      <Group matchStyle="word">
+      <Term>Invoice</Term>
+      <Term>Bill</Term>
+      <Term>Reference</Term>
+      <Term>Ref</Term>
+      <Term>Number</Term>
+      <Term>Invoice Number</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Legal_Invoice_Billing_EN">
+      <Group matchStyle="word">
+      <Term>Law Firm</Term>
+      <Term>Legal Fees</Term>
+      <Term>Attorney Fees</Term>
+      <Term>Hours Billed</Term>
+      <Term>Matter ID</Term>
+      <Term>Retainer</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="c4ae2b70-6106-46ce-98af-63d13b8d852f">
+        <Name default="true" langcode="en-us">Legal_Invoice_Billing_EN</Name>
+        <Description default="true" langcode="en-us">Legal Invoice Billing - English (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

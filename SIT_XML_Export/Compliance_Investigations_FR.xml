@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="2f3211a2-08af-4d2e-9269-399918c9951d">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Compliance_Investigations_FR</Name>
+        <Description>Compliance Investigations - French (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="815f5d14-0d6b-4d0f-bcf8-d797ee6e35cb" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Compliance_Investigations_FR" />
+        <Match idRef="Keyword_Context_Compliance_Investigations_FR" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Compliance_Investigations_FR" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Compliance_Investigations_FR">
+      <Group matchStyle="word">
+      <Term>Internal Enquête</Term>
+      <Term>Conformité Incident</Term>
+      <Term>Misconduct</Term>
+      <Term>Lanceur d&apos;alerte</Term>
+      <Term>Report of Findings</Term>
+      <Term>Ethics Évaluation</Term>
+      <Term>Fact-Finding</Term>
+      <Term>Enquête Report</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Compliance_Investigations_FR">
+      <Group matchStyle="word">
+      <Term>Hotline</Term>
+      <Term>Anonymous</Term>
+      <Term>Retaliation</Term>
+      <Term>Disciplinaire Action</Term>
+      <Term>Affaire Management</Term>
+      <Term>Allegation</Term>
+      <Term>Entretien Notes</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="815f5d14-0d6b-4d0f-bcf8-d797ee6e35cb">
+        <Name default="true" langcode="en-us">Compliance_Investigations_FR</Name>
+        <Description default="true" langcode="en-us">Compliance Investigations - French (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

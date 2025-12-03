@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="24c1159a-5e18-4d46-9703-860f547f83dd">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Medical_or_Health_Information_EN</Name>
+        <Description>Medical or Health Information - English (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="1f1d52e6-f74a-410f-a631-b14f932a2ee2" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Medical_or_Health_Information_EN" />
+        <Match idRef="Keyword_Context_Medical_or_Health_Information_EN" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Medical_or_Health_Information_EN" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Medical_or_Health_Information_EN">
+      <Group matchStyle="word">
+      <Term>Medical Certificate</Term>
+      <Term>Doctor&apos;s Note</Term>
+      <Term>Sickness</Term>
+      <Term>Disability</Term>
+      <Term>Illness</Term>
+      <Term>Sick Leave</Term>
+      <Term>Health Report</Term>
+      <Term>Fit for Work</Term>
+      <Term>Occupational Health</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Medical_or_Health_Information_EN">
+      <Group matchStyle="word">
+      <Term>Employee</Term>
+      <Term>HR</Term>
+      <Term>Manager</Term>
+      <Term>Absence</Term>
+      <Term>Return to Work</Term>
+      <Term>Medical</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="1f1d52e6-f74a-410f-a631-b14f932a2ee2">
+        <Name default="true" langcode="en-us">Medical_or_Health_Information_EN</Name>
+        <Description default="true" langcode="en-us">Medical or Health Information - English (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

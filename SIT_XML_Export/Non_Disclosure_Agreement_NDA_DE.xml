@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="34495bdc-eabe-42da-8a69-28ae2183de55">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Non_Disclosure_Agreement_NDA_DE</Name>
+        <Description>Non Disclosure Agreement NDA - German (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="782921cd-c130-40ca-8691-a57b8cc57344" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Non_Disclosure_Agreement_NDA_DE" />
+        <Match idRef="Keyword_Context_Non_Disclosure_Agreement_NDA_DE" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Non_Disclosure_Agreement_NDA_DE" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Non_Disclosure_Agreement_NDA_DE">
+      <Group matchStyle="word">
+      <Term>Geheimhaltungsvereinbarung</Term>
+      <Term>NDA</Term>
+      <Term>Vertraulichkeitsvereinbarung</Term>
+      <Term>Verschwiegenheitsvereinbarung</Term>
+      <Term>Geheimhaltungsverpflichtung</Term>
+      <Term>Gegenseitige Geheimhaltungsvereinbarung</Term>
+      <Term>Einseitige Geheimhaltungsvereinbarung</Term>
+      <Term>Zweiseitige Geheimhaltungsvereinbarung</Term>
+      <Term>Offenlegungsbeschränkung</Term>
+      <Term>Geschützte Information</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Non_Disclosure_Agreement_NDA_DE">
+      <Group matchStyle="word">
+      <Term>Offenlegende Partei</Term>
+      <Term>Empfangende Partei</Term>
+      <Term>Vertrauliche Informationen</Term>
+      <Term>Zweckbindung</Term>
+      <Term>Laufzeit</Term>
+      <Term>Wirksamkeitsdatum</Term>
+      <Term>Rückgabe oder Vernichtung</Term>
+      <Term>Keine Lizenz</Term>
+      <Term>Unterlassungsanspruch</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="782921cd-c130-40ca-8691-a57b8cc57344">
+        <Name default="true" langcode="en-us">Non_Disclosure_Agreement_NDA_DE</Name>
+        <Description default="true" langcode="en-us">Non Disclosure Agreement NDA - German (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

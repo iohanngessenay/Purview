@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="97720074-8d4e-4b45-a203-723ac046c36b">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Applicant_Recruiting_Data_ES</Name>
+        <Description>Applicant Recruiting Data - Spanish (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="9e067d34-0f34-45f6-b381-d6e4e87c2ea8" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Applicant_Recruiting_Data_ES" />
+        <Match idRef="Keyword_Context_Applicant_Recruiting_Data_ES" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Applicant_Recruiting_Data_ES" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Applicant_Recruiting_Data_ES">
+      <Group matchStyle="word">
+      <Term>Application</Term>
+      <Term>Curriculum Vitae</Term>
+      <Term>CV</Term>
+      <Term>Currículum</Term>
+      <Term>Candidato</Term>
+      <Term>Cover Letter</Term>
+      <Term>Motivation Letter</Term>
+      <Term>Entrevista</Term>
+      <Term>Reclutamiento</Term>
+      <Term>Contratación Process</Term>
+      <Term>Shortlist</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Applicant_Recruiting_Data_ES">
+      <Group matchStyle="word">
+      <Term>Empleo Posting</Term>
+      <Term>Requisition</Term>
+      <Term>HR</Term>
+      <Term>Talent Adquisición</Term>
+      <Term>Reference Check</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="9e067d34-0f34-45f6-b381-d6e4e87c2ea8">
+        <Name default="true" langcode="en-us">Applicant_Recruiting_Data_ES</Name>
+        <Description default="true" langcode="en-us">Applicant Recruiting Data - Spanish (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

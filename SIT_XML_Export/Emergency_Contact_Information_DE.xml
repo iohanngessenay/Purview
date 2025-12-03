@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="dbf9ca58-77a3-4ff4-a267-4126cd45fa9f">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Emergency_Contact_Information_DE</Name>
+        <Description>Emergency Contact Information - German (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="11a6401b-3228-4a22-84ea-7b4ed981551a" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Emergency_Contact_Information_DE" />
+        <Match idRef="Keyword_Context_Emergency_Contact_Information_DE" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Emergency_Contact_Information_DE" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Emergency_Contact_Information_DE">
+      <Group matchStyle="word">
+      <Term>Notfallkontakt</Term>
+      <Term>Nächster Angehöriger</Term>
+      <Term>Privatadresse</Term>
+      <Term>Private E-Mail</Term>
+      <Term>Private Telefonnummer</Term>
+      <Term>Persönlicher Kontakt</Term>
+      <Term>Beziehung</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Emergency_Contact_Information_DE">
+      <Group matchStyle="word">
+      <Term>Mitarbeiterakte</Term>
+      <Term>HR-Akte</Term>
+      <Term>Stammdaten</Term>
+      <Term>HR-System</Term>
+      <Term>Kontaktdatenblatt</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="11a6401b-3228-4a22-84ea-7b4ed981551a">
+        <Name default="true" langcode="en-us">Emergency_Contact_Information_DE</Name>
+        <Description default="true" langcode="en-us">Emergency Contact Information - German (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

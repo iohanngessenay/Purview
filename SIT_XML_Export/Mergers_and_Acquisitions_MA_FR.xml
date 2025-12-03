@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="4742436a-fd2f-4eff-9438-02a789a610cb">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Mergers_and_Acquisitions_MA_FR</Name>
+        <Description>Mergers and Acquisitions MA - French (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="c7b54c30-4659-455e-8097-7cf90c81dd21" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Mergers_and_Acquisitions_MA_FR" />
+        <Match idRef="Keyword_Context_Mergers_and_Acquisitions_MA_FR" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Mergers_and_Acquisitions_MA_FR" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Mergers_and_Acquisitions_MA_FR">
+      <Group matchStyle="word">
+      <Term>Fusion</Term>
+      <Term>Acquisition</Term>
+      <Term>M&amp;A</Term>
+      <Term>Mergers and Acquisitions</Term>
+      <Term>Due Diligence</Term>
+      <Term>Target Company</Term>
+      <Term>Valuation</Term>
+      <Term>Confidentiel Information Mémorandum</Term>
+      <Term>CIM</Term>
+      <Term>Share Purchase Accord</Term>
+      <Term>SPA</Term>
+      <Term>Asset Purchase Accord</Term>
+      <Term>APA</Term>
+      <Term>Deal Room</Term>
+      <Term>Transaction</Term>
+      <Term>Letter of Intent</Term>
+      <Term>LOI</Term>
+      <Term>Non-Binding Offer</Term>
+      <Term>NBO</Term>
+      <Term>Definitive Accord</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Mergers_and_Acquisitions_MA_FR">
+      <Group matchStyle="word">
+      <Term>Deal Team</Term>
+      <Term>Integration Plan</Term>
+      <Term>Corporate Development</Term>
+      <Term>Management Presentation</Term>
+      <Term>Virtual Data Room</Term>
+      <Term>Valuation Model</Term>
+      <Term>Closing Conditions</Term>
+      <Term>Binding Offer</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="c7b54c30-4659-455e-8097-7cf90c81dd21">
+        <Name default="true" langcode="en-us">Mergers_and_Acquisitions_MA_FR</Name>
+        <Description default="true" langcode="en-us">Mergers and Acquisitions MA - French (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

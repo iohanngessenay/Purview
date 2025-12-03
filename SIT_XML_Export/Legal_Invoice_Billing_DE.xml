@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="a882fe49-4706-4ec4-88e4-64abacf391b7">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Legal_Invoice_Billing_DE</Name>
+        <Description>Legal Invoice Billing - German (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="5fdf96eb-4b91-468f-b9aa-66a65ebabf51" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Legal_Invoice_Billing_DE" />
+        <Match idRef="Keyword_Context_Legal_Invoice_Billing_DE" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Legal_Invoice_Billing_DE" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Legal_Invoice_Billing_DE">
+      <Group matchStyle="word">
+      <Term>Rechnung</Term>
+      <Term>Beleg</Term>
+      <Term>Referenz</Term>
+      <Term>Ref</Term>
+      <Term>Nummer</Term>
+      <Term>Rechnungsnummer</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Legal_Invoice_Billing_DE">
+      <Group matchStyle="word">
+      <Term>Kanzlei</Term>
+      <Term>Rechtsgebühren</Term>
+      <Term>Anwaltsgebühren</Term>
+      <Term>Abgerechnete Stunden</Term>
+      <Term>Aktenzeichen</Term>
+      <Term>Vorschuss</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="5fdf96eb-4b91-468f-b9aa-66a65ebabf51">
+        <Name default="true" langcode="en-us">Legal_Invoice_Billing_DE</Name>
+        <Description default="true" langcode="en-us">Legal Invoice Billing - German (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="fc9fe537-c296-4474-bdd2-ef67f7e9e768">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Banking_and_Payment_Data_DE</Name>
+        <Description>Banking and Payment Data - German (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="f07b1a00-345a-482d-a5c2-b8f1f580fd07" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Banking_and_Payment_Data_DE" />
+        <Match idRef="Keyword_Context_Banking_and_Payment_Data_DE" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Banking_and_Payment_Data_DE" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Banking_and_Payment_Data_DE">
+      <Group matchStyle="word">
+      <Term>Bank</Term>
+      <Term>Konto</Term>
+      <Term>IBAN</Term>
+      <Term>Zahlung</Term>
+      <Term>Lohnkonto</Term>
+      <Term>Gehaltskonto</Term>
+      <Term>Überweisung</Term>
+      <Term>SEPA-Überweisung</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Banking_and_Payment_Data_DE">
+      <Group matchStyle="word">
+      <Term>BLZ</Term>
+      <Term>BIC</Term>
+      <Term>SWIFT</Term>
+      <Term>Bankverbindung</Term>
+      <Term>Kontoinhaber</Term>
+      <Term>Kontoauszug</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="f07b1a00-345a-482d-a5c2-b8f1f580fd07">
+        <Name default="true" langcode="en-us">Banking_and_Payment_Data_DE</Name>
+        <Description default="true" langcode="en-us">Banking and Payment Data - German (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

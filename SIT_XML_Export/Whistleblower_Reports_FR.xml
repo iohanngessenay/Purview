@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="41af75da-e2fd-45b1-9583-6cbcaa787d0f">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Whistleblower_Reports_FR</Name>
+        <Description>Whistleblower Reports - French (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="decea77c-9d15-4be3-bd04-234397a62c52" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Whistleblower_Reports_FR" />
+        <Match idRef="Keyword_Context_Whistleblower_Reports_FR" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Whistleblower_Reports_FR" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Whistleblower_Reports_FR">
+      <Group matchStyle="word">
+      <Term>Lanceur d&apos;alerte</Term>
+      <Term>Ethics Hotline</Term>
+      <Term>Incident Report</Term>
+      <Term>Misconduct</Term>
+      <Term>Anonymous Report</Term>
+      <Term>Retaliation Prevention</Term>
+      <Term>Tip-off</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Whistleblower_Reports_FR">
+      <Group matchStyle="word">
+      <Term>Enquête</Term>
+      <Term>Affaire Number</Term>
+      <Term>Follow-up</Term>
+      <Term>Confidentiel</Term>
+      <Term>Sensitive</Term>
+      <Term>Ethics</Term>
+      <Term>Hotline Affaire</Term>
+      <Term>Intake</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="decea77c-9d15-4be3-bd04-234397a62c52">
+        <Name default="true" langcode="en-us">Whistleblower_Reports_FR</Name>
+        <Description default="true" langcode="en-us">Whistleblower Reports - French (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="24df7976-7f4e-4d3d-bdef-775831883f30">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Emergency_Contact_Information_ES</Name>
+        <Description>Emergency Contact Information - Spanish (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="d5b26162-cecb-4c5c-8b05-163e83b7d131" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Emergency_Contact_Information_ES" />
+        <Match idRef="Keyword_Context_Emergency_Contact_Information_ES" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Emergency_Contact_Information_ES" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Emergency_Contact_Information_ES">
+      <Group matchStyle="word">
+      <Term>Emergencia Contacto</Term>
+      <Term>Next of Kin</Term>
+      <Term>Home Address</Term>
+      <Term>Private Email</Term>
+      <Term>Private Phone</Term>
+      <Term>Personal Contacto</Term>
+      <Term>Relationship</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Emergency_Contact_Information_ES">
+      <Group matchStyle="word">
+      <Term>Empleado Record</Term>
+      <Term>HR Record</Term>
+      <Term>Master Data</Term>
+      <Term>ERP HR</Term>
+      <Term>Contacto Sheet</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="d5b26162-cecb-4c5c-8b05-163e83b7d131">
+        <Name default="true" langcode="en-us">Emergency_Contact_Information_ES</Name>
+        <Description default="true" langcode="en-us">Emergency Contact Information - Spanish (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

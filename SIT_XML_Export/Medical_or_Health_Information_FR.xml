@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="d4e3a448-b18c-47fa-99d7-d10f4fe1930c">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Medical_or_Health_Information_FR</Name>
+        <Description>Medical or Health Information - French (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="c49a62cd-3caa-428d-bc7e-22e3062e0f68" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Medical_or_Health_Information_FR" />
+        <Match idRef="Keyword_Context_Medical_or_Health_Information_FR" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Medical_or_Health_Information_FR" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Medical_or_Health_Information_FR">
+      <Group matchStyle="word">
+      <Term>Médical Certificate</Term>
+      <Term>Doctor&apos;s Note</Term>
+      <Term>Sickness</Term>
+      <Term>Disability</Term>
+      <Term>Illness</Term>
+      <Term>Sick Leave</Term>
+      <Term>Santé Report</Term>
+      <Term>Fit for Work</Term>
+      <Term>Occupational Santé</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Medical_or_Health_Information_FR">
+      <Group matchStyle="word">
+      <Term>Employé</Term>
+      <Term>HR</Term>
+      <Term>Manager</Term>
+      <Term>Absence</Term>
+      <Term>Return to Work</Term>
+      <Term>Médical</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="c49a62cd-3caa-428d-bc7e-22e3062e0f68">
+        <Name default="true" langcode="en-us">Medical_or_Health_Information_FR</Name>
+        <Description default="true" langcode="en-us">Medical or Health Information - French (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

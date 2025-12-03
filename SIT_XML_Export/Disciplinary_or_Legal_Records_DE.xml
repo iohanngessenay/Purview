@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="070f7f71-b5c8-474f-89d9-5ab153b90b37">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Disciplinary_or_Legal_Records_DE</Name>
+        <Description>Disciplinary or Legal Records - German (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="489096c2-8294-4583-bc93-10cc5df79bc6" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Disciplinary_or_Legal_Records_DE" />
+        <Match idRef="Keyword_Context_Disciplinary_or_Legal_Records_DE" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Disciplinary_or_Legal_Records_DE" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Disciplinary_or_Legal_Records_DE">
+      <Group matchStyle="word">
+      <Term>Abmahnung</Term>
+      <Term>Suspendierung</Term>
+      <Term>Kündigung</Term>
+      <Term>Fehlverhalten</Term>
+      <Term>Beschwerde</Term>
+      <Term>Disziplinarisch</Term>
+      <Term>Untersuchung</Term>
+      <Term>Abschlussverwarnung</Term>
+      <Term>Leistungsverbesserungsplan</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Disciplinary_or_Legal_Records_DE">
+      <Group matchStyle="word">
+      <Term>HR-Fall</Term>
+      <Term>Anhörung</Term>
+      <Term>Besprechungsnotizen</Term>
+      <Term>Verstoß</Term>
+      <Term>Richtlinienverstoß</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="489096c2-8294-4583-bc93-10cc5df79bc6">
+        <Name default="true" langcode="en-us">Disciplinary_or_Legal_Records_DE</Name>
+        <Description default="true" langcode="en-us">Disciplinary or Legal Records - German (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

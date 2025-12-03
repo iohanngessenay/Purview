@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="939a0233-3271-40a5-b351-2ff8358d9f44">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Intellectual_Property_Patent_Data_FR</Name>
+        <Description>Intellectual Property Patent Data - French (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="d8bb294b-43d4-42a3-8246-85b7c0fb0e21" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Intellectual_Property_Patent_Data_FR" />
+        <Match idRef="Keyword_Context_Intellectual_Property_Patent_Data_FR" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Intellectual_Property_Patent_Data_FR" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Intellectual_Property_Patent_Data_FR">
+      <Group matchStyle="word">
+      <Term>Brevet</Term>
+      <Term>Brevet Application</Term>
+      <Term>Marque</Term>
+      <Term>Intellectual Property</Term>
+      <Term>Copyright</Term>
+      <Term>Design Registration</Term>
+      <Term>IP Portfolio</Term>
+      <Term>Invention Disclosure</Term>
+      <Term>Brevet Pending</Term>
+      <Term>Utility Model</Term>
+      <Term>Registered Design</Term>
+      <Term>Brevet Claim</Term>
+      <Term>Prior Art</Term>
+      <Term>WIPO</Term>
+      <Term>EPO</Term>
+      <Term>USPTO</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Intellectual_Property_Patent_Data_FR">
+      <Group matchStyle="word">
+      <Term>R&amp;D</Term>
+      <Term>Engineering</Term>
+      <Term>Prototype</Term>
+      <Term>Technical Specification</Term>
+      <Term>Blueprint</Term>
+      <Term>Laboratory Notebook</Term>
+      <Term>Technology Transfer</Term>
+      <Term>Licensing Accord</Term>
+      <Term>Proprietary</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="d8bb294b-43d4-42a3-8246-85b7c0fb0e21">
+        <Name default="true" langcode="en-us">Intellectual_Property_Patent_Data_FR</Name>
+        <Description default="true" langcode="en-us">Intellectual Property Patent Data - French (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

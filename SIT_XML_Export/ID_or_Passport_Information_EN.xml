@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="67232353-659a-4ca7-a3c8-dcbcc61430b6">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>ID_or_Passport_Information_EN</Name>
+        <Description>ID or Passport Information - English (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="a86cdfc8-46de-4713-97f4-79a29ea49ce8" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_ID_or_Passport_Information_EN" />
+        <Match idRef="Keyword_Context_ID_or_Passport_Information_EN" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_ID_or_Passport_Information_EN" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_ID_or_Passport_Information_EN">
+      <Group matchStyle="word">
+      <Term>Passport</Term>
+      <Term>ID Card</Term>
+      <Term>Work Permit</Term>
+      <Term>Residence Permit</Term>
+      <Term>Visa</Term>
+      <Term>Identity Document</Term>
+      <Term>National ID</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_ID_or_Passport_Information_EN">
+      <Group matchStyle="word">
+      <Term>Document Number</Term>
+      <Term>Expiry Date</Term>
+      <Term>Issuing Authority</Term>
+      <Term>Scan</Term>
+      <Term>Copy of Passport</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="a86cdfc8-46de-4713-97f4-79a29ea49ce8">
+        <Name default="true" langcode="en-us">ID_or_Passport_Information_EN</Name>
+        <Description default="true" langcode="en-us">ID or Passport Information - English (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

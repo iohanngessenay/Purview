@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="a62374c8-11c8-47a7-96c1-5d21efdefd78">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Regulatory_and_Compliance_References_DE</Name>
+        <Description>Regulatory and Compliance References - German (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="4f793d5c-40cd-426a-9658-eb3983284c25" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Regulatory_and_Compliance_References_DE" />
+        <Match idRef="Keyword_Context_Regulatory_and_Compliance_References_DE" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Regulatory_and_Compliance_References_DE" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Regulatory_and_Compliance_References_DE">
+      <Group matchStyle="word">
+      <Term>DSGVO</Term>
+      <Term>Datenschutz-Grundverordnung</Term>
+      <Term>DSG</Term>
+      <Term>Schweizer Datenschutzgesetz</Term>
+      <Term>FINMA</Term>
+      <Term>Sarbanes-Oxley</Term>
+      <Term>ISO 27001</Term>
+      <Term>PCI DSS</Term>
+      <Term>NIST</Term>
+      <Term>FISMA</Term>
+      <Term>CCPA</Term>
+      <Term>LGPD</Term>
+      <Term>Basel III</Term>
+      <Term>MiFID II</Term>
+      <Term>Datenschutzgesetz</Term>
+      <Term>Aufsichtsbehörde</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Regulatory_and_Compliance_References_DE">
+      <Group matchStyle="word">
+      <Term>Compliance</Term>
+      <Term>Regulierung</Term>
+      <Term>Prüfung</Term>
+      <Term>Auditfeststellung</Term>
+      <Term>Risikobericht</Term>
+      <Term>Risikobewertung</Term>
+      <Term>Rechtliche Verpflichtung</Term>
+      <Term>Kontrolle</Term>
+      <Term>Kontrollversagen</Term>
+      <Term>Maßnahmenplan</Term>
+      <Term>Zertifizierung</Term>
+      <Term>Konformität</Term>
+      <Term>Richtlinienverstoß</Term>
+      <Term>Meldepflicht</Term>
+      <Term>Compliance-Prüfung</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="4f793d5c-40cd-426a-9658-eb3983284c25">
+        <Name default="true" langcode="en-us">Regulatory_and_Compliance_References_DE</Name>
+        <Description default="true" langcode="en-us">Regulatory and Compliance References - German (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

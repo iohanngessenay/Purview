@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="e753f427-e8f1-4c0a-9dea-b9298e59fb5b">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Employee_Contract_Employment_Terms_ES</Name>
+        <Description>Employee Contract Employment Terms - Spanish (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="8b70fc30-f6f7-490b-9d08-6e8351d738a0" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Employee_Contract_Employment_Terms_ES" />
+        <Match idRef="Keyword_Context_Employee_Contract_Employment_Terms_ES" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Employee_Contract_Employment_Terms_ES" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Employee_Contract_Employment_Terms_ES">
+      <Group matchStyle="word">
+      <Term>Employment Contrato</Term>
+      <Term>Employment Acuerdo</Term>
+      <Term>Hire Date</Term>
+      <Term>Notice Period</Term>
+      <Term>Empleo Title</Term>
+      <Term>Puesto</Term>
+      <Term>Probation</Term>
+      <Term>Termination</Term>
+      <Term>Severance</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Employee_Contract_Employment_Terms_ES">
+      <Group matchStyle="word">
+      <Term>Empleado</Term>
+      <Term>Personal</Term>
+      <Term>Worker</Term>
+      <Term>Manager</Term>
+      <Term>HR</Term>
+      <Term>Signature</Term>
+      <Term>Effective Date</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="8b70fc30-f6f7-490b-9d08-6e8351d738a0">
+        <Name default="true" langcode="en-us">Employee_Contract_Employment_Terms_ES</Name>
+        <Description default="true" langcode="en-us">Employee Contract Employment Terms - Spanish (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

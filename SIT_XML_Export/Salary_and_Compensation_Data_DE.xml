@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="73312d39-f1d3-4164-99bc-467be523d8de">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Salary_and_Compensation_Data_DE</Name>
+        <Description>Salary and Compensation Data - German (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="58864a34-4d56-4ba0-95b0-07827864d9cb" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Salary_and_Compensation_Data_DE" />
+        <Match idRef="Keyword_Context_Salary_and_Compensation_Data_DE" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Salary_and_Compensation_Data_DE" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Salary_and_Compensation_Data_DE">
+      <Group matchStyle="word">
+      <Term>Gehalt</Term>
+      <Term>Lohn</Term>
+      <Term>Lohnabrechnung</Term>
+      <Term>Bonus</Term>
+      <Term>Vergütung</Term>
+      <Term>Bruttolohn</Term>
+      <Term>Nettolohn</Term>
+      <Term>Lohnzettel</Term>
+      <Term>13. Monatslohn</Term>
+      <Term>Provision</Term>
+      <Term>Fixlohn</Term>
+      <Term>Variabler Lohn</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Salary_and_Compensation_Data_DE">
+      <Group matchStyle="word">
+      <Term>Gehaltsrunde</Term>
+      <Term>Vergütungsplan</Term>
+      <Term>Jahresgespräch</Term>
+      <Term>Gesamtvergütung</Term>
+      <Term>Lohnkonto</Term>
+      <Term>Band</Term>
+      <Term>Stufe</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="58864a34-4d56-4ba0-95b0-07827864d9cb">
+        <Name default="true" langcode="en-us">Salary_and_Compensation_Data_DE</Name>
+        <Description default="true" langcode="en-us">Salary and Compensation Data - German (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

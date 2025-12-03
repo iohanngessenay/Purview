@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="be4efc76-2c92-4fbf-901d-f9f5485eb8fa">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Regulatory_Filings_Submissions_ES</Name>
+        <Description>Regulatory Filings Submissions - Spanish (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="6cb4e8d8-a393-466f-9eb3-feead0978e15" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Regulatory_Filings_Submissions_ES" />
+        <Match idRef="Keyword_Context_Regulatory_Filings_Submissions_ES" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Regulatory_Filings_Submissions_ES" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Regulatory_Filings_Submissions_ES">
+      <Group matchStyle="word">
+      <Term>Regulatorio Presentación</Term>
+      <Term>Presentación</Term>
+      <Term>Prospectus</Term>
+      <Term>Disclosure</Term>
+      <Term>SEC Form</Term>
+      <Term>FINMA Presentación</Term>
+      <Term>Report to Authority</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Regulatory_Filings_Submissions_ES">
+      <Group matchStyle="word">
+      <Term>Form</Term>
+      <Term>Presentación No</Term>
+      <Term>Presentación Number</Term>
+      <Term>Presentación ID</Term>
+      <Term>Attachment</Term>
+      <Term>Annex</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="6cb4e8d8-a393-466f-9eb3-feead0978e15">
+        <Name default="true" langcode="en-us">Regulatory_Filings_Submissions_ES</Name>
+        <Description default="true" langcode="en-us">Regulatory Filings Submissions - Spanish (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

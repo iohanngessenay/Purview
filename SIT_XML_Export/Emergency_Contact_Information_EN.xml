@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="91366328-ae16-4efd-a450-143a3c2e9cb2">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Emergency_Contact_Information_EN</Name>
+        <Description>Emergency Contact Information - English (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="7996d311-0f5a-48c7-b13e-bbddf7605933" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Emergency_Contact_Information_EN" />
+        <Match idRef="Keyword_Context_Emergency_Contact_Information_EN" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Emergency_Contact_Information_EN" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Emergency_Contact_Information_EN">
+      <Group matchStyle="word">
+      <Term>Emergency Contact</Term>
+      <Term>Next of Kin</Term>
+      <Term>Home Address</Term>
+      <Term>Private Email</Term>
+      <Term>Private Phone</Term>
+      <Term>Personal Contact</Term>
+      <Term>Relationship</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Emergency_Contact_Information_EN">
+      <Group matchStyle="word">
+      <Term>Employee Record</Term>
+      <Term>HR Record</Term>
+      <Term>Master Data</Term>
+      <Term>ERP HR</Term>
+      <Term>Contact Sheet</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="7996d311-0f5a-48c7-b13e-bbddf7605933">
+        <Name default="true" langcode="en-us">Emergency_Contact_Information_EN</Name>
+        <Description default="true" langcode="en-us">Emergency Contact Information - English (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

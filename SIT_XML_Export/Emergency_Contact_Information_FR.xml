@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="20058b6a-b5ea-46fe-b17e-8d684e5d6948">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Emergency_Contact_Information_FR</Name>
+        <Description>Emergency Contact Information - French (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="ee52c7f4-e548-4e00-9fcb-70b4d4792e39" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Emergency_Contact_Information_FR" />
+        <Match idRef="Keyword_Context_Emergency_Contact_Information_FR" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Emergency_Contact_Information_FR" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Emergency_Contact_Information_FR">
+      <Group matchStyle="word">
+      <Term>Urgence Contact</Term>
+      <Term>Next of Kin</Term>
+      <Term>Home Address</Term>
+      <Term>Private Email</Term>
+      <Term>Private Phone</Term>
+      <Term>Personal Contact</Term>
+      <Term>Relationship</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Emergency_Contact_Information_FR">
+      <Group matchStyle="word">
+      <Term>Employé Record</Term>
+      <Term>HR Record</Term>
+      <Term>Master Data</Term>
+      <Term>ERP HR</Term>
+      <Term>Contact Sheet</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="ee52c7f4-e548-4e00-9fcb-70b4d4792e39">
+        <Name default="true" langcode="en-us">Emergency_Contact_Information_FR</Name>
+        <Description default="true" langcode="en-us">Emergency Contact Information - French (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

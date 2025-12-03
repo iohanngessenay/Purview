@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="354d847f-98c4-463f-a4fa-ec45bc98fe4a">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Expense_or_Reimbursement_Records_DE</Name>
+        <Description>Expense or Reimbursement Records - German (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="0ddce665-8d8a-4859-9b8b-b5e5630c372c" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Expense_or_Reimbursement_Records_DE" />
+        <Match idRef="Keyword_Context_Expense_or_Reimbursement_Records_DE" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Expense_or_Reimbursement_Records_DE" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Expense_or_Reimbursement_Records_DE">
+      <Group matchStyle="word">
+      <Term>Spesenabrechnung</Term>
+      <Term>Kostenerstattung</Term>
+      <Term>Reisekostenabrechnung</Term>
+      <Term>Kilometergeld</Term>
+      <Term>Hotel</Term>
+      <Term>Transport</Term>
+      <Term>Tagesspesen</Term>
+      <Term>Beleg</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Expense_or_Reimbursement_Records_DE">
+      <Group matchStyle="word">
+      <Term>Kostenstelle</Term>
+      <Term>Sachkonto</Term>
+      <Term>Freigabe</Term>
+      <Term>Spesenrichtlinie</Term>
+      <Term>Firmenkarte</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="0ddce665-8d8a-4859-9b8b-b5e5630c372c">
+        <Name default="true" langcode="en-us">Expense_or_Reimbursement_Records_DE</Name>
+        <Description default="true" langcode="en-us">Expense or Reimbursement Records - German (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>

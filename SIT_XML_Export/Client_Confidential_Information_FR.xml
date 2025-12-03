@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
+  <RulePack id="fb09ded5-5e9b-480c-afe4-9d290589e207">
+    <Version major="1" minor="0" build="0" revision="0" />
+    <Publisher id="00000000-0000-0000-0000-000000000000" />
+    <Details defaultLangCode="en-us">
+      <LocalizedDetails langcode="en-us">
+        <PublisherName>PurviewInsights SIT</PublisherName>
+        <Name>Client_Confidential_Information_FR</Name>
+        <Description>Client Confidential Information - French (Custom SIT for Microsoft Purview)</Description>
+      </LocalizedDetails>
+    </Details>
+  </RulePack>
+  <Rules>
+    <Entity id="db1bfb5f-0a1f-432d-80a3-9093688b909a" patternsProximity="300" recommendedConfidence="85">
+      <Pattern confidenceLevel="85">
+        <IdMatch idRef="Keyword_Primary_Client_Confidential_Information_FR" />
+        <Match idRef="Keyword_Context_Client_Confidential_Information_FR" />
+      </Pattern>
+      <Pattern confidenceLevel="75">
+        <IdMatch idRef="Keyword_Primary_Client_Confidential_Information_FR" />
+      </Pattern>
+    </Entity>
+    <Keyword id="Keyword_Primary_Client_Confidential_Information_FR">
+      <Group matchStyle="word">
+      <Term>Client Confidentiel</Term>
+      <Term>Confidentiel Information</Term>
+      <Term>Privilégié</Term>
+      <Term>Attorney-Client</Term>
+      <Term>Privilégié and Confidentiel</Term>
+      <Term>Confidentiel Communication</Term>
+      <Term>Strictly Confidentiel</Term>
+      <Term>Internal Use Only</Term>
+      <Term>Proprietary Information</Term>
+      <Term>Client Matter</Term>
+      <Term>Client File</Term>
+      </Group>
+    </Keyword>    <Keyword id="Keyword_Context_Client_Confidential_Information_FR">
+      <Group matchStyle="word">
+      <Term>Law Firm</Term>
+      <Term>Conseil</Term>
+      <Term>Avocat</Term>
+      <Term>Juridique Department</Term>
+      <Term>In-House Conseil</Term>
+      <Term>External Conseil</Term>
+      <Term>Matter Number</Term>
+      <Term>Do Not Distribute</Term>
+      <Term>Restricted Access</Term>
+      <Term>Juridique Advice</Term>
+      </Group>
+    </Keyword>
+    <LocalizedStrings>
+      <Resource idRef="db1bfb5f-0a1f-432d-80a3-9093688b909a">
+        <Name default="true" langcode="en-us">Client_Confidential_Information_FR</Name>
+        <Description default="true" langcode="en-us">Client Confidential Information - French (Custom SIT for Microsoft Purview)</Description>
+      </Resource>
+    </LocalizedStrings>
+  </Rules>
+</RulePackage>
