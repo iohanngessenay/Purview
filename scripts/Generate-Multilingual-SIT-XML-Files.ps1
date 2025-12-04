@@ -279,7 +279,7 @@ $contextKeywordXml
 
     # Build complete XML with proper schema
     $xml = @"
-<?xml version="1.0" encoding="utf-16"?>
+<?xml version="1.0" encoding="utf-8"?>
 <RulePackage xmlns="http://schemas.microsoft.com/office/2011/mce">
   <RulePack id="$sitGuid">
     <Version major="1" minor="0" build="0" revision="0" />
@@ -306,12 +306,13 @@ $primaryMatchXml$contextMatchXml
 </RulePackage>
 "@
 
-    # Write XML file with UTF-16 encoding (required by Microsoft Purview)
+    # Write XML file with UTF-8 BOM encoding (required by Microsoft Purview)
     $outputFileName = "$sitName.xml" -replace '\[|\]', '' -replace '/', '-'  # Remove brackets and replace slashes
     $outputFilePath = Join-Path $OutputPath $outputFileName
 
-    # Use UTF-16 encoding as required by schema
-    [System.IO.File]::WriteAllText($outputFilePath, $xml, [System.Text.Encoding]::Unicode)
+    # Use UTF-8 with BOM encoding as required by schema
+    $utf8WithBom = New-Object System.Text.UTF8Encoding $true
+    [System.IO.File]::WriteAllText($outputFilePath, $xml, $utf8WithBom)
 
     $generatedCount++
     $langList = ($foundLanguages | ForEach-Object { $_.ToUpper() }) -join "/"

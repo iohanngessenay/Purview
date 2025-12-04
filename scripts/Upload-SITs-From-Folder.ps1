@@ -68,7 +68,7 @@ Write-Host "    [OK] Upload folder exists: $InputPath" -ForegroundColor Green
 # Step 2: Discover XML files
 Write-Host "`n[2/5] Discovering SIT XML files..." -ForegroundColor Cyan
 
-$allXmlFiles = Get-ChildItem -Path $InputPath -Filter "*.xml" -ErrorAction SilentlyContinue
+$allXmlFiles = @(Get-ChildItem -Path $InputPath -Filter "*.xml" -ErrorAction SilentlyContinue)
 
 if ($allXmlFiles.Count -eq 0) {
     Write-Host "    [WARNING] No XML files found in upload folder" -ForegroundColor Yellow
@@ -129,9 +129,9 @@ foreach ($file in $allXmlFiles) {
     }
 }
 
-Write-Host "`n    Valid: $($validFiles.Count) | Invalid: $($invalidFiles.Count)" -ForegroundColor Gray
+Write-Host "`n    Valid: $(@($validFiles).Count) | Invalid: $(@($invalidFiles).Count)" -ForegroundColor Gray
 
-if ($validFiles.Count -eq 0) {
+if (@($validFiles).Count -eq 0) {
     Write-Host "    [ERROR] No valid XML files to upload" -ForegroundColor Red
     exit 1
 }
@@ -173,13 +173,11 @@ foreach ($file in $validFiles) {
     }
     
     try {
-        # Read XML content
-        [xml]$xmlContent = Get-Content $file.FullName -Raw
+        # Read XML file as bytes to preserve UTF-8 BOM
+        $fileBytes = [System.IO.File]::ReadAllBytes($file.FullName)
         
         # Upload using New-DlpSensitiveInformationTypeRulePackage
-        $rulePackageXml = $xmlContent.OuterXml
-        
-        New-DlpSensitiveInformationTypeRulePackage -FileData ([System.Text.Encoding]::UTF8.GetBytes($rulePackageXml)) -ErrorAction Stop | Out-Null
+        New-DlpSensitiveInformationTypeRulePackage -FileData $fileBytes -ErrorAction Stop | Out-Null
         
         Write-Host "    [OK] $sitName" -ForegroundColor Green
         $uploadResults.Success += $sitName
@@ -207,11 +205,11 @@ foreach ($file in $validFiles) {
 
 # Step 6: Summary
 Write-Host "\nUpload summary:" -ForegroundColor Cyan
-Write-Host "    Success: $($uploadResults.Success.Count)" -ForegroundColor Green
-Write-Host "    Skipped: $($uploadResults.Skipped.Count)" -ForegroundColor Yellow
-Write-Host "    Failed: $($uploadResults.Failed.Count)" -ForegroundColor $(if ($uploadResults.Failed.Count -gt 0) { "Red" } else { "Gray" })
+Write-Host "    Success: $(@($uploadResults.Success).Count)" -ForegroundColor Green
+Write-Host "    Skipped: $(@($uploadResults.Skipped).Count)" -ForegroundColor Yellow
+Write-Host "    Failed: $(@($uploadResults.Failed).Count)" -ForegroundColor $(if (@($uploadResults.Failed).Count -gt 0) { "Red" } else { "Gray" })
 
-if ($uploadResults.Failed.Count -gt 0) {
+if (@($uploadResults.Failed).Count -gt 0) {
     Write-Host "`nFailed uploads:" -ForegroundColor Red
     $uploadResults.Failed | ForEach-Object {
         Write-Host "    - $($_.SIT): $($_.Error)" -ForegroundColor Red
