@@ -1,24 +1,31 @@
-Lawsuit
+Procès
 Contentieux
-Complaint
-Affaire Number
-Defendant
-Plaintiff
-Subpoena
-Tribunal Order
-Proceedings
-Arbitration
-Mediation
-Settlement
-Statement of Claim
-Notice of Appeal
-Writ of Summons
-Counterclaim
-Judgment
-Ruling
+Action en Justice
+Plainte
+Numéro d'Affaire
+Défendeur
+Demandeur
+Assignation à Comparaître
+Ordonnance du Tribunal
+Procédure
+Arbitrage
+Médiation
+Règlement Amiable
+Déclaration de Créance
+Avis d'Appel
+Assignation
+Demande Reconventionnelle
+Jugement
+Décision
 Verdict
-Deposition
-Discovery
-Hearing
-Trial
-Pleadings
+Déposition
+Découverte
+Audience
+Procès
+Plaidoiries
+Requete
+Mémoire
+Attestation
+Pièce à Conviction
+Preuve
+Témoignage

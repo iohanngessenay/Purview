@@ -1,0 +1,25 @@
+Stipendio
+Bonus
+Retribuzione
+RAL
+Retribuzione Annua Lorda
+Stipendio Lordo
+Stipendio Netto
+Tredicesima
+Quattordicesima
+Commissione
+Retribuzione Base
+Retribuzione Variabile
+Aumento al Merito
+Incentivo
+Retribuzione Annuale
+Tariffa Oraria
+Straordinario
+Benefici
+Pensione
+Revisione Stipendio
+Revisione Annuale
+Ricompense Totali
+Conto Stipendio
+Fascia
+Livello

@@ -1,6 +1,16 @@
-Sort Code
-BIC
-SWIFT
-Banque Details
-Compte Holder
-Banque Statement
+Banque
+Compte
+Paiement
+Compte Salaire
+Compte Paie
+Virement
+Remise
+Virement Bancaire
+Coordonnées Bancaires
+Mode de Paiement
+Compte Courant
+Compte Épargne
+Prélèvement
+Dépôt Direct
+Titulaire du compte
+Relevé bancaire

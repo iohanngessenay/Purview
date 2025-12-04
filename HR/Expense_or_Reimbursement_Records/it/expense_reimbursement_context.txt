@@ -1,0 +1,20 @@
+Rimborso
+Chilometraggio
+Hotel
+Trasporto
+Diaria
+Ricevuta
+Spese Aziendali
+Spese di Viaggio
+Indendità Pasto
+Piccola Cassa
+Fattura
+IVA
+Giustificativo
+Tariffa Chilometrica
+Alloggio
+Centro di Costo
+Codice Contabile
+Approvazione
+Policy Spese
+Carta Aziendale

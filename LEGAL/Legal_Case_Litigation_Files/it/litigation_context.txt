@@ -1,0 +1,14 @@
+Tribunale
+Giudice
+Avvocato
+Consulente Legale Generale
+Paralegale
+Ruolo
+Deposito
+ID Caso
+Fascicolo
+Team Legale
+Procuratore
+Difensore
+Pubblico Ministero
+Difesa

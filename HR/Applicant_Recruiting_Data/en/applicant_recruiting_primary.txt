@@ -1,11 +1,10 @@
-Application
+Job Application
 Curriculum Vitae
 CV
 Resume
-Candidate
+Resumé
 Cover Letter
 Motivation Letter
-Interview
-Recruitment
-Hiring Process
-Shortlist
+Job Offer
+Offer Letter
+Reference Check Letter

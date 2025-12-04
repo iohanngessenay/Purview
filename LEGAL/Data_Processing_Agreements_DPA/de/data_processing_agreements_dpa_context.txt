@@ -1,5 +1,14 @@
-Personenbezogene Daten
+Verantwortlicher
+Auftragsverarbeiter
+Unterauftragsverarbeiter
+Gemeinsame Verantwortliche
 Betroffene Person
+Datenschutzverletzung
+DSB
+Datenschutzbeauftragter
+Verarbeitungsverzeichnis
+Datenübermittlung
+Personenbezogene Daten
 Internationale Übermittlung
 Anlage
 Technische und organisatorische Maßnahmen

@@ -1,6 +1,14 @@
-Sort Code
-BIC
-SWIFT
-Banco Details
-Cuenta Holder
-Banco Statement
+Banco
+Cuenta
+Pago
+Cuenta de Salario
+Cuenta de Nómina
+Transferencia
+Remesa
+Transferencia Bancaria
+Datos Bancarios
+Método de Pago
+Cuenta Corriente
+Cuenta de Ahorros
+Domiciliación
+Depósito Directo

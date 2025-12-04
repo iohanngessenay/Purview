@@ -1,9 +1,8 @@
 Medical Certificate
 Doctor's Note
-Sickness
-Disability
-Illness
-Sick Leave
-Health Report
 Fit for Work
-Occupational Health
+Unfit for Work
+Fitness Certificate
+Health Report
+Occupational Health Report
+Medical Examination Report

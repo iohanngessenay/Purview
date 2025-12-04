@@ -1,12 +1,6 @@
-Salario
+Recibo de Nómina
 Nómina
-Bonus
-Compensación
-Gross Salario
-Net Salario
-Pay Slip
-13th Month
-Commission
-Base Pay
-Variable Pay
-Merit Increase
+Formulario de Nómina
+Carta de Compensación
+Carta de Bonus
+Plan de Compensación

@@ -1,0 +1,17 @@
+Numero Caso
+Numero Fascicolo
+Numero Ruolo
+ID Caso
+Riferimento Tribunale
+Numero Procedimento
+Archivio Giudiziario
+Citazione
+Azione Civile
+Caso Penale
+Registro Tribunale
+Numero Causa
+Numero Ricorso
+Riferimento Sentenza
+Numero Appello
+RG
+RGNR

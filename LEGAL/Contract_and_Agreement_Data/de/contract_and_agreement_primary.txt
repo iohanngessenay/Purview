@@ -1,21 +1,20 @@
-Vertrag
-Vereinbarung
-Allgemeine Geschäftsbedingungen
-AGB
-Rahmenvertrag
 Hauptdienstleistungsvertrag
+MSA
+Rahmenvertrag
 Leistungsbeschreibung
 Statement of Work
 SOW
+Beauftragungsbrief
 Nachtrag
 Amendment
 Zusatzvereinbarung
-Kündigungsklausel
-Dienstleistungsvertrag
-Kaufvertrag
-Beauftragungsbrief
 Arbeitsauftrag
 Änderungsauftrag
 Bestellformular
 Anlage
 Anhang
+SLA
+Service Level Agreement
+Verlängerung
+Gültigkeitsdatum
+Unterzeichnung

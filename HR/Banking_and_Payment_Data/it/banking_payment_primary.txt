@@ -1,0 +1,7 @@
+IBAN
+BIC
+SWIFT
+Codice SWIFT
+SEPA
+ABI
+CAB

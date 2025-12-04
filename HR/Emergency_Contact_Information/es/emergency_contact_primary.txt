@@ -1,7 +1,6 @@
-Emergencia Contacto
-Next of Kin
-Home Address
-Private Email
-Private Phone
-Personal Contacto
-Relationship
+Contacto de Emergencia
+Familiar Más Cercano
+Emergencia
+Número de Emergencia
+Contacto ICE
+Teléfono de Emergencia

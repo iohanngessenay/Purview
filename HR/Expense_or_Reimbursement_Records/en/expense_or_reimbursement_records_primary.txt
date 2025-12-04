@@ -1,8 +1,7 @@
 Expense Report
-Reimbursement
+Expense Claim
 Travel Claim
-Mileage
-Hotel
-Transport
-Per Diem
-Receipt
+Expense Form
+Claim Form
+Reimbursement Form
+Expense Receipt

@@ -1,0 +1,16 @@
+Avvertimento
+Sospensione
+Licenziamento
+Cattiva Condotta
+Reclamo
+Disciplinare
+Indagine
+Provvedimento Disciplinare
+Rapporto di Incidente
+Azione Disciplinare
+Procedura Disciplinare
+Caso HR
+Udienza
+Note Riunione
+Violazione
+Violazione Policy

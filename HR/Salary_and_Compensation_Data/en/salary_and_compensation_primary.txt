@@ -1,12 +1,8 @@
-Salary
-Payroll
-Bonus
-Compensation
-Gross Salary
-Net Salary
 Pay Slip
-13th Month
-Commission
-Base Pay
-Variable Pay
-Merit Increase
+Payslip
+Salary Statement
+Compensation Letter
+Offer Letter
+Bonus Letter
+Compensation Plan
+Salary Review Letter

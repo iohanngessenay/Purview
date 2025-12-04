@@ -1,8 +1,8 @@
 Leistungsbeurteilung
-Mitarbeitergespräch
-Feedback
-Entwicklungsplan
-Bewertung
+Mitarbeiterbeurteilung
 Jahresgespräch
-Zielvereinbarung
-Zielsetzung
+Jahresevaluation
+Zwischenevaluation
+360-Grad-Feedback
+Selbstbewertung
+Beurteilungsformular

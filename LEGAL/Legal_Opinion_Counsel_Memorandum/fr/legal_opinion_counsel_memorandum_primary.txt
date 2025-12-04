@@ -1,8 +1,17 @@
-Juridique Avis
-Conseil Memo
-Advisory Note
-Avis Letter
+Avis Juridique
+Mémorandum de Conseil
+Note Consultative
+Lettre d'Avis
 Mémorandum
-Poste Paper
-Stellungnahme
-Gutachten
+Document de Position
+Prise de Position
+Expertise Juridique
+Note Juridique
+Note de Conseil
+Analyse Juridique
+Mémoire
+Opinion du Conseil
+Évaluation Juridique
+Note Stratégique
+Évaluation des Risques
+Analyse de Cas

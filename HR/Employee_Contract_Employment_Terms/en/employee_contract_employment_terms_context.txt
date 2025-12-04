@@ -1,3 +1,18 @@
+Hire Date
+Start Date
+Notice Period
+Job Title
+Position
+Probation
+Probationary Period
+Termination
+Severance
+Full-time
+Part-time
+Permanent
+Temporary
+Fixed-term
+Terms of Employment
 Employee
 Staff
 Worker

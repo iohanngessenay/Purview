@@ -1,7 +1,13 @@
+Sécurité Sociale
+N° Ass. Sociale
+Assurance-Vieillesse et Survivants
+Sécurité Sociale Suisse
+AI
+Assurance-Invalidité
 Employé
 Paie
-HR
-Onboarding
-Identity Document
-Copy of ID
-National ID
+RH
+Intégration
+Document d'identité
+Copie de pièce d'identité
+Pièce d'identité nationale

@@ -1,20 +1,27 @@
 Fusión
 Adquisición
-M&A
-Mergers and Acquisitions
-Due Diligence
-Target Company
-Valuation
-Confidencial Information Memorando
-CIM
-Share Purchase Acuerdo
-SPA
-Asset Purchase Acuerdo
-APA
-Deal Room
-Transaction
-Letter of Intent
-LOI
-Non-Binding Offer
-NBO
-Definitive Acuerdo
+OPA
+Oferta Pública de Adquisición
+F&A
+Fusiones y Adquisiciones
+Debida Diligencia
+Empresa Objetivo
+Adquirente
+Valoración
+Memorandum de Información Confidencial
+MIC
+Acuerdo de Compra de Acciones
+ACA
+Acuerdo de Compra de Activos
+Sala de Datos
+Data Room
+Transacción
+Carta de Intención
+CDI
+Oferta No Vinculante
+ONV
+Acuerdo Definitivo
+Cierre
+Completion
+Earn-out
+Fideicomiso

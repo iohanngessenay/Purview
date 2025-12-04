@@ -1,17 +1,15 @@
-Sanction
-Sanctions
-Embargo
-Export Control
-Restricted Party
-Denied Entity
-Blocked Person
 SDN List
+Specially Designated Nationals
 OFAC
-EU Sanctions
-UN Sanctions
-UK Sanctions
-BIS
+EU Sanctions List
+UN Sanctions List
+UK Sanctions List
+BIS Denied Entities List
 EAR
 ITAR
-SECO
-Dual Use Goods
+SECO Sanctions
+License Requirement
+Export License
+Screening
+Sanctions Screening
+Denied Parties List

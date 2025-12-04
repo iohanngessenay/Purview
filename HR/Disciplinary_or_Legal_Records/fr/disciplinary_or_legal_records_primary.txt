@@ -1,9 +1,8 @@
-Warning
-Suspension
-Termination
-Misconduct
-Complaint
-Disciplinaire
-Enquête
-Final Written Warning
-Performance Improvement Plan
+Plan d'Amélioration des Performances
+Dernier Avertissement Écrit
+Avertissement Écrit
+Avertissement Verbal
+Lettre de Licenciement
+Licenciement
+Blâme
+Réclamation

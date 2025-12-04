@@ -1,6 +1,7 @@
+Número AHV
+Número AVS
 AHV
 AVS
-Seguro Number
-Social Security Number
-Social Security
-Social Ins. No.
+Número de Seguridad Social
+Número de 13 dígitos
+Nº Seguro Social

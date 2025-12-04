@@ -1,12 +1,6 @@
-Gehalt
-Lohn
 Lohnabrechnung
-Bonus
-Vergütung
-Bruttolohn
-Nettolohn
 Lohnzettel
-13. Monatslohn
-Provision
-Fixlohn
-Variabler Lohn
+Gehaltsabrechnung
+Gehaltsmitteilung
+Vergütungsbrief
+Bonusbrief

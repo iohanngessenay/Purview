@@ -1,10 +1,10 @@
-Disclosing Party
-Receiving Party
-Confidentiel Information
-Use Limitation
-Term
-Effective Date
-Purpose
-Return or Destroy
-No License
-Injunction
+Partie divulgatrice
+Partie réceptrice
+Information confidentielle
+Limitation d'utilisation
+Durée
+Date d'effet
+Objet
+Restitution ou destruction
+Aucune licence
+Injonction

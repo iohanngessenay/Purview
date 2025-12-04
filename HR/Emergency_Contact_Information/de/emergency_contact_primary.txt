@@ -1,7 +1,6 @@
 Notfallkontakt
 Nächster Angehöriger
-Privatadresse
-Private E-Mail
-Private Telefonnummer
-Persönlicher Kontakt
-Beziehung
+Notfall
+Notrufnummer
+Notfallnummer
+ICE Kontakt

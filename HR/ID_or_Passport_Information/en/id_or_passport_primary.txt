@@ -1,7 +1,12 @@
 Passport
+Passport Number
 ID Card
+National ID
+ID Number
 Work Permit
 Residence Permit
 Visa
-Identity Document
-National ID
+Driver's License
+Driving Licence
+Social Security Number
+SSN

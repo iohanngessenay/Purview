@@ -1,8 +1,7 @@
-Bank
-Konto
 IBAN
-Zahlung
-Lohnkonto
-Gehaltskonto
-Überweisung
-SEPA-Überweisung
+BIC
+SWIFT
+SWIFT-Code
+SEPA
+Bankleitzahl
+BLZ

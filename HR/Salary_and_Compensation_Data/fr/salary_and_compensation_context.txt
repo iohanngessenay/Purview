@@ -1,7 +1,26 @@
-Salaire Évaluation
-Rémunération Plan
-Annual Évaluation
-Total Rewards
-Paie Compte
-Band
-Grade
+Salaire
+Paie
+Bonus
+Prime
+Rémunération
+Salaire Brut
+Salaire Net
+13ème Mois
+13ème Salaire
+Commission
+Salaire de Base
+Rémunération Variable
+Augmentation au Mérite
+Gratification
+Salaire Annuel
+Taux Horaire
+Heures Supplémentaires
+Avantages
+Retraite
+Stock-Options
+Évaluation salariale
+Évaluation annuelle
+Rémunération totale
+Compte de paie
+Bande
+Niveau

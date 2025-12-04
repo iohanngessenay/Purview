@@ -1,11 +1,18 @@
 Cliente Confidencial
-Confidencial Information
+Información Confidencial
 Privilegiado
-Attorney-Client
-Privilegiado and Confidencial
-Confidencial Communication
-Strictly Confidencial
-Internal Use Only
-Proprietary Information
-Cliente Matter
-Cliente File
+Abogado-Cliente
+Privilegiado y Confidencial
+Comunicación Confidencial
+Estrictamente Confidencial
+Uso Interno Únicamente
+Información Confidencial
+Asunto del Cliente
+Expediente del Cliente
+Secreto Profesional
+Privilegio Abogado-Cliente
+Documento de Trabajo
+Solo para Abogado
+Asesoramiento Legal
+No Distribuir
+Bajo Confidencialidad

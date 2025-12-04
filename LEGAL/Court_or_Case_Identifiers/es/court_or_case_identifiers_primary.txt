@@ -1,5 +1,15 @@
-Caso Number
-File Number
-Docket Number
-Caso ID
-Tribunal Reference
+Número de Caso
+Número de Expediente
+Número de Ródex
+ID de Caso
+Referencia del Tribunal
+Número de Procedimiento
+Archivo Judicial
+Citación
+Acción Civil
+Caso Penal
+Registro del Tribunal
+Número de Demanda
+Número de Reclamo
+Referencia de Sentencia
+Número de Apelación

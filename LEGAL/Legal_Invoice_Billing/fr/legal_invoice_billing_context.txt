@@ -1,6 +1,6 @@
-Law Firm
-Juridique Fees
-Avocat Fees
-Hours Billed
-Matter ID
-Retainer
+Cabinet d'avocats
+Frais juridiques
+Honoraires d'avocat
+Heures facturées
+ID d'affaire
+Provision

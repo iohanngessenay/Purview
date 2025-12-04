@@ -1,24 +1,32 @@
-Lawsuit
+Demanda
 Litigio
-Complaint
-Caso Number
-Defendant
-Plaintiff
-Subpoena
-Tribunal Order
-Proceedings
-Arbitration
-Mediation
-Settlement
-Statement of Claim
-Notice of Appeal
-Writ of Summons
-Counterclaim
-Judgment
-Ruling
-Verdict
-Deposition
-Discovery
-Hearing
-Trial
-Pleadings
+Proceso Judicial
+Denuncia
+Número de Caso
+Demandado
+Demandante
+Citación
+Orden del Tribunal
+Procedimientos
+Arbitraje
+Mediación
+Acuerdo
+Transacción
+Declaración de Reclamación
+Aviso de Apelación
+Escrito de Citación
+Reconvención
+Sentencia
+Fallo
+Resolucíon
+Veredicto
+Declaración
+Descubrimiento
+Audiencia
+Juicio
+Alegatos
+Moción
+Escrito
+Declaración Jurada
+Prueba
+Testimonio

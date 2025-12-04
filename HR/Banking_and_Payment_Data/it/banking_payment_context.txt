@@ -1,0 +1,15 @@
+Banca
+Conto
+Pagamento
+Conto Stipendio
+Conto Busta Paga
+Bonifico
+Rimessa
+Bonifico Bancario
+Coordinate Bancarie
+Modalità di Pagamento
+Conto Corrente
+Conto Risparmio
+Addebito Diretto
+Titolare Conto
+Estratto Conto

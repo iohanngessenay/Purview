@@ -22,3 +22,9 @@ Beweisaufnahme
 Verhandlung
 Prozess
 Schriftsatz
+Antrag
+Klageerwiderung
+Eidesstattliche Erklärung
+Beweisstück
+Beweis
+Zeuge

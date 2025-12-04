@@ -1,8 +1,8 @@
 Enquête
-Affaire Number
-Follow-up
+Numéro d'affaire
+Suivi
 Confidentiel
-Sensitive
-Ethics
-Hotline Affaire
-Intake
+Sensible
+Éthique
+Affaire ligne d'assistance
+Prise en charge

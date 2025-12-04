@@ -1,6 +1,6 @@
-GDPR
+RGPD
 DSGVO
-FADP
+LPD
 FINMA
 SEC
 SOX
@@ -14,7 +14,15 @@ FedRAMP
 FISMA
 CCPA
 LGPD
-Data Protection Act
-Swiss Data Protection Act
-Basel III
+Loi sur la Protection des Données
+Loi Fédérale sur la Protection des Données
+Bâle III
 MiFID II
+FCPA
+OFAC
+LBC
+KYC
+Dodd-Frank
+CNIL
+ACPR
+AMF

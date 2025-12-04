@@ -1,7 +1,17 @@
-Lanceur d'alerte
-Ethics Hotline
-Incident Report
-Misconduct
-Anonymous Report
-Retaliation Prevention
-Tip-off
+Lanceur d'Alerte
+Ligne Éthique
+Rapport d'Incident
+Faute Professionnelle
+Rapport Anonyme
+Prévention des Représailles
+Signalement
+Divulgation Protégée
+Ligne Confidentielle
+Prise de Parole
+Violation Éthique
+Alerte Fraude
+Ligne de Plainte
+Canal de Signalement
+Signalement Anonyme
+Politique de Signalement
+Non-Rétorsion

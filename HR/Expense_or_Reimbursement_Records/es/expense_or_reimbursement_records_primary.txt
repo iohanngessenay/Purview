@@ -1,8 +1,5 @@
-Gasto Report
-Reembolso
-Travel Claim
-Mileage
-Hotel
-Transport
-Per Diem
-Receipt
+Informe de Gastos
+Reclamación de Viaje
+Formulario de Gastos
+Formulario de Reclamación
+Justificante de Gastos

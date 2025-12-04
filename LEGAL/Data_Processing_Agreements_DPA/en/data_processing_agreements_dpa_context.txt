@@ -1,5 +1,14 @@
-Personal Data
+Controller
+Processor
+Sub-Processor
+Joint Controller
 Data Subject
+Data Breach
+DPO
+Data Protection Officer
+Processing Activity
+Data Transfer
+Personal Data
 International Transfer
 Annex
 Technical and Organisational Measures

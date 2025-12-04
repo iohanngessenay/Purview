@@ -1,14 +1,14 @@
-Conseil d'administration of Directors
-Chairman
-CEO
-CFO
-Company Secretary
-Agenda
+Conseil d'administration
+Président
+Directeur général
+Directeur financier
+Secrétaire de société
+Ordre du jour
 Quorum
 Motion
-Approved
-Signed
-Attendees
-Proxy
-General Meeting
-AGM
+Approuvé
+Signé
+Participants
+Procuration
+Assemblée générale
+AGA

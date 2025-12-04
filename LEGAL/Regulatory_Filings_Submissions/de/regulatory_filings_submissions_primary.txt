@@ -5,3 +5,12 @@ Offenlegung
 SEC-Formular
 FINMA-Meldung
 Bericht an Behörde
+Jahresbericht
+Quartalsbericht
+Compliance-Bericht
+Pflichtveröffentlichung
+Regulatorische Einreichung
+Einreichungsfrist
+Meldepflicht
+Behördenmeldung
+Offenlegungspflicht

@@ -1,9 +1,8 @@
-Médico Certificate
-Doctor's Note
-Sickness
-Disability
-Illness
-Sick Leave
-Salud Report
-Fit for Work
-Occupational Salud
+Certificado Médico
+Parte de Baja
+Parte Médico
+Nota del Médico
+Alta Médica
+Apto para Trabajar
+Reconocimiento Médico
+Informe de Salud

@@ -1,6 +1,6 @@
-Form
-Dépôt No
-Dépôt Number
-Soumission ID
-Attachment
-Annex
+Formulaire
+N° de dépôt
+Numéro de dépôt
+ID de soumission
+Pièce jointe
+Annexe

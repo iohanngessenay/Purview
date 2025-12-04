@@ -1,0 +1,9 @@
+Passaporto
+Numero Passaporto
+Carta d'Identità
+Carta Identità
+Permesso di Lavoro
+Permesso di Soggiorno
+Visto
+Patente di Guida
+Codice Fiscale

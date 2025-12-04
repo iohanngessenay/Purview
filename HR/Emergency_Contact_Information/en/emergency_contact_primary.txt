@@ -1,7 +1,8 @@
 Emergency Contact
 Next of Kin
-Home Address
-Private Email
-Private Phone
-Personal Contact
-Relationship
+ICE
+In Case of Emergency
+Emergency Number
+ICE Contact
+Emergency Phone
+Emergency Email

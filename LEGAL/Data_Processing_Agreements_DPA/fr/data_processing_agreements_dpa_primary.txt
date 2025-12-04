@@ -1,10 +1,20 @@
-Data Processing Accord
+Accord de Traitement des Données
+Contrat de Sous-Traitance
 DPA
-Data Protection Addendum
-Processing Terms
-Controller
-Processor
-Sub-Processor
-Joint Controller
-Standard Contractual Clauses
+Addendum de Protection des Données
+Conditions de Traitement
+Responsable de Traitement
+Responsable du Traitement
+Sous-Traitant
+Sous-Traitant Ultérieur
+Responsables Conjoints
+Coresponsables
+Clauses Contractuelles Types
+CCT
 SCC
+DPO
+Délégué à la Protection des Données
+Personne Concernée
+Données Personnelles
+Violation de Données
+Transfert de Données

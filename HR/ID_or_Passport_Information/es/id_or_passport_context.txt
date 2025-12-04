@@ -1,5 +1,14 @@
+Documento de Identidad
+Número de Identidad
+Nacionalidad
+Ciudadanía
+Fecha de Caducidad
+Fecha de Nacimiento
+Lugar de Nacimiento
+Estado de Inmigración
 Document Number
 Expiry Date
 Issuing Authority
 Scan
 Copy of Pasaporte
+Copia de Pasaporte

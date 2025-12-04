@@ -1,6 +1,16 @@
-Sort Code
-BIC
-SWIFT
+Bank
+Account
+Payment
+Salary Account
+Payroll Account
+Transfer
+Remittance
+Direct Deposit
+Wire Transfer
 Bank Details
+Payment Method
+Deposit Account
+Checking Account
+Savings Account
 Account Holder
 Bank Statement

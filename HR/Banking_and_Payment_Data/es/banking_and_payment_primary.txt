@@ -1,9 +1,6 @@
-Banco
-Cuenta
 IBAN
-Pago
-Salario Cuenta
-Nómina Cuenta
-Transfer
-Remittance
+BIC
+SWIFT
+Código SWIFT
 SEPA
+CCC

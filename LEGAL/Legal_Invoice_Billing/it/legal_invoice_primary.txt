@@ -1,0 +1,20 @@
+Fattura
+Parcella
+Riferimento
+Rif
+Numero
+Numero Fattura
+Onorari Legali
+Ore Fatturabili
+Acconto
+Spese Legali
+Registrazione Tempo
+Tariffa Oraria
+Nota Spese
+Estratto Conto
+Compensi Legali
+Servizi Legali
+Onorari Professionali
+Tempo Addebitato
+Spese
+Condizioni di Pagamento

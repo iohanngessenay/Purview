@@ -1,5 +1,24 @@
+Salary
+Payroll
+Bonus
+Compensation
+Gross Salary
+Net Salary
+13th Month
+Commission
+Base Pay
+Variable Pay
+Merit Increase
+Annual Salary
+Hourly Rate
+Overtime
+Benefits
+Pension
+Stock Options
+Equity
+Incentive
+Total Compensation
 Salary Review
-Compensation Plan
 Annual Review
 Total Rewards
 Payroll Account

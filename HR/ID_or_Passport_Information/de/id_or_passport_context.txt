@@ -1,3 +1,12 @@
+Passkarte
+Ausweis
+Ausländerausweis
+Identitätsnachweis
+Staatsangehörigkeit
+Gültig bis
+Geburtsdatum
+Geburtsort
+Aufenthaltsstatus
 Dokumentennummer
 Ablaufdatum
 Ausstellende Behörde

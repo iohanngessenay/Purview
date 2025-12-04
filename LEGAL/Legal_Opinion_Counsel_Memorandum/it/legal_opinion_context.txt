@@ -1,0 +1,7 @@
+Consulente
+Avvocato
+Ufficio Legale
+Parere
+Conclusione
+Presupposti
+Qualificazioni

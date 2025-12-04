@@ -1,8 +1,5 @@
-Dépense Report
-Remboursement
-Travel Claim
-Mileage
-Hotel
-Transport
-Per Diem
-Receipt
+Note de Frais
+Demande de Voyage
+Formulaire de Frais
+Formulaire de Remboursement
+Justificatif de Frais

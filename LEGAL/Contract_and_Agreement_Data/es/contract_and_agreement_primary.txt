@@ -1,19 +1,30 @@
 Contrato
 Acuerdo
-Terms and Conditions
-Framework Acuerdo
-Master Service Acuerdo
-Statement of Work
+Convenio
+Términos y Condiciones
+Condiciones Generales
+Acuerdo Marco
+Contrato Marco de Servicios
+Declaración de Trabajo
+Alcance de Trabajo
+DDT
 SOW
-Amendment
-Addendum
-Termination Clause
-Service Acuerdo
-Purchase Acuerdo
-Engagement Letter
-Work Order
-Change Order
-Order Form
-Annex
-Schedule
-Exhibit
+Enmienda
+Adenda
+Cláusula de Terminación
+Cláusula de Rescisión
+Contrato de Servicio
+Contrato de Compra
+Carta de Compromiso
+Orden de Trabajo
+Orden de Cambio
+Formulario de Pedido
+Anexo
+Apéndice
+Calendario
+Documento Adjunto
+SLA
+Acuerdo de Nivel de Servicio
+Contrato de Licencia
+Renovación
+Fecha de Vigencia

@@ -27,3 +27,8 @@ Thumbs.db
 
 # Build outputs
 *.log
+
+# Automation temp files
+automation/temp/
+*.xml.bak
+*_exported.xml

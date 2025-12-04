@@ -1,24 +1,20 @@
 Lawsuit
-Litigation
 Complaint
 Case Number
-Defendant
-Plaintiff
-Subpoena
-Court Order
-Proceedings
-Arbitration
-Mediation
-Settlement
 Statement of Claim
 Notice of Appeal
 Writ of Summons
 Counterclaim
 Judgment
-Ruling
-Verdict
-Deposition
-Discovery
-Hearing
-Trial
-Pleadings
+Subpoena
+Court Order
+Settlement Agreement
+Arbitration Award
+Deposition Transcript
+Motion
+Brief
+Affidavit
+Exhibit
+Evidence
+Witness Statement
+Testimony

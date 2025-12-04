@@ -1,9 +1,7 @@
-Employment Contrat
-Employment Accord
-Hire Date
-Notice Period
-Emploi Title
-Poste
-Probation
-Termination
-Severance
+Contrat de Travail
+Accord d'Emploi
+CDI
+CDD
+Lettre d'Offre
+Offre d'Emploi
+Contrat d'Emploi

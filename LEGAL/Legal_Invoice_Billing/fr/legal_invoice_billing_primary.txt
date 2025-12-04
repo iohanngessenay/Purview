@@ -1,6 +1,20 @@
 Facture
-Bill
-Reference
-Ref
-Number
-Facture Number
+Note d'Honoraires
+Référence
+Réf.
+Numéro
+Numéro de Facture
+Honoraires d'Avocat
+Heures Facturables
+Provision
+Débours
+Saisie de Temps
+Taux Horaire
+Note de Frais
+Relevé de Compte
+Frais d'Avocat
+Services Juridiques
+Honoraires Professionnels
+Temps Facturable
+Dépenses
+Conditions de Paiement

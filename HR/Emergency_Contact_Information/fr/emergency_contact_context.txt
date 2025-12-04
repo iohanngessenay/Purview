@@ -1,5 +1,20 @@
-Employé Record
-HR Record
-Master Data
-ERP HR
-Contact Sheet
+Adresse Domicile
+Email Privé
+Téléphone Privé
+Contact Personnel
+Lien de Parenté
+Numéro Mobile
+Téléphone Portable
+Conjoint
+Partenaire
+Parent
+Tuteur
+Personne à Charge
+Coordonnees Personnelles
+Téléphone Fixe
+Contact Alternatif
+Dossier employé
+Dossier RH
+Données principales
+ERP RH
+Fiche de contact

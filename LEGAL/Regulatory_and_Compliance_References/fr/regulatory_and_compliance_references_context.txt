@@ -1,15 +1,15 @@
 Conformité
-Regulation
+Réglementation
 Audit
-Audit Finding
-Risk Report
-Risk Assessment
-Juridique Obligation
-Control
-Control Failure
-Remediation Plan
+Constatation d'audit
+Rapport de risque
+Évaluation des risques
+Obligation juridique
+Contrôle
+Défaillance de contrôle
+Plan de remédiation
 Certification
-Conformance
-Policy Violation
-Réglementaire Dépôt
-Conformité Évaluation
+Conformité
+Violation de politique
+Dépôt réglementaire
+Évaluation de conformité

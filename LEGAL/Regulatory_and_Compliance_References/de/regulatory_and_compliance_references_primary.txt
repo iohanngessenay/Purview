@@ -14,3 +14,10 @@ Basel III
 MiFID II
 Datenschutzgesetz
 Aufsichtsbehörde
+Geldwäschegesetz
+KYC
+BaFin
+FCA
+EBA
+COBIT
+ITIL

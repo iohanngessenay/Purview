@@ -1,5 +1,13 @@
+Application
+Candidate
+Applicant
+Job Candidate
+Interview
+Recruitment
+Hiring Process
+Shortlist
+Reference Check
 Job Posting
 Requisition
 HR
 Talent Acquisition
-Reference Check

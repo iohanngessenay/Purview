@@ -1,0 +1,12 @@
+Documento d'Identità
+Numero Documento
+Nazionalità
+Cittadinanza
+Data di Scadenza
+Data di Nascita
+Luogo di Nascita
+Stato di Immigrazione
+Data Scadenza
+Autorità Emittente
+Scansione
+Copia Passaporto

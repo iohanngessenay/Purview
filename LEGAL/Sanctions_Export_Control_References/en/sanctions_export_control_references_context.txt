@@ -1,3 +1,15 @@
+Sanction
+Sanctions
+Embargo
+Export Control
+Restricted Party
+Denied Entity
+Blocked Person
+BIS
+SECO
+Dual Use Goods
+Watchlist
+Trade Compliance
 Compliance Screening
 KYC
 AML

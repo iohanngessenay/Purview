@@ -1,6 +1,20 @@
 Factura
-Bill
-Reference
-Ref
-Number
-Factura Number
+Nota de Honorarios
+Referencia
+Ref.
+Número
+Número de Factura
+Honorarios Legales
+Horas Facturables
+Anticipo
+Desembolsos
+Registro de Tiempo
+Tarifa Horaria
+Nota de Honorarios
+Estado de Cuenta
+Honorarios de Abogado
+Servicios Legales
+Honorarios Profesionales
+Tiempo Facturado
+Gastos
+Términos de Pago

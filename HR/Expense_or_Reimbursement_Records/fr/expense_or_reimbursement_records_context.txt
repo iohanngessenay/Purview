@@ -1,5 +1,20 @@
-Cost Center
-GL Code
-Approval
-Dépense Policy
-Corporate Card
+Remboursement
+Kilométrage
+Hôtel
+Transport
+Indemité Journalière
+Reçu
+Dépenses Professionnelles
+Frais de Déplacement
+Indemité de Repas
+Petite Caisse
+Facture
+TVA
+Justificatif
+Bareme Kilometrique
+Hébergement
+Centre de coûts
+Code GL
+Approbation
+Politique de dépenses
+Carte corporate

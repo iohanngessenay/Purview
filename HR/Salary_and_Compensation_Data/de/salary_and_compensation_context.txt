@@ -1,7 +1,25 @@
+Gehalt
+Lohn
+Bonus
+Vergütung
+Bruttolohn
+Nettolohn
+13. Monatslohn
+Provision
+Fixlohn
+Variabler Lohn
+Jahresgehalt
+Stundenlohn
+Überstunden
+Sozialleistungen
+Rente
+Aktienoptionen
+Beteiligung
+Anreiz
+Gesamtvergütung
 Gehaltsrunde
 Vergütungsplan
 Jahresgespräch
-Gesamtvergütung
 Lohnkonto
 Band
 Stufe

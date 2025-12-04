@@ -1,5 +1,17 @@
-HR Affaire
-Hearing
-Meeting Notes
-Breach
-Policy Violation
+Avertissement
+Suspension
+Résiliation
+Faute Professionnelle
+Plainte
+Disciplinaire
+Enquête
+Mesure Disciplinaire
+Rapport d'Incident
+Sanction
+Action Disciplinaire
+Procédure Disciplinaire
+Affaire RH
+Audience
+Notes de réunion
+Infraction
+Violation de politique

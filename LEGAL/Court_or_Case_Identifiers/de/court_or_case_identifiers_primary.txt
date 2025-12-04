@@ -3,3 +3,15 @@ Geschäftsnummer
 Docket-Nummer
 Fallnummer
 Gerichtsreferenz
+Verfahrensnummer
+Gerichtsakte
+Zivilsache
+Strafsache
+Gerichtsregister
+Klagenummer
+Anspruchsnummer
+Rechtssache
+Urteilsreferenz
+Berufungsnummer
+Az.
+Gz.

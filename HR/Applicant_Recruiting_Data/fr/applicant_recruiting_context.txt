@@ -1,5 +1,12 @@
-Emploi Posting
-Requisition
-HR
-Talent Acquisition
-Reference Check
+Demande d'Emploi
+Candidat
+Postulant
+Entretien
+Entretien d'Embauche
+Recrutement
+Processus d'Embauche
+Liste Restreinte
+Réquisition
+RH
+Acquisition de talents
+Vérification des références

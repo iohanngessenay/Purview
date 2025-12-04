@@ -1,11 +1,8 @@
-Client Confidential
-Confidential Information
-Privileged
-Attorney-Client
+Attorney-Client Privilege
+ACP
+Legal Professional Privilege
 Privileged and Confidential
-Confidential Communication
-Strictly Confidential
-Internal Use Only
-Proprietary Information
-Client Matter
-Client File
+Work Product
+For Counsel Only
+Client Matter File
+Legal Advice Privilege

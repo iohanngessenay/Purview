@@ -1,17 +1,24 @@
 Sanction
 Sanctions
 Embargo
-Export Control
-Restricted Party
-Denied Entity
-Blocked Person
-SDN List
+Contrôle des Exportations
+Partie Restreinte
+Entité Refusée
+Personne Bloquée
+Liste SDN
 OFAC
-EU Sanctions
-UN Sanctions
-UK Sanctions
+Sanctions UE
+Sanctions ONU
+Sanctions UK
 BIS
 EAR
 ITAR
 SECO
-Dual Use Goods
+Biens à Double Usage
+Liste de Surveillance
+Conformité Commerciale
+Exigence de Licence
+Licence d'Exportation
+Screening
+Contrôle Sanctions
+Liste Interdite

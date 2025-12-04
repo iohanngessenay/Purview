@@ -1,3 +1,17 @@
+Krankheit
+Behinderung
+Erkrankung
+Arbeitsfähigkeit
+Betriebsarzt
+Krankenakte
+Krankenversicherung
+Rezept
+Diagnose
+Behandlung
+Krankheitsbedingte Abwesenheit
+Arbeitsunfähigkeit
+Ärztliche Untersuchung
+Gesundheitsprüfung
 Mitarbeiter
 HR
 Vorgesetzter

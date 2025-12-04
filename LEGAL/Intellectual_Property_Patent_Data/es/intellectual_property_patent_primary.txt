@@ -1,16 +1,24 @@
 Patente
-Patente Application
-Marca registrada
-Intellectual Property
-Copyright
-Design Registration
-IP Portfolio
-Invention Disclosure
-Patente Pending
-Utility Model
-Registered Design
-Patente Claim
-Prior Art
-WIPO
-EPO
+Solicitud de Patente
+Marca Registrada
+Propiedad Intelectual
+Derechos de Autor
+Registro de Diseño
+Cartera de PI
+Divulgación de Invención
+Patente Pendiente
+Modelo de Utilidad
+Diseño Registrado
+Reivindicación de Patente
+Arte Previo
+OMPI
+OEP
 USPTO
+Secreto Comercial
+Acuerdo de Licencia
+Regalía
+PCT
+Derechos de PI
+Número de Patente
+Registro de Marca
+OEPM

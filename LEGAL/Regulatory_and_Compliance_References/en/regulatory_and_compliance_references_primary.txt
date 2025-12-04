@@ -18,3 +18,11 @@ Data Protection Act
 Swiss Data Protection Act
 Basel III
 MiFID II
+FCPA
+OFAC
+Dodd-Frank
+GLBA
+COBIT
+ITIL
+FCA
+EBA

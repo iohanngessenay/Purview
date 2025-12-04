@@ -1,8 +1,8 @@
-Internal Investigation
-Compliance Incident
-Misconduct
-Whistleblower
-Report of Findings
-Ethics Review
-Fact-Finding
+Internal Investigation Report
+Compliance Incident Report
 Investigation Report
+Report of Findings
+Fraud Investigation Report
+Forensic Audit Report
+Compliance Audit Report
+Compliance Review Report

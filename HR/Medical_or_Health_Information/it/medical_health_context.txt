@@ -1,0 +1,18 @@
+Malattia
+Disabilità
+Inabilità
+Patologia
+Congedo per Malattia
+Assenza per Malattia
+Medicina del Lavoro
+INPS
+Cartella Clinica
+Assicurazione Sanitaria
+Ricetta
+Diagnosi
+Dipendente
+Risorse Umane
+Manager
+Assenza
+Rientro al Lavoro
+Medico

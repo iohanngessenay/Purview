@@ -1,7 +1,6 @@
-Urgence Contact
-Next of Kin
-Home Address
-Private Email
-Private Phone
-Personal Contact
-Relationship
+Contact d'Urgence
+Proche Parent
+Urgence
+Numéro d'Urgence
+Numéro d'Urgence ICE
+Contact ICE

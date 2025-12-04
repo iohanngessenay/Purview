@@ -1,3 +1,18 @@
+Dirección Particular
+Correo Electrónico Personal
+Teléfono Personal
+Contacto Personal
+Relación
+Número Móvil
+Teléfono Celular
+Cónyuge
+Pareja
+Padre
+Tutor
+Dependiente
+Datos de Contacto
+Teléfono Fijo
+Contacto Alternativo
 Empleado Record
 HR Record
 Master Data

@@ -1,3 +1,9 @@
+Versicherungsnummer
+Sozialvers.-Nr
+Alters- und Hinterlassenenversicherung
+Schweizer Sozialversicherung
+IV
+Invalidenversicherung
 Mitarbeiter
 Lohnabrechnung
 HR

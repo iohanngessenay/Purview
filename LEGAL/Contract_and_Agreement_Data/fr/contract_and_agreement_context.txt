@@ -1,19 +1,19 @@
-Effective Date
+Date d'effet
 Signature
-Counterparts
-Governing Law
-Jurisdiction
-Party
+Exemplaires
+Loi applicable
+Juridiction
+Partie
 Parties
 Client
-Supplier
-Vendor
+Fournisseur
+Vendeur
 Obligations
-Term
-Renewal
-Breach
-Remedy
-Confidentiality
-Liability
-Indemnity
-Force Majeure
+Durée
+Renouvellement
+Violation
+Recours
+Confidentialité
+Responsabilité
+Indemnisation
+Force majeure

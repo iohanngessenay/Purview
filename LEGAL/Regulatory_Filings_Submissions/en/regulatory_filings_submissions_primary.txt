@@ -1,7 +1,11 @@
-Regulatory Filing
-Submission
+SEC Form 10-K
+Form 10-K
+SEC Form 10-Q
+Form 10-Q
+SEC Form 8-K
+Form 8-K
 Prospectus
-Disclosure
-SEC Form
+Proxy Statement
 FINMA Filing
-Report to Authority
+Regulatory Filing
+Regulatory Submission

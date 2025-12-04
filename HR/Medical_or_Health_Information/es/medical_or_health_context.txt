@@ -1,6 +1,19 @@
+Enfermedad
+Incapacidad
+Discapacidad
+Incapacidad Temporal
+IT
+Baja por Enfermedad
+Baja Médica
+Salud Ocupacional
+Salud Laboral
+Historia Clínica
+Seguro Médico
+Receta
 Empleado
 HR
 Manager
 Absence
 Return to Work
 Médico
+Ausencia

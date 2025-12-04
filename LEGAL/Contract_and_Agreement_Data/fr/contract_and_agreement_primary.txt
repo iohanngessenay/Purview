@@ -1,19 +1,30 @@
 Contrat
 Accord
-Terms and Conditions
-Framework Accord
-Master Service Accord
-Statement of Work
+Convention
+Conditions Générales
+CGV
+CGU
+Accord Cadre
+Contrat Cadre de Services
+Énoncé des Travaux
+Cahier des Charges
+EDT
 SOW
-Amendment
+Avenant
 Addendum
-Termination Clause
-Service Accord
-Purchase Accord
-Engagement Letter
-Work Order
-Change Order
-Order Form
-Annex
-Schedule
-Exhibit
+Clause de Résiliation
+Contrat de Service
+Contrat d'Achat
+Lettre d'Engagement
+Bon de Commande
+Ordre de Modification
+Formulaire de Commande
+Annexe
+Calendrier
+Pièce Jointe
+Document Annexe
+SLA
+Accord de Niveau de Service
+Contrat de Licence
+Renouvellement
+Date d'Effet

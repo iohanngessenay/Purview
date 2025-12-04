@@ -1,0 +1,28 @@
+GDPR
+DSGVO
+FADP
+FINMA
+SEC
+SOX
+Sarbanes-Oxley
+HIPAA
+ISO 27001
+ISO/IEC 27001
+PCI DSS
+NIST
+FedRAMP
+FISMA
+CCPA
+LGPD
+Legge Protezione Dati
+Legge Svizzera Protezione Dati
+Basilea III
+MiFID II
+FCPA
+OFAC
+AML
+KYC
+Dodd-Frank
+Garante Privacy
+CONSOB
+Banca d'Italia

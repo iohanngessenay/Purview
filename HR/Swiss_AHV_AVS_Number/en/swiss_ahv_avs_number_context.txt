@@ -1,3 +1,10 @@
+Insurance Number
+Social Security Number
+Social Security
+Social Ins. No.
+OASI
+Old Age and Survivors Insurance
+Swiss Social Security
 Employee
 Payroll
 HR

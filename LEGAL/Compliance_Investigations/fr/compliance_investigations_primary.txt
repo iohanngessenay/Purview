@@ -1,8 +1,19 @@
-Internal Enquête
-Conformité Incident
-Misconduct
-Lanceur d'alerte
-Report of Findings
-Ethics Évaluation
-Fact-Finding
-Enquête Report
+Enquête Interne
+Incident de Conformité
+Faute Professionnelle
+Lanceur d'Alerte
+Rapport de Conclusions
+Évaluation Éthique
+Enquête Préliminaire
+Rapport d'Enquête
+LBC
+Lutte Contre le Blanchiment
+KYC
+Connaissance Client
+Enquête Fraude
+Diligence Raisonnable
+Audit Conformité
+Violation
+Enquête Réglementaire
+Audit Forensique
+Revue Conformité

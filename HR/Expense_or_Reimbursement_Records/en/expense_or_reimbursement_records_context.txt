@@ -1,3 +1,18 @@
+Reimbursement
+Mileage
+Hotel
+Transport
+Per Diem
+Receipt
+Business Expenses
+Travel Expenses
+Meal Allowance
+Petty Cash
+Invoice
+VAT
+Tax Receipt
+Mileage Rate
+Accommodation
 Cost Center
 GL Code
 Approval

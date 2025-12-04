@@ -15,3 +15,10 @@ EAR
 ITAR
 SECO
 Güter mit doppeltem Verwendungszweck
+Watchlist
+Handelscompliance
+Genehmigungspflicht
+Ausfuhrgenehmigung
+Screening
+Sanktionsprüfung
+Verbotsliste

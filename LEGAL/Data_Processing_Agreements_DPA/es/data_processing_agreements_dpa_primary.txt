@@ -1,10 +1,21 @@
-Data Processing Acuerdo
+Acuerdo de Tratamiento de Datos
+Contrato de Encargado de Tratamiento
 DPA
-Data Protection Addendum
-Processing Terms
-Controller
-Processor
-Sub-Processor
-Joint Controller
-Standard Contractual Clauses
+Adenda de Protección de Datos
+Términos de Procesamiento
+Responsable del Tratamiento
+Responsable de Tratamiento
+Encargado del Tratamiento
+Encargado de Tratamiento
+Subencargado
+Corresponsables
+Responsables Conjuntos
+Cláusulas Contractuales Estándar
+Cláusulas Tipo
+CCE
 SCC
+Interesado
+Datos Personales
+Violación de Datos
+DPD
+Transferencia de Datos

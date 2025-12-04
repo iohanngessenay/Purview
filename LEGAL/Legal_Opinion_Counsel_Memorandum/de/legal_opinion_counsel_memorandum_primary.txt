@@ -5,3 +5,13 @@ Rechtsmemorandum
 Beratungsschreiben
 Meinungsschreiben
 Vermerk
+Rechtsmemo
+Beratungsnotiz
+Rechtliche Analyse
+Schriftsatz
+Anwaltliche Stellungnahme
+Rechtliche Bewertung
+Strategiememo
+Risikobewertung
+Fallanalyse
+Rechtliche Prüfung

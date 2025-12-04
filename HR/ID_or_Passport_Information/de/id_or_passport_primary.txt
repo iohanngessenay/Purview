@@ -1,8 +1,10 @@
+Reisepass
+Personalausweis
 Pass
-Passkarte
-Ausweis
-Ausländerausweis
+Passnummer
+Ausweisnummer
 Arbeitsbewilligung
 Aufenthaltsbewilligung
 Visum
-Identitätsnachweis
+Führerschein
+Sozialversicherungsnummer

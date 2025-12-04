@@ -1,5 +1,12 @@
-Disclosing Party
+Secrecy Agreement
+Disclosure Restriction
+Proprietary Information
+Trade Secret Protection
+Confidentiality Period
+Non-Compete
+Confidentiality Obligation
 Receiving Party
+Disclosing Party
 Confidential Information
 Use Limitation
 Term

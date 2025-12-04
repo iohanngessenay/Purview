@@ -1,3 +1,16 @@
+Sickness
+Disability
+Illness
+Sick Leave
+Occupational Health
+Medical Records
+Health Insurance
+Prescription
+Diagnosis
+Treatment
+Medical Absence
+Medical Examination
+Health Assessment
 Employee
 HR
 Manager

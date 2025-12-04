@@ -1,9 +1,8 @@
-Bank
-Account
 IBAN
-Payment
-Salary Account
-Payroll Account
-Transfer
-Remittance
+BIC
+SWIFT
+SWIFT Code
 SEPA
+ACH
+Routing Number
+Sort Code

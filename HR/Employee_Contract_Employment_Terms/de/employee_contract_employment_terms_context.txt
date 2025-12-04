@@ -1,3 +1,17 @@
+Eintrittsdatum
+Einstellungsdatum
+Kündigungsfrist
+Stellenbezeichnung
+Position
+Probezeit
+Kündigung
+Abfindung
+Vollzeit
+Teilzeit
+Unbefristet
+Befristet
+Zeitarbeit
+Anstellungsbedingungen
 Mitarbeiter
 Belegschaft
 Angestellter

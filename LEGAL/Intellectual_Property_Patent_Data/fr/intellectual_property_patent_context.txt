@@ -1,9 +1,9 @@
 R&D
-Engineering
+Ingénierie
 Prototype
-Technical Specification
-Blueprint
-Laboratory Notebook
-Technology Transfer
-Licensing Accord
-Proprietary
+Spécification technique
+Plan
+Cahier de laboratoire
+Transfert de technologie
+Accord de licence
+Propriétaire

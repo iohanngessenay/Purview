@@ -1,7 +1,11 @@
 Pasaporte
-ID Card
-Work Permit
-Residence Permit
+Número de Pasaporte
+Tarjeta de Identidad
+DNI
+NIE
+Permiso de Trabajo
+Permiso de Residencia
 Visa
-Identity Document
-National ID
+Permiso de Conducir
+Carnet de Conducir
+Número de Seguridad Social

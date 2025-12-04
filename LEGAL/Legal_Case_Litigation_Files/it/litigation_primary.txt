@@ -1,0 +1,30 @@
+Causa
+Contenzioso
+Azione Legale
+Ricorso
+Numero Causa
+Convenuto
+Attore
+Citazione
+Ordinanza Tribunale
+Procedimento
+Arbitrato
+Mediazione
+Transazione
+Atto di Citazione
+Atto di Appello
+Domanda Riconvenzionale
+Sentenza
+Ordinanza
+Decisione
+Verdetto
+Deposizione
+Istruttoria
+Udienza
+Processo
+Memorie
+Ricorso
+Motivazione
+Affidavit
+Prova
+Testimonianza

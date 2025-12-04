@@ -4,3 +4,17 @@ Referenz
 Ref
 Nummer
 Rechnungsnummer
+Anwaltskosten
+Abrechenbare Stunden
+Honorar
+Auslagen
+Zeiterfassung
+Stundensatz
+Gebührenrechnung
+Kontoauszug
+Anwaltsgebühren
+Rechtsdienstleistungen
+Beratungsgebühren
+Zeitaufwand
+Spesen
+Zahlungsbedingungen

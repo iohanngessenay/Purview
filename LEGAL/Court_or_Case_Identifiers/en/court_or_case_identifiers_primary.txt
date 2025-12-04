@@ -1,5 +1,14 @@
 Case Number
-File Number
 Docket Number
-Case ID
+File Number
+Cause Number
+Suit Number
+Claim Number
+Civil Action
+Criminal Case
+Proceeding Number
 Court Reference
+Court File Number
+Matter Number
+Judgment Reference
+Appeal Number

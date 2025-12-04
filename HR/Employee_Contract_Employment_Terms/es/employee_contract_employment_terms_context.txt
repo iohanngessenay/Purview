@@ -1,3 +1,18 @@
+Fecha de Contratación
+Fecha de Inicio
+Período de Aviso
+Título del Puesto
+Puesto
+Período de Prueba
+Terminación
+Finiquito
+Indemnización por Despido
+Jornada Completa
+Media Jornada
+Indefinido
+Temporal
+Fijo Discontinuo
+Condiciones Laborales
 Empleado
 Personal
 Worker

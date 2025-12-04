@@ -1,11 +1,10 @@
-Application
+Solicitud de Empleo
 Curriculum Vitae
 CV
 Currículum
-Candidato
-Cover Letter
-Motivation Letter
-Entrevista
-Reclutamiento
-Contratación Process
-Shortlist
+Hoja de Vida
+Carta de Presentación
+Carta de Motivación
+Oferta de Trabajo
+Carta Oferta
+Verificación de Referencias

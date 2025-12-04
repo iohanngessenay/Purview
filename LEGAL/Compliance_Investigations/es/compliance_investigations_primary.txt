@@ -1,8 +1,19 @@
-Internal Investigación
-Cumplimiento Incident
-Misconduct
+Investigación Interna
+Incidente de Cumplimiento
+Mala Conducta
 Denunciante
-Report of Findings
-Ethics Evaluación
-Fact-Finding
-Investigación Report
+Informe de Hallazgos
+Evaluación Ética
+Investigación Preliminar
+Informe de Investigación
+PBC
+Prevención Blanqueo Capitales
+KYC
+Conocer al Cliente
+Investigación de Fraude
+Debida Diligencia
+Auditoría de Cumplimiento
+Infracción
+Investigación Regulatoria
+Auditoría Forense
+Revisión de Cumplimiento

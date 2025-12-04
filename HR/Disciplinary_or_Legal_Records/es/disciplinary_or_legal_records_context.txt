@@ -1,5 +1,16 @@
+Advertencia
+Suspensión
+Terminación
+Mala Conducta
+Queja
+Disciplinario
+Investigación
+Medida Disciplinaria
+Informe de Incidente
+Acción Disciplinaria
+Expediente Disciplinario
 HR Caso
-Hearing
-Meeting Notes
-Breach
-Policy Violation
+Audiencia
+Notas de Reunión
+Incumplimiento
+Violación de Política

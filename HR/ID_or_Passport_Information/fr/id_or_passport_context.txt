@@ -1,5 +1,14 @@
-Document Number
-Expiry Date
-Issuing Authority
-Scan
-Copy of Passeport
+Document d'Identité
+Identité Nationale
+Numéro d'Identité
+Nationalité
+Citoyenneté
+Date d'Expiration
+Date de Naissance
+Lieu de Naissance
+Statut d'Immigration
+Numéro de document
+Date d'expiration
+Autorité d'émission
+Numérisation
+Copie du passeport

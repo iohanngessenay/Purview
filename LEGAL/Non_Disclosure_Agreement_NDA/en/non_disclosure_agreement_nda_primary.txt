@@ -1,10 +1,9 @@
 Non-Disclosure Agreement
 NDA
 Confidentiality Agreement
-Secrecy Agreement
-Confidentiality Undertaking
 Mutual NDA
 Unilateral NDA
 Bilateral NDA
-Disclosure Restriction
-Proprietary Information
+Confidential Disclosure Agreement
+CDA
+Confidentiality Undertaking

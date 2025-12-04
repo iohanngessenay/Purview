@@ -1,9 +1,7 @@
 Arbeitsvertrag
 Anstellungsvertrag
-Eintrittsdatum
-Kündigungsfrist
-Stellenbezeichnung
-Position
-Probezeit
-Kündigung
-Abfindung
+Arbeitsvereinbarung
+Angebotsschreiben
+Stellenangebot
+Jobangebot
+Arbeitsangebot

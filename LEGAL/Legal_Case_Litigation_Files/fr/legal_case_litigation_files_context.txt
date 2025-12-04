@@ -1,14 +1,14 @@
 Tribunal
-Tribunal
-Judge
+Cour
+Juge
 Avocat
 Avocat
-General Conseil
-Paralegal
-Docket
+Conseil général
+Parajuriste
+Rôle
 Dépôt
-Affaire ID
-Affaire File
-Juridique Team
-Prosecutor
-Defense Conseil
+ID d'affaire
+Dossier d'affaire
+Équipe juridique
+Procureur
+Avocat de la défense

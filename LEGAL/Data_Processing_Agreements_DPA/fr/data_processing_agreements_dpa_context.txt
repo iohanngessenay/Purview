@@ -1,6 +1,6 @@
-Personal Data
-Data Subject
-International Transfer
-Annex
-Technical and Organisational Measures
-TOMs
+Données personnelles
+Personne concernée
+Transfert international
+Annexe
+Mesures techniques et organisationnelles
+MTO

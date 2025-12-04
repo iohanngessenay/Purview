@@ -1,19 +1,20 @@
-Contract
-Agreement
-Terms and Conditions
-Framework Agreement
 Master Service Agreement
+MSA
+Framework Agreement
 Statement of Work
 SOW
+Engagement Letter
 Amendment
 Addendum
-Termination Clause
-Service Agreement
-Purchase Agreement
-Engagement Letter
 Work Order
 Change Order
 Order Form
-Annex
 Schedule
 Exhibit
+Annex
+SLA
+Service Level Agreement
+License Agreement
+Renewal
+Effective Date
+Execution

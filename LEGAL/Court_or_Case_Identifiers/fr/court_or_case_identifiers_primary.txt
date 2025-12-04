@@ -1,5 +1,15 @@
-Affaire Number
-File Number
-Docket Number
-Affaire ID
-Tribunal Reference
+Numéro d'Affaire
+Numéro de Dossier
+Numéro de Rôle
+ID d'Affaire
+Référence du Tribunal
+Numéro de Procédure
+Dossier Judiciaire
+Citation
+Action Civile
+Affaire Pénale
+Registre du Tribunal
+Numéro de Plainte
+Numéro de Recours
+Référence du Jugement
+Numéro d'Appel

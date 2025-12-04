@@ -1,10 +1,10 @@
-Law Firm
+Cabinet d'avocats
 Conseil
 Avocat
-Juridique Department
-In-House Conseil
-External Conseil
-Matter Number
-Do Not Distribute
-Restricted Access
-Juridique Advice
+Service juridique
+Conseil interne
+Conseil externe
+Numéro d'affaire
+Ne pas distribuer
+Accès restreint
+Conseil juridique

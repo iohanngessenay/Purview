@@ -1,9 +1,9 @@
-Conformité Screening
+Contrôle de conformité
 KYC
-AML
-Export License
-License Application
-High Risk Country
-Restricted Country
-Transaction Screening
+LBC
+Licence d'exportation
+Demande de licence
+Pays à haut risque
+Pays restreint
+Contrôle des transactions
 Réglementaire

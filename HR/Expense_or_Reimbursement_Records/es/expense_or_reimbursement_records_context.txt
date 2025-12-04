@@ -1,3 +1,18 @@
+Reembolso
+Kilometraje
+Hotel
+Transporte
+Dieta Diaria
+Recibo
+Gastos de Empresa
+Gastos de Viaje
+Dieta de Comida
+Caja Chica
+Factura
+IVA
+Justificante
+Tarifa de Kilometraje
+Alojamiento
 Cost Center
 GL Code
 Approval

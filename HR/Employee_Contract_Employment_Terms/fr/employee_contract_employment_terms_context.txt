@@ -1,7 +1,21 @@
+Contrat de Travail à Durée Indéterminée
+Contrat de Travail à Durée Déterminée
+Date d'Embauche
+Date de Début
+Période de Préavis
+Titre de Poste
+Poste
+Période d'Essai
+Résiliation
+Résiliation de Contrat
+Indemn ité de Départ
+Temps Complet
+Temps Partiel
+Conditions d'Emploi
 Employé
 Personnel
-Worker
-Manager
-HR
+Travailleur
+Gestionnaire
+RH
 Signature
-Effective Date
+Date d'effet

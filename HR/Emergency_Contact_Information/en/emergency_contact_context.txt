@@ -1,3 +1,18 @@
+Home Address
+Private Email
+Private Phone
+Personal Contact
+Relationship
+Mobile Number
+Cell Phone
+Spouse
+Partner
+Parent
+Guardian
+Dependent
+Contact Details
+Home Phone
+Alternate Contact
 Employee Record
 HR Record
 Master Data

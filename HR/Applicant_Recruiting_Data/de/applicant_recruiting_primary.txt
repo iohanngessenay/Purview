@@ -1,9 +1,8 @@
 Bewerbung
 Lebenslauf
+CV
 Anschreiben
 Motivationsschreiben
-Kandidat
-Vorstellungsgespräch
-Rekrutierung
-Einstellungsprozess
-Shortlist
+Stellenangebot
+Jobangebot
+Referenzprüfung

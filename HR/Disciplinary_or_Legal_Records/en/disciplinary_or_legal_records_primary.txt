@@ -1,9 +1,9 @@
-Warning
-Suspension
-Termination
-Misconduct
-Complaint
-Disciplinary
-Investigation
-Final Written Warning
+PIP
 Performance Improvement Plan
+Final Written Warning
+Written Warning
+Verbal Warning
+Termination Letter
+Dismissal
+Reprimand
+Grievance

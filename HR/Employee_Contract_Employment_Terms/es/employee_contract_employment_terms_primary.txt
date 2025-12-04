@@ -1,9 +1,6 @@
-Employment Contrato
-Employment Acuerdo
-Hire Date
-Notice Period
-Empleo Title
-Puesto
-Probation
-Termination
-Severance
+Contrato de Trabajo
+Contrato Laboral
+Acuerdo de Empleo
+Carta Oferta
+Oferta de Trabajo
+Carta de Oferta de Empleo

@@ -1,6 +1,9 @@
-Invoice
-Bill
-Reference
-Ref
-Number
+Legal Invoice
+Legal Fee Invoice
 Invoice Number
+Fee Note
+Statement of Account
+Counsel Fees Invoice
+Time Entry Record
+Expenses
+Payment Terms

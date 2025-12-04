@@ -1,5 +1,12 @@
-Document Number
+Identity Document
+Nationality
+Citizenship
 Expiry Date
+Date of Birth
+Place of Birth
+Immigration Status
+Document Number
 Issuing Authority
 Scan
 Copy of Passport
+Copy of ID

@@ -1,6 +1,17 @@
+Maladie
+Invalidité
+Incapacité
+Congé Maladie
+Rapport de Santé
+Santé au Travail
+Médecine du Travail
+Dossier Médical
+Assurance Maladie
+Ordonnance
+Diagnostic
 Employé
-HR
-Manager
+RH
+Gestionnaire
 Absence
-Return to Work
+Retour au travail
 Médical

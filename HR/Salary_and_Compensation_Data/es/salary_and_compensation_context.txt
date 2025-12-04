@@ -1,5 +1,24 @@
+Salario
+Bonus
+Compensación
+Retribución
+Salario Bruto
+Salario Neto
+Paga Extra
+13ª Mensualidad
+14ª Mensualidad
+Comisión
+Salario Base
+Remuneración Variable
+Aumento por Mérito
+Incentivo
+Salario Anual
+Tarifa por Hora
+Horas Extra
+Beneficios
+Pensión
+Opciones sobre Acciones
 Salario Evaluación
-Compensación Plan
 Annual Evaluación
 Total Rewards
 Nómina Cuenta

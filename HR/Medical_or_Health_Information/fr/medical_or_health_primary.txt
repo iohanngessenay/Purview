@@ -1,9 +1,8 @@
-Médical Certificate
-Doctor's Note
-Sickness
-Disability
-Illness
-Sick Leave
-Santé Report
-Fit for Work
-Occupational Santé
+Certificat Médical
+Certificat d'Arrêt de Travail
+Arrêt de Travail
+Arrêt Maladie
+Certificat du Médecin
+Apte au Travail
+Inapte au Travail
+Visite Médicale

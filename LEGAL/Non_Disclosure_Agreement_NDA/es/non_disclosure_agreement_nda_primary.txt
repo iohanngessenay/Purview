@@ -1,10 +1,18 @@
-No divulgación Acuerdo
+Acuerdo de No Divulgación
 NDA
-Confidentiality Acuerdo
-Secrecy Acuerdo
-Confidentiality Undertaking
-Mutual NDA
-Unilateral NDA
-Bilateral NDA
-Disclosure Restriction
-Proprietary Information
+Acuerdo de Confidencialidad
+Convenio de Confidencialidad
+Pacto de Confidencialidad
+Acuerdo de Secreto
+Compromiso de Confidencialidad
+NDA Mutuo
+NDA Unilateral
+NDA Bilateral
+Restricción de Divulgación
+Información Confidencial
+Información Reservada
+ANP
+CDA
+Período de Confidencialidad
+Parte Divulgadora
+Parte Receptora

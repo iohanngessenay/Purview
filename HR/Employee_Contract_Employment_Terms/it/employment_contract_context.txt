@@ -1,0 +1,22 @@
+Data Assunzione
+Data Inizio
+Periodo di Preavviso
+Titolo di Lavoro
+Posizione
+Periodo di Prova
+Licenziamento
+Buonuscita
+TFR
+Tempo Pieno
+Part-time
+Indeterminato
+Determinato
+Contratto a Tempo Determinato
+Condizioni di Lavoro
+Dipendente
+Personale
+Lavoratore
+Manager
+Risorse Umane
+Firma
+Data Effettiva

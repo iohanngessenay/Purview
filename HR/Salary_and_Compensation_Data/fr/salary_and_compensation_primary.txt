@@ -1,12 +1,6 @@
-Salaire
-Paie
-Bonus
-Rémunération
-Gross Salaire
-Net Salaire
-Pay Slip
-13th Month
-Commission
-Base Pay
-Variable Pay
-Merit Increase
+Fiche de Paie
+Bulletin de Paie
+Fiche de Salaire
+Lettre de Rémunération
+Lettre de Bonus
+Plan de rémunération

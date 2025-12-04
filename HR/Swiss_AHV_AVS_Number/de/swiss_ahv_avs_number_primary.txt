@@ -1,6 +1,8 @@
+AHV-Nummer
+AVS-Nummer
 AHV
 AVS
-Versicherungsnummer
+AHV-Nr.
 Sozialversicherungsnummer
-Sozialvers.-Nr
-AHV-Nummer
+13-stellige Nummer
+Versicherungsausweis

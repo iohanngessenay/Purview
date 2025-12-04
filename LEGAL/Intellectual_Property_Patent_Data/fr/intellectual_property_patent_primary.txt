@@ -1,16 +1,24 @@
 Brevet
-Brevet Application
+Demande de Brevet
 Marque
-Intellectual Property
-Copyright
-Design Registration
-IP Portfolio
-Invention Disclosure
-Brevet Pending
-Utility Model
-Registered Design
-Brevet Claim
-Prior Art
-WIPO
-EPO
+Propriété Intellectuelle
+Droit d'Auteur
+Enregistrement de Design
+Portefeuille PI
+Déclaration d'Invention
+Brevet en Instance
+Modèle d'Utilité
+Design Enregistré
+Revendication de Brevet
+Antériorité
+OMPI
+OEB
 USPTO
+Secret Commercial
+Accord de Licence
+Redevance
+PCT
+Droits de PI
+Numéro de Brevet
+Enregistrement de Marque
+INPI

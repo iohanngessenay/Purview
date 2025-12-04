@@ -1,9 +1,8 @@
-Warning
-Suspension
-Termination
-Misconduct
-Complaint
-Disciplinario
-Investigación
-Final Written Warning
-Desempeño Improvement Plan
+Plan de Mejora del Desempeño
+Advertencia Final por Escrito
+Advertencia Escrita
+Advertencia Verbal
+Carta de Despido
+Despido
+Amonestación
+Reclamación

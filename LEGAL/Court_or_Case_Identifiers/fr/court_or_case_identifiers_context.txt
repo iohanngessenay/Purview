@@ -1,6 +1,6 @@
 Tribunal
-Hearing
+Audience
 Tribunal
-Judgment
-Affaire ID
-Proceeding
+Jugement
+ID d'affaire
+Procédure
