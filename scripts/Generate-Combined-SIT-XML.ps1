@@ -193,12 +193,12 @@ $contextKeywordXml
     }
     
     # Build LocalizedStrings
-    $sitDisplayName = "$($category.Name.Replace('_', ' '))"
+    $sitDisplayName = "$($category.Name.Replace('_', ' ')) [ML]"
     $allLocalizedStringsXml += @"
 
       <Resource idRef="$entityGuid">
         <Name default="true" langcode="en-us">$sitDisplayName</Name>
-        <Description default="true" langcode="en-us">$sitDisplayName - Multilingual detection ($langAbbrev)</Description>
+        <Description default="true" langcode="en-us">Multilingual detection for $($category.Name.Replace('_', ' ')). Supports: $langFullNames</Description>
       </Resource>
 "@
     
