@@ -1,20 +1,30 @@
-Master Service Agreement
+﻿Master Service Agreement
 MSA
-Framework Agreement
+Service Level Agreement
+SLA
 Statement of Work
 SOW
-Engagement Letter
+Framework Agreement
+License Agreement
+Licensing Agreement
+Supply Agreement
+Distribution Agreement
+Partnership Agreement
+Joint Venture Agreement
+Consulting Agreement
+Professional Services Agreement
+Subcontractor Agreement
 Amendment
 Addendum
-Work Order
-Change Order
-Order Form
-Schedule
-Exhibit
-Annex
-SLA
-Service Level Agreement
-License Agreement
-Renewal
-Effective Date
-Execution
+Side Letter
+Termination Agreement
+Settlement Agreement
+Memorandum of Understanding
+MOU
+Letter of Intent
+LOI
+Engagement Letter
+Services Contract
+Vendor Agreement
+Procurement Contract
+Purchase Agreement

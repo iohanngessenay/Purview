@@ -1,4 +1,4 @@
-Medical Certificate
+﻿Medical Certificate
 Doctor's Note
 Fit for Work
 Unfit for Work
@@ -6,3 +6,17 @@ Fitness Certificate
 Health Report
 Occupational Health Report
 Medical Examination Report
+Sick Note
+Medical Report
+Health Assessment
+Disability Certificate
+Return to Work Certificate
+Medical Clearance
+Health Declaration
+Pre-Employment Medical
+Fitness for Duty
+Medical Questionnaire
+Health Screening Report
+Immunization Record
+Vaccination Certificate
+Drug Test Result

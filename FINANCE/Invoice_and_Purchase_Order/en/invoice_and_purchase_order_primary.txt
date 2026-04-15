@@ -1,0 +1,26 @@
+﻿Invoice
+Purchase Order
+PO
+Purchase Requisition
+Proforma Invoice
+Credit Note
+Debit Note
+Delivery Note
+Goods Receipt
+Receipt
+Accounts Payable
+Accounts Receivable
+Payment Advice
+Remittance Advice
+Invoice Number
+PO Number
+Order Confirmation
+Supplier Invoice
+Customer Invoice
+Recurring Invoice
+Final Invoice
+Interim Invoice
+Three-Way Match
+GRN
+Goods Received Note
+Bill of Lading

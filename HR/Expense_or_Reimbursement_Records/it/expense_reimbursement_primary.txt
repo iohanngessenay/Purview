@@ -1,5 +1,19 @@
-Nota Spese
-Richiesta Viaggio
-Modulo Spese
-Modulo Rimborso
-Giustificativo Spese
+﻿Nota spese
+Richiesta di rimborso
+Modulo spese
+Modulo di rimborso
+Ricevuta spese
+Rapporto spese di viaggio
+Rimborso chilometrico
+Indennità giornaliera
+Riepilogo spese
+Rendiconto spese
+Richiesta rimborso
+Rimborso spese
+Spese aziendali
+Approvazione spese
+Estratto carta aziendale
+Buono cassa
+Riconciliazione spese
+Autorizzazione viaggio
+Anticipo spese

@@ -1,8 +1,26 @@
-Investigación
-Caso Number
-Follow-up
+﻿Denunciante
+Denuncia
+Anónimo
 Confidencial
-Sensitive
-Ethics
-Hotline Caso
-Intake
+Ética
+Integridad
+Fraude
+Corrupción
+Conducta indebida
+Violación
+Investigación
+Protección
+Represalia
+Canal
+Línea
+Formulario
+Alegación
+Cumplimiento
+Código de conducta
+Política
+Responsable
+Comité de ética
+Defensor
+Buena fe
+Prueba
+Testigo

@@ -1,8 +1,19 @@
-Certificat Médical
-Certificat d'Arrêt de Travail
-Arrêt de Travail
-Arrêt Maladie
-Certificat du Médecin
-Apte au Travail
-Inapte au Travail
-Visite Médicale
+﻿Certificat médical
+Attestation médicale
+Arrêt maladie
+Arrêt de travail
+Aptitude au travail
+Inaptitude au travail
+Rapport de santé
+Rapport de médecin du travail
+Examen médical
+Certificat d'aptitude
+Certificat d'inaptitude
+Certificat de retour au travail
+Bilan de santé
+Déclaration de santé
+Visite médicale d'embauche
+Carnet de vaccination
+Certificat de vaccination
+Test de dépistage
+Questionnaire médical

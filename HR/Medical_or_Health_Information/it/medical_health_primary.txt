@@ -1,8 +1,18 @@
-Certificato Medico
-Certificato di Malattia
-Certificato del Medico
-Idoneità al Lavoro
-Non Idoneità al Lavoro
-Visita Medica
-Referto Medico
-Certificato INPS
+﻿Certificato medico
+Certificato di malattia
+Idoneità al lavoro
+Inidoneità al lavoro
+Rapporto sanitario
+Rapporto del medico competente
+Visita medica
+Certificato di idoneità
+Certificato di inidoneità
+Certificato di rientro al lavoro
+Dichiarazione di salute
+Visita medica preassuntiva
+Certificato di vaccinazione
+Questionario medico
+Rapporto di visita medica
+Giustificativo medico
+Denuncia di infortunio
+Cartella sanitaria

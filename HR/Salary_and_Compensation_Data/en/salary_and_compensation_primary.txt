@@ -1,4 +1,4 @@
-Pay Slip
+﻿Pay Slip
 Payslip
 Salary Statement
 Compensation Letter
@@ -6,3 +6,19 @@ Offer Letter
 Bonus Letter
 Compensation Plan
 Salary Review Letter
+Salary Certificate
+Wage Statement
+Pay Statement
+Compensation Statement
+Salary Confirmation
+Remuneration Letter
+Total Compensation Statement
+Salary Adjustment Letter
+Pay Increase Letter
+Compensation Breakdown
+Benefits Statement
+Annual Compensation Summary
+Retention Bonus Letter
+Sign-on Bonus Letter
+Commission Statement
+Pay Grade Schedule

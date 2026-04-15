@@ -1,7 +1,21 @@
-Arbeitsvertrag
+﻿Arbeitsvertrag
 Anstellungsvertrag
-Arbeitsvereinbarung
-Angebotsschreiben
+Dienstvertrag
 Stellenangebot
-Jobangebot
-Arbeitsangebot
+Einstellungsschreiben
+Ernennungsschreiben
+Dienstleistungsvertrag
+Vertragsverlängerung
+Vertragserneuerung
+Vertragsänderung
+Nachtrag zum Vertrag
+Zusatzvereinbarung
+Befristeter Vertrag
+Unbefristeter Vertrag
+Teilzeitvertrag
+Bestätigung der Probezeit
+Anstellungsbestätigung
+Beschäftigungsbedingungen
+Arbeitsbedingungen
+Rahmenvertrag
+Werkvertrag

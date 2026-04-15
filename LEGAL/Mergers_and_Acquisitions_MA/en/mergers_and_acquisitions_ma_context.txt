@@ -1,21 +1,35 @@
-Merger
+﻿Merger
 Acquisition
-Takeover
-Buy-out
-M&A
-Mergers and Acquisitions
-Due Diligence
-Target Company
-Acquirer
-Valuation
-Deal Room
-Data Room
 Transaction
-Deal Team
-Integration Plan
-Corporate Development
-Management Presentation
-Virtual Data Room
-Valuation Model
+Deal
+Buyer
+Seller
+Target
+Due Diligence
+Valuation
+Synergies
+Integration
+Structure
+Equity
+Share
+Stake
+Financing
+Funding
+Regulator
+Approval
+Competition
+Antitrust
+Price
+Enterprise Value
+EBITDA
+Multiple
+Return
+Shareholder
+Board
 Closing Conditions
-Binding Offer
+Material Adverse Change
+Representations
+Warranties
+Indemnification
+Escrow
+Holdback

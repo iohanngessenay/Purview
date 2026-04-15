@@ -1,0 +1,18 @@
+﻿Certificado médico
+Atestado médico
+Baixa médica
+Alta médica
+Relatório médico
+Relatório de saúde ocupacional
+Exame médico
+Certificado de aptidão
+Certificado de incapacidade
+Declaração de saúde
+Exame admissional
+Certificado de vacinação
+Questionário médico
+Relatório de exame médico
+Justificação médica
+Participação de acidente
+Aptidão para o trabalho
+Incapacidade para o trabalho

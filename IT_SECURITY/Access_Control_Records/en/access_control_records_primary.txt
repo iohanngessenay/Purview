@@ -1,0 +1,31 @@
+﻿Access Control
+Access Rights
+Access Permissions
+Access Review
+Role-Based Access Control
+RBAC
+Least Privilege
+Privilege Escalation
+User Provisioning
+User Deprovisioning
+Identity Management
+IAM
+Multi-Factor Authentication
+MFA
+Single Sign-On
+SSO
+Privileged Access Management
+PAM
+Service Account
+Admin Account
+Security Group
+Distribution List
+Group Membership
+Access Request
+Access Approval
+Entitlement
+Permission Matrix
+Segregation of Duties
+SoD
+Access Certification
+Recertification

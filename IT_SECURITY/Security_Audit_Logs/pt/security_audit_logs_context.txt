@@ -1,0 +1,34 @@
+﻿Registo
+Auditoria
+Evento
+Segurança
+Monitorização
+Alerta
+Deteção
+SIEM
+SOC
+IDS
+IPS
+Correlação
+Agregação
+Retenção
+Syslog
+Carimbo temporal
+Origem
+Destino
+Utilizador
+Ação
+Início de sessão
+Fim de sessão
+Falhado
+Sucesso
+Anomalia
+Referência
+Limiar
+Regra
+Política
+Conformidade
+Tempo real
+Painel de controlo
+Relatório
+Investigação

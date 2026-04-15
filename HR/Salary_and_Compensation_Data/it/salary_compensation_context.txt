@@ -1,25 +1,29 @@
-Stipendio
-Bonus
+﻿Stipendio
 Retribuzione
-RAL
-Retribuzione Annua Lorda
-Stipendio Lordo
-Stipendio Netto
+Bonus
+Compenso
+Retribuzione lorda
+Retribuzione netta
 Tredicesima
 Quattordicesima
-Commissione
-Retribuzione Base
-Retribuzione Variabile
-Aumento al Merito
-Incentivo
-Retribuzione Annuale
-Tariffa Oraria
+Provvigione
+Retribuzione base
+Retribuzione variabile
+Aumento di merito
+Retribuzione annua
+Tariffa oraria
 Straordinario
-Benefici
+Benefit
 Pensione
-Revisione Stipendio
-Revisione Annuale
-Ricompense Totali
-Conto Stipendio
-Fascia
+Stock option
+Incentivo
+Retribuzione totale
+Conto stipendio
 Livello
+Inquadramento
+Indennità
+Detrazione
+Imposta
+Contributi previdenziali
+INPS
+TFR

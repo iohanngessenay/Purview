@@ -1,10 +1,23 @@
-Cabinet d'avocats
-Conseil
+﻿Confidentiel
+Privilégié
+Client
 Avocat
-Service juridique
-Conseil interne
-Conseil externe
-Numéro d'affaire
-Ne pas distribuer
-Accès restreint
-Conseil juridique
+Conseil
+Cabinet
+Cabinet d'avocats
+Mandat
+Affaire
+Dossier
+Honoraires
+Compte séquestre
+Revue documentaire
+Due diligence
+Divulgation
+Caviardé
+Sensible
+Ne pas transmettre
+Usage interne
+Classification
+Protection des données
+RGPD
+Barrière informationnelle

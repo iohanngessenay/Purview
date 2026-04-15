@@ -1,24 +1,23 @@
-Sanction
-Sanctions
+﻿Sanctions
+Liste de sanctions
+Contrôle des exportations
 Embargo
-Contrôle des Exportations
-Partie Restreinte
-Entité Refusée
-Personne Bloquée
+Entité sanctionnée
 Liste SDN
-OFAC
+Liste OFAC
 Sanctions UE
 Sanctions ONU
-Sanctions UK
-BIS
-EAR
-ITAR
-SECO
-Biens à Double Usage
-Liste de Surveillance
-Conformité Commerciale
-Exigence de Licence
-Licence d'Exportation
-Screening
-Contrôle Sanctions
-Liste Interdite
+Criblage des sanctions
+Vérification des sanctions
+Licence d'exportation
+Classification d'exportation
+ECCN
+Biens à double usage
+Liste de marchandises contrôlées
+Restriction commerciale
+Déclaration d'utilisation finale
+Certificat d'utilisateur final
+Gel des avoirs
+Interdiction de voyage
+Sanctions sectorielles
+Liste des personnes gelées

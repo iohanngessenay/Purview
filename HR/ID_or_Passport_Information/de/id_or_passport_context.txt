@@ -1,14 +1,23 @@
-Passkarte
-Ausweis
-Ausländerausweis
-Identitätsnachweis
-Staatsangehörigkeit
-Gültig bis
+﻿Identitätsnachweis
+Nationalität
+Staatsbürgerschaft
+Ablaufdatum
 Geburtsdatum
 Geburtsort
 Aufenthaltsstatus
 Dokumentennummer
-Ablaufdatum
-Ausstellende Behörde
-Scan
+Ausstellungsbehörde
+Kopie
 Passkopie
+Ausweiskopie
+Lichtbild
+Amtlicher Ausweis
+Herkunftsland
+Ausstellungsdatum
+Gültig bis
+Einwanderung
+Arbeitsrecht
+Konsulat
+Botschaft
+Verifizierung
+Einarbeitung

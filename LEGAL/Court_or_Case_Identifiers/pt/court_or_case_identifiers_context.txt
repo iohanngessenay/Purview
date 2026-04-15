@@ -1,0 +1,22 @@
+﻿Tribunal
+Juiz
+Autor
+Réu
+Procedimento
+Audiência
+Sentença
+Recurso
+Prova
+Testemunha
+Testemunho
+Depoimento
+Mediação
+Arbitragem
+Acordo
+Competência
+Jurisdição
+Lei
+Advogado
+Ministério Público
+Secretaria
+Execução

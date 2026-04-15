@@ -1,20 +1,22 @@
-Facture
-Note d'Honoraires
-Référence
-Réf.
-Numéro
-Numéro de Facture
-Honoraires d'Avocat
-Heures Facturables
-Provision
+﻿Facture d'honoraires
+Note d'honoraires
+Frais juridiques
+Honoraires d'avocat
+Taux horaire
+Barème d'honoraires
+Relevé de facturation
+Saisie de temps
 Débours
-Saisie de Temps
-Taux Horaire
-Note de Frais
-Relevé de Compte
-Frais d'Avocat
-Services Juridiques
-Honoraires Professionnels
-Temps Facturable
-Dépenses
-Conditions de Paiement
+Frais de justice
+Répartition des coûts
+Convention d'honoraires
+Facture d'acompte
+Pro bono
+Forfait
+Honoraires de résultat
+Taux mixte
+Budget juridique
+Facture proforma
+Relevé de compte séquestre
+Provision sur honoraires
+État de frais

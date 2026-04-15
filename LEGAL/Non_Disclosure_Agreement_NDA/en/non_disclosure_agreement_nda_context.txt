@@ -1,17 +1,27 @@
-Secrecy Agreement
-Disclosure Restriction
-Proprietary Information
-Trade Secret Protection
-Confidentiality Period
-Non-Compete
-Confidentiality Obligation
-Receiving Party
+﻿Confidential
+Secret
+Proprietary
+Disclosure
 Disclosing Party
-Confidential Information
-Use Limitation
+Receiving Party
+Obligation
 Term
-Effective Date
-Purpose
-Return or Destroy
-No License
-Injunction
+Duration
+Exception
+Confidential Information
+Penalty
+Indemnification
+Breach
+Third Party
+Return
+Destruction
+Non-Compete
+Non-Solicitation
+Due Diligence
+Negotiation
+Vendor
+Partner
+Consultant
+Restricted
+Trade Secret
+Need to Know

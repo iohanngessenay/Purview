@@ -1,7 +1,21 @@
-Contrat de Travail
-Accord d'Emploi
-CDI
+﻿Contrat de travail
+Convention de travail
+Accord d'emploi
+Lettre d'offre
+Offre d'emploi
+Lettre de nomination
+Contrat de prestation
+Prolongation de contrat
+Renouvellement de contrat
+Avenant au contrat
+Contrat à durée déterminée
 CDD
-Lettre d'Offre
-Offre d'Emploi
-Contrat d'Emploi
+Contrat à durée indéterminée
+CDI
+Contrat à temps partiel
+Confirmation de période d'essai
+Attestation d'emploi
+Conditions d'emploi
+Promesse d'embauche
+Contrat de mission
+Convention collective

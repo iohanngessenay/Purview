@@ -1,12 +1,23 @@
-Documento d'Identità
-Numero Documento
+﻿Documento di identità
 Nazionalità
 Cittadinanza
-Data di Scadenza
-Data di Nascita
-Luogo di Nascita
-Stato di Immigrazione
-Data Scadenza
-Autorità Emittente
-Scansione
-Copia Passaporto
+Data di scadenza
+Data di nascita
+Luogo di nascita
+Status migratorio
+Numero documento
+Autorità emittente
+Copia
+Copia del passaporto
+Copia della carta d'identità
+Foto tessera
+Documento ufficiale
+Paese di origine
+Data di rilascio
+Valido fino al
+Immigrazione
+Consolato
+Ambasciata
+Diritto al lavoro
+Verifica
+Inserimento

@@ -1,21 +1,30 @@
-Contrat de Travail à Durée Indéterminée
-Contrat de Travail à Durée Déterminée
-Date d'Embauche
-Date de Début
-Période de Préavis
-Titre de Poste
+﻿Date d'embauche
+Date de début
+Préavis
+Intitulé du poste
 Poste
-Période d'Essai
-Résiliation
-Résiliation de Contrat
-Indemn ité de Départ
-Temps Complet
-Temps Partiel
-Conditions d'Emploi
+Période d'essai
+Licenciement
+Indemnité de départ
+Temps plein
+Temps partiel
+Permanent
+Temporaire
+Salarié
 Employé
-Personnel
-Travailleur
-Gestionnaire
 RH
 Signature
 Date d'effet
+Salaire brut
+Congés annuels
+Heures de travail
+Clause de non-concurrence
+Clause de confidentialité
+Avantages
+Retraite
+Prime
+Commission
+Supérieur hiérarchique
+Lieu de travail
+Télétravail
+CSE

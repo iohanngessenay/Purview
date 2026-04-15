@@ -1,0 +1,29 @@
+﻿Security Incident
+Incident Report
+Breach Notification
+Data Breach
+Incident Response Plan
+Incident Response
+Post-Incident Review
+Root Cause Analysis
+Lessons Learned
+After Action Report
+Security Alert
+Security Event
+Threat Detection
+Compromise
+Ransomware Incident
+Phishing Incident
+Malware Incident
+Unauthorized Access
+Data Exfiltration
+Insider Threat
+Incident Severity
+Critical Incident
+Major Incident
+Incident Ticket
+Incident Timeline
+Chain of Custody
+Forensic Analysis
+Digital Forensics
+Evidence Preservation

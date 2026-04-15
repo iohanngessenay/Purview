@@ -1,7 +1,19 @@
-Évaluation de Performance
-Entretien d'Évaluation
-Entretien Annuel
-Évaluation Annuelle
-Évaluation 360
-Autoévaluation
-Formulaire d'Évaluation
+﻿Évaluation de performance
+Entretien annuel
+Entretien de mi-année
+Évaluation du collaborateur
+Feedback 360
+Auto-évaluation
+Formulaire d'évaluation
+Bilan de performance
+Évaluation trimestrielle
+Évaluation de période d'essai
+Entretien de développement
+Revue des talents
+Rapport de calibration
+Fixation d'objectifs
+Feedback de performance
+Évaluation par le manager
+Évaluation par les pairs
+Évaluation des compétences
+Entretien professionnel

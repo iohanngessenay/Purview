@@ -1,9 +1,19 @@
-Passeport
-Numéro de Passeport
-Carte d'Identité
+﻿Passeport
+Numéro de passeport
+Carte d'identité
+Numéro d'identité
+Carte nationale d'identité
 CNI
-Permis de Travail
-Permis de Séjour
+Permis de séjour
+Permis de travail
 Visa
-Permis de Conduire
-Numéro de Sécurité Sociale
+Permis de conduire
+Numéro de sécurité sociale
+Numéro fiscal
+NIF
+Document d'identité
+Document de voyage
+Titre de séjour
+Carte de séjour
+Carte de résident
+Pièce d'identité

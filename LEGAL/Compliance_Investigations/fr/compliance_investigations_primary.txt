@@ -1,19 +1,21 @@
-Enquête Interne
-Incident de Conformité
-Faute Professionnelle
-Lanceur d'Alerte
-Rapport de Conclusions
-Évaluation Éthique
-Enquête Préliminaire
-Rapport d'Enquête
-LBC
-Lutte Contre le Blanchiment
-KYC
-Connaissance Client
-Enquête Fraude
-Diligence Raisonnable
-Audit Conformité
-Violation
-Enquête Réglementaire
-Audit Forensique
-Revue Conformité
+﻿Enquête de conformité
+Enquête interne
+Rapport d'enquête
+Revue de conformité
+Audit de conformité
+Enquête éthique
+Enquête de fraude
+Enquête forensique
+Constat de conformité
+Résumé d'enquête
+Conclusions d'enquête
+Analyse des causes
+Rapport d'action corrective
+Incident de conformité
+Enquête réglementaire
+Enquête anticorruption
+Enquête anti-blanchiment
+Note d'enquête
+Entretien de témoin
+Journal des preuves
+Clôture d'enquête

@@ -1,0 +1,27 @@
+﻿Prêt
+Crédit
+Dette
+Emprunteur
+Prêteur
+Banque
+Intérêts
+Capital
+Échéance
+Remboursement
+Défaut
+Covenant
+Nantissement
+Sûreté
+Garantie
+Subordonné
+Senior
+Garanti
+Non garanti
+Taux fixe
+Taux variable
+Refinancement
+Remboursement anticipé
+Tirage
+Notation
+Investment grade
+Agence de notation

@@ -1,15 +1,28 @@
+﻿Regolamento
 Conformità
-Regolamento
-Audit
-Rilievo Audit
-Rapporto Rischio
-Valutazione Rischio
-Obbligo Legale
+Standard
+Quadro
+Requisito
+Politica
+Procedura
 Controllo
-Carenza Controllo
-Piano Rimedio
+Audit
 Certificazione
-Conformità
-Violazione Policy
-Deposito Normativo
-Revisione Compliance
+Rischio
+Mitigazione
+Monitoraggio
+Reportistica
+Supervisione
+Autorità
+Regolatore
+Sanzione
+Multa
+Penalità
+Licenza
+Autorizzazione
+Registrazione
+Notifica
+Scadenza
+Obbligo
+Responsabilità
+Governance

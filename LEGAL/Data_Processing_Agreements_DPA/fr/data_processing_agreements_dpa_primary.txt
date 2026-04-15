@@ -1,20 +1,21 @@
-Accord de Traitement des Données
-Contrat de Sous-Traitance
+﻿Accord de traitement des données
 DPA
-Addendum de Protection des Données
-Conditions de Traitement
-Responsable de Traitement
-Responsable du Traitement
-Sous-Traitant
-Sous-Traitant Ultérieur
-Responsables Conjoints
-Coresponsables
-Clauses Contractuelles Types
+Accord de protection des données
+Addendum de traitement des données
+Clauses contractuelles types
 CCT
-SCC
-DPO
-Délégué à la Protection des Données
-Personne Concernée
-Données Personnelles
-Violation de Données
-Transfert de Données
+Accord de transfert de données
+Accord de sous-traitance
+Accord de responsabilité conjointe
+Accord de partage de données
+Addendum RGPD
+Règles d'entreprise contraignantes
+BCR
+Analyse d'impact sur la vie privée
+AIPD
+Registre des activités de traitement
+Formulaire de consentement
+Avis de confidentialité
+Politique de conservation des données
+Notification de violation de données
+Contrat de sous-traitance informatique

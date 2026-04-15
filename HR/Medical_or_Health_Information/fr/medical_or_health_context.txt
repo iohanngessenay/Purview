@@ -1,17 +1,27 @@
-Maladie
-Invalidité
-Incapacité
-Congé Maladie
-Rapport de Santé
-Santé au Travail
-Médecine du Travail
-Dossier Médical
-Assurance Maladie
+﻿Maladie
+Handicap
+Pathologie
+Congé maladie
+Médecine du travail
+Dossier médical
+Assurance maladie
 Ordonnance
 Diagnostic
-Employé
+Traitement
+Absence médicale
+Examen médical
+Salarié
 RH
-Gestionnaire
+Responsable
 Absence
-Retour au travail
-Médical
+Reprise du travail
+Médecin
+Hôpital
+Clinique
+Accident du travail
+Maladie professionnelle
+Ergonomie
+Santé mentale
+Congé maternité
+Congé paternité
+Rééducation

@@ -1,4 +1,4 @@
-Bank
+﻿Bank
 Account
 Payment
 Salary Account
@@ -14,3 +14,17 @@ Checking Account
 Savings Account
 Account Holder
 Bank Statement
+Branch Code
+Bank Name
+Beneficiary
+Electronic Transfer
+Payroll
+Bank Mandate
+Standing Order
+Direct Debit
+Credit Transfer
+Correspondent Bank
+Clearing Number
+Bank Certificate
+Account Verification
+Payment Instruction

@@ -1,9 +1,32 @@
-Screening Compliance
-KYC
-AML
-Licenza Esportazione
-Domanda Licenza
-Paese Alto Rischio
-Paese Limitato
-Screening Transazioni
-Normativo
+﻿Sanzione
+Embargo
+Esportazione
+Importazione
+Restrizione
+Divieto
+Lista
+Screening
+Verifica
+Conformità
+Paese
+Territorio
+Entità
+Persona
+Designazione
+Congelamento
+Blocco
+Licenza
+Autorizzazione
+Esenzione
+ONU
+UE
+OFAC
+Duplice uso
+Militare
+Tecnologia
+Controllato
+Commercio
+Penalità
+Violazione
+Indagine
+Rischio

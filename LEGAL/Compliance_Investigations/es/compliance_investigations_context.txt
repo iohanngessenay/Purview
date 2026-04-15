@@ -1,7 +1,29 @@
-Hotline
-Anonymous
-Retaliation
-Disciplinario Action
-Caso Management
-Allegation
-Entrevista Notes
+﻿Cumplimiento
+Investigación
+Ética
+Fraude
+Conducta indebida
+Violación
+Incumplimiento
+Infracción
+Denunciante
+Línea de denuncia
+Anónimo
+Alegación
+Evidencia
+Testigo
+Entrevista
+Hallazgo
+Recomendación
+Remediación
+Acción correctiva
+Sanción
+Penalización
+Multa
+Regulador
+Código de conducta
+Diligencia debida
+Forense
+Auditoría interna
+Evaluación de riesgos
+Escalamiento

@@ -1,0 +1,25 @@
+﻿Budget
+Prévision
+Projection
+Plan
+Estimation
+Objectif
+Chiffre d'affaires
+Charges
+Coût
+Bénéfice
+Marge
+EBITDA
+Écart
+Réel
+Prévu
+Exercice
+Croissance
+Déclin
+Hypothèse
+Scénario
+Sensibilité
+KPI
+ETP
+OPEX
+CAPEX

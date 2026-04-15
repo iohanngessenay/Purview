@@ -1,0 +1,37 @@
+﻿Budget
+Forecast
+Projection
+Plan
+Estimate
+Target
+Revenue
+Expense
+Cost
+Profit
+Margin
+EBITDA
+P&L
+Variance
+Actual
+Planned
+YTD
+Year-to-Date
+Q1
+Q2
+Q3
+Q4
+Fiscal Year
+FY
+Growth
+Decline
+Assumption
+Scenario
+Best Case
+Worst Case
+Base Case
+Sensitivity
+KPI
+Headcount
+FTE
+OPEX
+CAPEX

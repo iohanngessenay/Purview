@@ -1,0 +1,28 @@
+﻿Sanção
+Embargo
+Exportação
+Importação
+Restrição
+Proibição
+Lista
+Triagem
+Verificação
+Conformidade
+País
+Território
+Entidade
+Pessoa
+Designação
+Congelamento de ativos
+Bloqueio
+Licença
+Autorização
+Isenção
+ONU
+UE
+OFAC
+Reino Unido
+Uso dual
+Militar
+Tecnologia
+Bens controlados

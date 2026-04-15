@@ -1,8 +1,14 @@
-Geheimhaltungsvereinbarung
+﻿Geheimhaltungsvereinbarung
 NDA
 Vertraulichkeitsvereinbarung
-Gegenseitige Geheimhaltungsvereinbarung
-Einseitige Geheimhaltungsvereinbarung
-Zweiseitige Geheimhaltungsvereinbarung
-CDA
+Geheimhaltungsvertrag
+Vertraulichkeitserklärung
+Gegenseitiges NDA
+Einseitiges NDA
+Vertraulichkeitsklausel
+Geheimhaltungsklausel
+Vertraulichkeitsprotokoll
+Informationsschutzvereinbarung
+Vertraulichkeitsverpflichtung
 Geheimhaltungsverpflichtung
+Geschäftsgeheimnisvereinbarung

@@ -1,13 +1,24 @@
-Numero Assicurazione
-Previdenza Sociale
-Assicurazione Vecchiaia e Superstiti
-Previdenza Sociale Svizzera
-AI
-Assicurazione Invalidità
+﻿Numero di assicurazione
+Assicurazione sociale
+Sicurezza sociale
+AVS
+Assicurazione vecchiaia e superstiti
+Sicurezza sociale svizzera
 Dipendente
-Busta Paga
-Risorse Umane
-Onboarding
-Documento d'Identità
-Copia Documento
-Carta Identità
+Busta paga
+HR
+Inserimento
+Documento d'identità
+Cassa pensioni
+LPP
+Previdenza professionale
+Assicurazione sociale
+Svizzera
+Confederazione
+Cantone
+Datore di lavoro
+Registrazione
+Tessera assicurativa
+Deduzione
+AI
+Assicurazione invalidità

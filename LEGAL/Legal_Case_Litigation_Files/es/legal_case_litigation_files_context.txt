@@ -1,14 +1,26 @@
+﻿Litigio
+Caso
 Tribunal
-Tribunal
-Judge
+Demandante
+Demandado
 Abogado
-Abogado
-General Asesor
-Paralegal
-Docket
-Presentación
-Caso ID
-Caso File
-Legal Team
-Prosecutor
-Defense Asesor
+Escrito
+Prueba
+Testigo
+Testimonio
+Vista
+Sentencia
+Apelación
+Acuerdo
+Daños
+Medida
+Competencia
+Jurisdicción
+Recurso
+Alegato
+Prescripción
+Mediación
+Arbitraje
+Procurador
+Secretario judicial
+Fiscal

@@ -1,0 +1,19 @@
+﻿IBAN
+BIC
+SWIFT
+Código SWIFT
+SEPA
+Número de conta
+Conta bancária
+Dados bancários
+Conta salário
+Formulário bancário
+Dados de pagamento
+Ordem de transferência
+Domiciliação bancária
+Titular da conta
+Autorização de pagamento
+Transferência bancária
+Código do banco
+NIB
+Multibanco

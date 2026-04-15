@@ -1,5 +1,20 @@
-Informe de Gastos
-Reclamación de Viaje
-Formulario de Gastos
-Formulario de Reclamación
-Justificante de Gastos
+﻿Informe de gastos
+Nota de gastos
+Reclamación de gastos
+Formulario de gastos
+Formulario de reembolso
+Recibo de gastos
+Solicitud de reembolso
+Informe de viaje
+Reclamación de kilometraje
+Dietas
+Comprobante de gastos
+Resumen de gastos
+Reembolso de gastos
+Gastos de viaje
+Aprobación de gastos
+Extracto de tarjeta corporativa
+Vale de caja chica
+Conciliación de gastos
+Autorización de viaje
+Anticipo de gastos

@@ -1,29 +1,30 @@
-Fusion
+﻿Fusion
 Acquisition
-Rachat
+Fusions et acquisitions
+M&A
+Due diligence
+Contrat d'achat d'actions
+SPA
+Contrat d'achat d'actifs
+Accord de fusion
+Protocole de fusion
 OPA
-Offre Publique d'Achat
-F&A
-Fusions et Acquisitions
-Vérifications Préalables
-Due Diligence
-Société Cible
-Acquéreur
-Évaluation
-Mémorandum d'Information Confidentielle
-MIC
-Accord d'Achat d'Actions
-AAA
-Accord d'Achat d'Actifs
-Salle de Données
-Data Room
-Transaction
-Lettre d'Intention
-LDI
-Offre Non Engageante
-ONE
-Accord Définitif
+Offre publique d'achat
+Cession
+Scission
+Spin-off
+Management buyout
+MBO
+Leveraged buyout
+LBO
+Data room
+Salle de données
+Term sheet
+Lettre d'intention
+Accord d'exclusivité
+Attestation d'équité
+Rapport d'évaluation
+Earn-out
 Clôture
-Completion
-Complément de Prix
-Fiducie
+Intégration post-fusion
+Autorisation antitrust

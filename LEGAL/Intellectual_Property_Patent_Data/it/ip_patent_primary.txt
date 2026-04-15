@@ -1,24 +1,23 @@
-Brevetto
-Domanda Brevetto
-Marchio
-Proprietà Intellettuale
-Diritto d'Autore
-Registrazione Design
-Portfolio IP
-Divulgazione Invenzione
-Brevetto Pendente
-Modello di Utilità
-Design Registrato
-Rivendicazione Brevetto
-Arte Anteriore
-WIPO
-EPO
-USPTO
-Segreto Commerciale
-Accordo di Licenza
-Royalty
-PCT
-Diritti IP
-Numero Brevetto
-Registrazione Marchio
-UBIM
+﻿Domanda di brevetto
+Deposito di brevetto
+Concessione di brevetto
+Numero di brevetto
+Brevetto di utilità
+Brevetto di design
+Rivendicazioni di brevetto
+Registrazione del marchio
+Domanda di marchio
+Registrazione del diritto d'autore
+Segreto commerciale
+Cessione di PI
+Licenza di PI
+Accordo di proprietà intellettuale
+Portafoglio brevetti
+Ricerca di anteriorità
+Libertà di attuazione
+Due diligence PI
+Divulgazione di invenzione
+Famiglia di brevetti
+Valutazione di PI
+Accordo di trasferimento tecnologico
+Contratto di licenza

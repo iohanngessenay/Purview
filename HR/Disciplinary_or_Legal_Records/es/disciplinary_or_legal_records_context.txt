@@ -1,16 +1,24 @@
-Advertencia
+﻿Advertencia
 Suspensión
-Terminación
-Mala Conducta
+Despido
+Falta
 Queja
-Disciplinario
+Disciplina
 Investigación
-Medida Disciplinaria
-Informe de Incidente
-Acción Disciplinaria
-Expediente Disciplinario
-HR Caso
+Acción disciplinaria
+Informe de incidentes
+Investigación de RRHH
 Audiencia
-Notas de Reunión
+Acta
 Incumplimiento
-Violación de Política
+Violación de política
+Derecho laboral
+Comité de empresa
+Derecho de apelación
+Declaración de testigo
+Prueba
+Sanción
+Acoso
+Falta grave
+Relaciones laborales
+Expediente personal

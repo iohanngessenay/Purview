@@ -1,0 +1,26 @@
+﻿Finanziario
+Bilancio
+Ricavi
+Costi
+Utile
+Perdita
+Attività
+Passività
+Patrimonio netto
+Flusso di cassa
+Operativo
+Investimento
+Finanziamento
+IFRS
+Consolidamento
+Controllata
+Ammortamento
+Accantonamento
+Svalutazione
+Fair value
+Avviamento
+Immateriale
+Materiale
+Risultato netto
+EBIT
+EBITDA

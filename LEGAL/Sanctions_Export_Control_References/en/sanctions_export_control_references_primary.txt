@@ -1,15 +1,30 @@
+﻿Sanctions
+Sanctions List
+Export Control
+Embargo
+Sanctioned Entity
 SDN List
-Specially Designated Nationals
-OFAC
-EU Sanctions List
-UN Sanctions List
-UK Sanctions List
-BIS Denied Entities List
+OFAC List
+EU Sanctions
+UN Sanctions
+UK Sanctions
+Sanctions Screening
+Sanctions Check
+Sanctions Due Diligence
+Export License
+Export Classification
+ECCN
 EAR
 ITAR
-SECO Sanctions
-License Requirement
-Export License
-Screening
-Sanctions Screening
+Dual-Use Goods
+Controlled Goods List
+Trade Restriction
+End-Use Statement
+End-User Certificate
 Denied Parties List
+Consolidated Screening List
+Entity List
+Blocked Persons
+Asset Freeze
+Travel Ban
+Sectoral Sanctions

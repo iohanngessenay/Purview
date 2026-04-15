@@ -1,0 +1,29 @@
+﻿Incidente de seguridad
+Informe de incidente
+Notificación de brecha
+Brecha de datos
+Plan de respuesta a incidentes
+Respuesta a incidentes
+Revisión post-incidente
+Análisis de causa raíz
+Lecciones aprendidas
+Informe posterior
+Alerta de seguridad
+Evento de seguridad
+Detección de amenazas
+Compromiso
+Incidente de ransomware
+Incidente de phishing
+Incidente de malware
+Acceso no autorizado
+Exfiltración de datos
+Amenaza interna
+Gravedad del incidente
+Incidente crítico
+Incidente mayor
+Ticket de incidente
+Cronología del incidente
+Cadena de custodia
+Análisis forense
+Forense digital
+Preservación de evidencia

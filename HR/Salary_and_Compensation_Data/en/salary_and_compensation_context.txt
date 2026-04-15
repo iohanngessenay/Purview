@@ -1,4 +1,4 @@
-Salary
+﻿Salary
 Payroll
 Bonus
 Compensation
@@ -24,3 +24,17 @@ Total Rewards
 Payroll Account
 Band
 Grade
+Pay Scale
+Allowance
+Deduction
+Tax
+Withholding
+Social Security
+Retirement
+401k
+Employee Benefits
+Cost to Company
+CTC
+Profit Sharing
+RSU
+Restricted Stock Unit

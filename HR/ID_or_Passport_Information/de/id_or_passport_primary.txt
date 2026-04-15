@@ -1,10 +1,20 @@
-Reisepass
-Personalausweis
-Pass
+﻿Reisepass
 Passnummer
+Personalausweis
 Ausweisnummer
+Identitätskarte
+Aufenthaltserlaubnis
+Arbeitserlaubnis
 Arbeitsbewilligung
-Aufenthaltsbewilligung
 Visum
 Führerschein
 Sozialversicherungsnummer
+Steuer-ID
+Steueridentifikationsnummer
+Identitätsdokument
+Reisedokument
+Aufenthaltsbewilligung
+Niederlassungsbewilligung
+Ausländerausweis
+Personalien
+Biometrischer Ausweis

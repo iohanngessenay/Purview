@@ -1,28 +1,33 @@
-GDPR
-DSGVO
-FADP
-FINMA
-SEC
+﻿Regulatory Reference
+Regulatory Framework
+Compliance Standard
+Regulation
+Directive
+Applicable Law
+Regulatory Requirement
+Compliance Standard
+Regulatory Framework
+Compliance Policy
+Compliance Manual
+Compliance Program
+Compliance Plan
+Compliance Audit
+Compliance Certification
+ISO 27001
 SOX
 Sarbanes-Oxley
-HIPAA
-ISO 27001
-ISO/IEC 27001
-PCI DSS
-NIST
-FedRAMP
-FISMA
-CCPA
-LGPD
-Data Protection Act
-Swiss Data Protection Act
 Basel III
+MiFID
 MiFID II
-FCPA
-OFAC
-Dodd-Frank
-GLBA
-COBIT
-ITIL
+FINMA
+SEC
 FCA
-EBA
+BaFin
+GDPR
+PCI DSS
+SOC 2
+HIPAA
+NIST
+COBIT
+COSO
+ITIL

@@ -1,8 +1,31 @@
-Équipe de transaction
-Plan d'intégration
-Développement corporate
-Présentation de direction
-Salle de données virtuelle
-Modèle de valorisation
+﻿Fusion
+Acquisition
+Transaction
+Opération
+Acheteur
+Vendeur
+Cible
+Due diligence
+Évaluation
+Synergies
+Intégration
+Structure
+Capital
+Action
+Participation
+Financement
+Régulateur
+Approbation
+Concurrence
+Antitrust
+Prix
+Valeur d'entreprise
+EBITDA
+Actionnaire
+Conseil
 Conditions de clôture
-Offre ferme
+Changement défavorable
+Déclarations
+Garanties
+Indemnisation
+Séquestre

@@ -1,30 +1,24 @@
-Contrat
-Accord
-Convention
-Conditions Générales
-CGV
-CGU
-Accord Cadre
-Contrat Cadre de Services
-Énoncé des Travaux
-Cahier des Charges
-EDT
-SOW
-Avenant
-Addendum
-Clause de Résiliation
-Contrat de Service
-Contrat d'Achat
-Lettre d'Engagement
-Bon de Commande
-Ordre de Modification
-Formulaire de Commande
-Annexe
-Calendrier
-Pièce Jointe
-Document Annexe
+﻿Contrat-cadre
+Accord de niveau de service
 SLA
-Accord de Niveau de Service
-Contrat de Licence
-Renouvellement
-Date d'Effet
+Cahier des charges
+Accord-cadre
+Contrat de licence
+Contrat de fourniture
+Contrat de distribution
+Accord de partenariat
+Contrat de joint-venture
+Contrat de conseil
+Contrat de sous-traitance
+Avenant
+Accord de résiliation
+Accord transactionnel
+Protocole d'accord
+Lettre d'intention
+Lettre de mission
+Contrat de prestation
+Contrat fournisseur
+Marché public
+Contrat d'achat
+Bail
+Convention

@@ -1,9 +1,22 @@
-Legal Opinion
-Counsel Memo
+﻿Legal Opinion
+Legal Memorandum
+Counsel Memorandum
+Legal Advice
+Advisory Opinion
+Legal Analysis
+Legal Brief
+Legal Research Memo
+Internal Memorandum
+Privileged Memorandum
+Legal Assessment
+Regulatory Opinion
+Tax Opinion
+Compliance Opinion
+Risk Assessment
+Legal Recommendation
+Position Paper
+Legal Commentary
+Legal Note
 Opinion Letter
-Memorandum
-Legal Memo
-Counsel's Opinion
-Strategy Memo
-Legal Assessment Memo
-Case Analysis Memo
+Formal Opinion
+Informal Opinion

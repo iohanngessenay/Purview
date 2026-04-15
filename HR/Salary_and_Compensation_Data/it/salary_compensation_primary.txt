@@ -1,7 +1,19 @@
-Busta Paga
-Cedolino Paga
+﻿Busta paga
 Cedolino
-Lettera di Retribuzione
-Lettera di Bonus
-Piano Retributivo
-Stock Option
+Certificato di stipendio
+Lettera di retribuzione
+Lettera di bonus
+Piano retributivo
+Revisione salariale
+Conferma di stipendio
+Prospetto retributivo
+Stato delle prestazioni
+Lettera di aumento
+Riepilogo retributivo annuale
+Prospetto provvigioni
+Scala retributiva
+Foglio paga
+CUD
+Certificazione Unica
+CU
+Modello 730

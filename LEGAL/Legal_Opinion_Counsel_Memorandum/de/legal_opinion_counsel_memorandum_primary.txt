@@ -1,17 +1,20 @@
-Rechtsgutachten
-Gutachten
-Stellungnahme
+﻿Rechtsgutachten
 Rechtsmemorandum
-Beratungsschreiben
-Meinungsschreiben
-Vermerk
-Rechtsmemo
-Beratungsnotiz
-Rechtliche Analyse
-Schriftsatz
-Anwaltliche Stellungnahme
-Rechtliche Bewertung
-Strategiememo
+Anwaltsmemorandum
+Rechtsberatung
+Beratende Stellungnahme
+Rechtsanalyse
+Rechtsbrief
+Recherchememo
+Internes Memorandum
+Privilegiertes Memorandum
+Rechtsbewertung
+Regulatorische Stellungnahme
+Steuerrechtsgutachten
+Compliance-Gutachten
 Risikobewertung
-Fallanalyse
-Rechtliche Prüfung
+Rechtsempfehlung
+Positionspapier
+Rechtliche Einschätzung
+Gutachterliche Stellungnahme
+Formelles Gutachten

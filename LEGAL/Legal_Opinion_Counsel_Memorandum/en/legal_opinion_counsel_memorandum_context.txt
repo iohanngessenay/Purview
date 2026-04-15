@@ -1,18 +1,31 @@
-Advisory Note
-Position Paper
-Stellungnahme
-Gutachten
-Advice Note
-Legal Analysis
-Brief
-Legal Assessment
-Risk Assessment
-Case Analysis
-Legal Review
+﻿Opinion
+Memorandum
+Memo
+Advice
+Analysis
+Assessment
+Legal
 Counsel
 Attorney
-Legal Department
-Opinion
+Lawyer
+Advisor
+Recommendation
+Risk
+Compliance
+Regulatory
+Interpretation
 Conclusion
-Assumptions
-Qualifications
+Rationale
+Precedent
+Case Law
+Statute
+Regulation
+Jurisdiction
+Liability
+Exposure
+Privilege
+Confidential
+Draft
+Final
+Addendum
+Supplement

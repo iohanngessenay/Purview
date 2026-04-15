@@ -1,6 +1,28 @@
+﻿Protection des données
+RGPD
 Données personnelles
 Personne concernée
-Transfert international
-Annexe
-Mesures techniques et organisationnelles
-MTO
+Responsable du traitement
+Sous-traitant
+Traitement
+Consentement
+Intérêt légitime
+Violation de données
+Notification
+Transfert
+Pays tiers
+Décision d'adéquation
+Autorité de contrôle
+DPD
+Délégué à la protection des données
+Anonymisation
+Pseudonymisation
+Chiffrement
+Minimisation des données
+Limitation des finalités
+Droit à l'effacement
+Droit d'accès
+Portabilité
+LPD
+Nouvelle LPD
+Transfert transfrontalier

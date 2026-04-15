@@ -1,8 +1,19 @@
-Certificado Médico
-Parte de Baja
-Parte Médico
-Nota del Médico
-Alta Médica
-Apto para Trabajar
-Reconocimiento Médico
-Informe de Salud
+﻿Certificado médico
+Parte de baja
+Baja médica
+Parte de alta
+Informe médico
+Informe de salud laboral
+Examen médico
+Certificado de aptitud
+Certificado de incapacidad
+Alta médica
+Declaración de salud
+Reconocimiento médico
+Certificado de vacunación
+Cuestionario médico
+Informe de reconocimiento
+Justificante médico
+Parte de accidente
+Aptitud laboral
+Incapacidad laboral

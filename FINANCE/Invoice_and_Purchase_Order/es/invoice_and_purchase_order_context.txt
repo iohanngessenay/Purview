@@ -1,0 +1,26 @@
+﻿Factura
+Pedido
+Compra
+Aprovisionamiento
+Proveedor
+Comprador
+Pago
+Importe
+Total
+Impuesto
+IVA
+Descuento
+Vencimiento
+Condiciones de pago
+Divisa
+Artículo
+Cantidad
+Precio unitario
+Línea
+Aprobación
+Autorización
+ERP
+SAP
+Mayor
+Asiento
+Conciliación

@@ -1,0 +1,24 @@
+﻿Tribunal
+Juiz
+Advogado
+Autor
+Réu
+Litígio
+Processo
+Audiência
+Julgamento
+Sentença
+Recurso
+Prova
+Testemunha
+Perito
+Custas judiciais
+Honorários
+Jurisdição
+Competência
+Prazo
+Trânsito em julgado
+Execução
+Penhora
+Arbitragem
+Mediação

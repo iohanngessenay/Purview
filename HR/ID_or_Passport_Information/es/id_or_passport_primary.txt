@@ -1,11 +1,21 @@
-Pasaporte
-Número de Pasaporte
-Tarjeta de Identidad
+﻿Pasaporte
+Número de pasaporte
+Documento de identidad
 DNI
+Número de identidad
 NIE
-Permiso de Trabajo
-Permiso de Residencia
+Permiso de residencia
+Permiso de trabajo
 Visa
-Permiso de Conducir
-Carnet de Conducir
-Número de Seguridad Social
+Visado
+Licencia de conducir
+Carnet de conducir
+Número de seguridad social
+NIF
+CIF
+Documento de viaje
+Tarjeta de residencia
+Cédula de identidad
+Tarjeta de extranjero
+RUT
+CURP

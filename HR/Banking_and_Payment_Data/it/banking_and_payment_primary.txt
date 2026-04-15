@@ -1,0 +1,20 @@
+﻿IBAN
+BIC
+SWIFT
+Codice SWIFT
+SEPA
+Numero di conto
+Conto corrente
+Coordinate bancarie
+Dati bancari
+Conto stipendio
+Modulo bancario
+Dati di pagamento
+Ordine di bonifico
+Domiciliazione bancaria
+Titolare del conto
+Autorizzazione di pagamento
+Bonifico bancario
+Codice ABI
+Codice CAB
+CRO

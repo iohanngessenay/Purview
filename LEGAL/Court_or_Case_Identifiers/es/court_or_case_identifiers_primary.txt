@@ -1,15 +1,19 @@
-Número de Caso
-Número de Expediente
-Número de Ródex
-ID de Caso
-Referencia del Tribunal
-Número de Procedimiento
-Archivo Judicial
+﻿Número de expediente
+Número de causa
+Referencia judicial
+Número de autos
+Número de procedimiento
+Número de sentencia
+Auto judicial
+Sentencia
+Demanda
 Citación
-Acción Civil
-Caso Penal
-Registro del Tribunal
-Número de Demanda
-Número de Reclamo
-Referencia de Sentencia
-Número de Apelación
+Requerimiento
+Alegaciones
+Resolución judicial
+Acta de audiencia
+Recurso de apelación
+Recurso de casación
+Mandamiento
+Laudo arbitral
+Edicto

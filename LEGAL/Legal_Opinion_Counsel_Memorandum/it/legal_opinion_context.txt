@@ -1,7 +1,23 @@
+﻿Parere
+Memorandum
+Consulenza
+Analisi
+Valutazione
+Giuridico
 Consulente
 Avvocato
-Ufficio Legale
-Parere
+Raccomandazione
+Rischio
+Conformità
+Regolatorio
+Interpretazione
 Conclusione
-Presupposti
-Qualificazioni
+Motivazione
+Giurisprudenza
+Legge
+Regolamento
+Giurisdizione
+Responsabilità
+Riservato
+Bozza
+Definitivo

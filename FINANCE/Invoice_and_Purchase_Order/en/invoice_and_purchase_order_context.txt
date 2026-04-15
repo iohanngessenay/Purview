@@ -1,0 +1,35 @@
+﻿Invoice
+Order
+Purchase
+Procurement
+Supplier
+Vendor
+Buyer
+Payment
+Amount
+Total
+Subtotal
+Tax
+VAT
+Discount
+Due Date
+Payment Terms
+Net 30
+Net 60
+Currency
+Item
+Quantity
+Unit Price
+Line Item
+Approval
+Authorization
+ERP
+SAP
+Oracle
+Accounts
+Ledger
+Journal Entry
+Reconciliation
+Matching
+Exception
+Dispute

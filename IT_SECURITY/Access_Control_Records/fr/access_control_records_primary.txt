@@ -1,0 +1,31 @@
+﻿Contrôle d'accès
+Droits d'accès
+Permissions d'accès
+Revue des accès
+Contrôle d'accès basé sur les rôles
+RBAC
+Moindre privilège
+Élévation de privilèges
+Provisionnement utilisateur
+Déprovisionnement
+Gestion des identités
+IAM
+Authentification multi-facteurs
+MFA
+Authentification unique
+SSO
+Gestion des accès à privilèges
+PAM
+Compte de service
+Compte administrateur
+Groupe de sécurité
+Liste de distribution
+Appartenance au groupe
+Demande d'accès
+Approbation d'accès
+Habilitation
+Matrice de permissions
+Séparation des fonctions
+SoD
+Certification des accès
+Recertification

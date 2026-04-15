@@ -1,11 +1,27 @@
-SEC Form 10-K
-Form 10-K
-SEC Form 10-Q
-Form 10-Q
-SEC Form 8-K
-Form 8-K
-Prospectus
-Proxy Statement
-FINMA Filing
-Regulatory Filing
+﻿Regulatory Filing
 Regulatory Submission
+Annual Filing
+Quarterly Filing
+Registration Statement
+Prospectus
+Annual Report Filing
+10-K
+10-Q
+8-K
+Form S-1
+Proxy Statement
+Schedule 13D
+Form ADV
+License Application
+License Renewal
+Compliance Filing
+Notification to Regulator
+Prior Notification
+Post-Market Report
+Risk Report Filing
+Capital Adequacy Report
+Anti-Money Laundering Report
+Suspicious Activity Report
+SAR
+Currency Transaction Report
+CTR

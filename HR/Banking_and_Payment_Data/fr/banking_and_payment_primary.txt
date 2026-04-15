@@ -1,6 +1,19 @@
-IBAN
+﻿IBAN
 BIC
 SWIFT
 Code SWIFT
 SEPA
+Numéro de compte
 RIB
+Relevé d'identité bancaire
+Coordonnées bancaires
+Données bancaires
+Compte salaire
+Formulaire bancaire
+Détails de paiement
+Ordre de virement
+Domiciliation bancaire
+Titulaire du compte
+Prélèvement automatique
+Virement permanent
+Autorisation de paiement

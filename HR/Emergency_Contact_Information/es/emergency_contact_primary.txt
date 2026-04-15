@@ -1,6 +1,17 @@
-Contacto de Emergencia
-Familiar Más Cercano
-Emergencia
-Número de Emergencia
-Contacto ICE
-Teléfono de Emergencia
+﻿Contacto de emergencia
+Familiar más cercano
+Número de emergencia
+Teléfono de emergencia
+Email de emergencia
+Formulario de contacto de emergencia
+Tarjeta de emergencia
+Notificación de emergencia
+Datos de contacto de emergencia
+Lista de contactos de emergencia
+Información de emergencia
+Contacto de emergencia personal
+Ficha de contacto de emergencia
+Persona de confianza
+ICE
+Contacto en caso de emergencia
+Pariente más próximo

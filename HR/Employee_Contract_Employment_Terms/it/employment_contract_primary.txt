@@ -1,5 +1,20 @@
-Contratto di Lavoro
-Accordo di Lavoro
-Lettera di Offerta
-Offerta di Lavoro
-Contratto di Assunzione
+﻿Contratto di lavoro
+Contratto di assunzione
+Accordo di impiego
+Lettera di offerta
+Offerta di lavoro
+Lettera di nomina
+Contratto di servizio
+Proroga del contratto
+Rinnovo del contratto
+Addendum al contratto
+Contratto a tempo determinato
+Contratto a tempo indeterminato
+Contratto part-time
+Conferma del periodo di prova
+Certificato di impiego
+Condizioni di impiego
+Contratto di apprendistato
+Contratto di collaborazione
+Contratto collettivo
+CCNL

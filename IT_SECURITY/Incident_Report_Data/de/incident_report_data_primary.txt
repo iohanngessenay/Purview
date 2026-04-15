@@ -1,0 +1,28 @@
+﻿Sicherheitsvorfall
+Vorfallbericht
+Datenschutzverletzung
+Datenpanne
+Incident-Response-Plan
+Vorfallreaktion
+Nachbetrachtung
+Ursachenanalyse
+Lessons Learned
+Nachbericht
+Sicherheitswarnung
+Sicherheitsereignis
+Bedrohungserkennung
+Kompromittierung
+Ransomware-Vorfall
+Phishing-Vorfall
+Malware-Vorfall
+Unbefugter Zugriff
+Datenexfiltration
+Insider-Bedrohung
+Vorfallschwere
+Kritischer Vorfall
+Schwerwiegender Vorfall
+Vorfallticket
+Vorfallzeitleiste
+Beweissicherung
+Forensische Analyse
+Digitale Forensik

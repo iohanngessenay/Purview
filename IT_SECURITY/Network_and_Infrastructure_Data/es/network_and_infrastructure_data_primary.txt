@@ -1,0 +1,31 @@
+﻿Diagrama de red
+Topología de red
+Dirección IP
+Rango IP
+Subred
+VLAN
+Regla de firewall
+Configuración del firewall
+ACL
+Lista de control de acceso
+Registro DNS
+Zona DNS
+Controlador de dominio
+Active Directory
+Configuración de servidor
+Diagrama de infraestructura
+Diagrama de arquitectura
+Centro de datos
+Arquitectura en la nube
+Configuración VPN
+Certificado SSL
+Balanceador de carga
+Configuración del proxy
+Configuración del router
+Configuración del switch
+DMZ
+Bastión
+Servidor de salto
+Bloque CIDR
+Gateway NAT
+Grupo de seguridad

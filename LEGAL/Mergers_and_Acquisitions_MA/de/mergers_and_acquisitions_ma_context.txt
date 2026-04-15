@@ -1,8 +1,32 @@
-Deal-Team
-Integrationsplan
-Unternehmensentwicklung
-Managementpräsentation
-Virtueller Datenraum
-Bewertungsmodell
+﻿Fusion
+Übernahme
+Transaktion
+Geschäft
+Käufer
+Verkäufer
+Zielunternehmen
+Due Diligence
+Bewertung
+Synergien
+Integration
+Struktur
+Eigenkapital
+Aktie
+Beteiligung
+Finanzierung
+Regulierer
+Genehmigung
+Wettbewerb
+Kartellrecht
+Preis
+Unternehmenswert
+EBITDA
+Multiplikator
+Rendite
+Aktionär
+Verwaltungsrat
 Vollzugsbedingungen
-Verbindliches Angebot
+Zusicherung
+Gewährleistung
+Freistellung
+Treuhandkonto

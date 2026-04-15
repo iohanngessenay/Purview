@@ -1,28 +1,25 @@
-RGPD
-DSGVO
-LPD
-FINMA
-SEC
-SOX
-Sarbanes-Oxley
-HIPAA
+﻿Referencia regulatoria
+Marco regulatorio
+Norma de cumplimiento
+Regulación
+Directiva
+Ley aplicable
+Requisito regulatorio
+Política de cumplimiento
+Manual de cumplimiento
+Programa de cumplimiento
+Auditoría de cumplimiento
+Certificación de cumplimiento
 ISO 27001
-ISO/IEC 27001
-PCI DSS
-NIST
-FedRAMP
-FISMA
-CCPA
-LGPD
-Ley de Protección de Datos
-Ley Suiza de Protección de Datos
+SOX
 Basilea III
-MiFID II
-FCPA
-OFAC
-PBC
-KYC
-Dodd-Frank
-LOPD
-AEPD
+MiFID
 CNMV
+RGPD
+LOPDGDD
+PCI DSS
+SOC 2
+NIST
+COBIT
+COSO
+ENS

@@ -1,16 +1,33 @@
-Confidential Information Memorandum
-CIM
+﻿Merger
+Acquisition
+Mergers and Acquisitions
+M&A
+Due Diligence
 Share Purchase Agreement
 SPA
 Asset Purchase Agreement
 APA
+Merger Agreement
+Merger Protocol
+Takeover
+Tender Offer
+Public Tender Offer
+Divestiture
+Spin-Off
+Carve-Out
+Management Buyout
+MBO
+Leveraged Buyout
+LBO
+Data Room
+Term Sheet
 Letter of Intent
 LOI
-Definitive Agreement
-Tender Offer
-Non-Binding Offer
-NBO
+Exclusivity Agreement
+Fairness Opinion
+Valuation Report
+Earn-Out
 Closing
-Completion
-Earn-out
-Escrow
+Post-Merger Integration
+Anti-Trust Clearance
+Regulatory Approval

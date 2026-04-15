@@ -1,16 +1,24 @@
-Avvertimento
+﻿Ammonizione
 Sospensione
 Licenziamento
-Cattiva Condotta
+Condotta scorretta
 Reclamo
-Disciplinare
+Disciplina
 Indagine
-Provvedimento Disciplinare
-Rapporto di Incidente
-Azione Disciplinare
-Procedura Disciplinare
-Caso HR
+Azione disciplinare
+Rapporto di incidente
+Indagine HR
 Udienza
-Note Riunione
+Verbale
 Violazione
-Violazione Policy
+Violazione di policy
+Diritto del lavoro
+Rappresentante sindacale
+Diritto di appello
+Testimonianza
+Prova
+Sanzione
+Molestie
+Colpa grave
+Relazioni sindacali
+Fascicolo personale

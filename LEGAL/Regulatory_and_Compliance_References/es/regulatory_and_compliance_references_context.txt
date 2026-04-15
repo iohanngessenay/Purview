@@ -1,15 +1,27 @@
+﻿Regulación
 Cumplimiento
-Regulation
-Audit
-Audit Finding
-Risk Report
-Risk Assessment
-Legal Obligation
+Norma
+Marco
+Requisito
+Política
+Procedimiento
 Control
-Control Failure
-Remediation Plan
+Auditoría
 Certificación
-Conformance
-Policy Violation
-Regulatorio Presentación
-Cumplimiento Evaluación
+Riesgo
+Mitigación
+Supervisión
+Reporte
+Autoridad
+Regulador
+Sanción
+Multa
+Penalización
+Licencia
+Autorización
+Registro
+Notificación
+Plazo
+Obligación
+Responsabilidad
+Gobernanza

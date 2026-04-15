@@ -1,25 +1,32 @@
-Internal Investigation
-Compliance Incident
+﻿Compliance
+Investigation
+Ethics
+Fraud
 Misconduct
-Whistleblower
-Ethics Review
-Fact-Finding
-AML
-Anti-Money Laundering
-KYC
-Know Your Customer
-Fraud Investigation
-Due Diligence
-Compliance Audit
+Violation
+Non-Compliance
 Breach
-Regulatory Investigation
-Forensic Audit
-Compliance Review
-Incident Response
+Whistleblower
 Hotline
 Anonymous
-Retaliation
-Disciplinary Action
-Case Management
 Allegation
-Interview Notes
+Evidence
+Witness
+Interview
+Finding
+Recommendation
+Remediation
+Corrective Action
+Sanction
+Penalty
+Fine
+Regulator
+Policy Violation
+Code of Conduct
+Due Diligence
+Forensic
+Audit Trail
+Internal Audit
+Risk Assessment
+Control Weakness
+Escalation

@@ -1,0 +1,37 @@
+﻿Incident
+Breach
+Security
+Alert
+Event
+Threat
+Attack
+Response
+Remediation
+Recovery
+Containment
+Eradication
+Detection
+Investigation
+Forensics
+Evidence
+Timeline
+Impact
+Severity
+Priority
+Escalation
+Notification
+SIEM
+SOC
+CSIRT
+CERT
+CISO
+DPO
+Malware
+Ransomware
+Phishing
+Exploit
+Vulnerability
+IOC
+Indicator of Compromise
+TTPs
+MITRE ATT&CK

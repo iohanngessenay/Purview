@@ -1,0 +1,27 @@
+﻿Proteção de dados
+RGPD
+Dados pessoais
+Titular dos dados
+Responsável pelo tratamento
+Subcontratante
+Tratamento
+Consentimento
+Interesse legítimo
+Violação de dados
+Notificação
+Transferência
+País terceiro
+Decisão de adequação
+Autoridade de controlo
+EPD
+Encarregado de proteção de dados
+Anonimização
+Pseudonimização
+Encriptação
+Minimização dos dados
+Limitação da finalidade
+Direito ao apagamento
+Direito de acesso
+Portabilidade
+LGPD
+Transferência transfronteiriça

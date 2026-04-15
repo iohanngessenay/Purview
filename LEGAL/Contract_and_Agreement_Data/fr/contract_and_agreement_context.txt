@@ -1,19 +1,32 @@
-Date d'effet
-Signature
-Exemplaires
-Loi applicable
-Juridiction
-Partie
-Parties
-Client
-Fournisseur
-Vendeur
-Obligations
-Durée
-Renouvellement
-Violation
-Recours
-Confidentialité
+﻿Contrat
+Accord
+Conditions générales
+Clause
+Disposition
+Obligation
 Responsabilité
 Indemnisation
+Garantie
+Déclaration
 Force majeure
+Résiliation
+Renouvellement
+Prolongation
+Date d'effet
+Date d'expiration
+Durée
+Contrepartie
+Conditions de paiement
+Livrables
+Périmètre
+Droit applicable
+Juridiction
+Arbitrage
+Règlement des litiges
+Manquement
+Recours
+Dommages
+Pénalité
+Signature
+Partie
+Exécution

@@ -1,26 +1,29 @@
-Salaire
+﻿Salaire
 Paie
-Bonus
 Prime
 Rémunération
-Salaire Brut
-Salaire Net
-13ème Mois
-13ème Salaire
+Salaire brut
+Salaire net
+13ème mois
 Commission
-Salaire de Base
-Rémunération Variable
-Augmentation au Mérite
-Gratification
-Salaire Annuel
-Taux Horaire
-Heures Supplémentaires
+Salaire de base
+Rémunération variable
+Augmentation au mérite
+Salaire annuel
+Taux horaire
+Heures supplémentaires
 Avantages
 Retraite
-Stock-Options
-Évaluation salariale
-Évaluation annuelle
+Stock-options
+Intéressement
 Rémunération totale
-Compte de paie
-Bande
-Niveau
+Compte salaire
+Grille salariale
+Échelon
+Indemnité
+Retenue
+Impôt
+Cotisations sociales
+Participation
+Prévoyance
+Mutuelle

@@ -1,0 +1,29 @@
+﻿Budget
+Prognose
+Projektion
+Plan
+Schätzung
+Ziel
+Umsatz
+Kosten
+Aufwand
+Gewinn
+Marge
+EBITDA
+GuV
+Abweichung
+Ist
+Plan
+Geschäftsjahr
+GJ
+Wachstum
+Rückgang
+Annahme
+Szenario
+Best Case
+Worst Case
+Sensitivität
+KPI
+FTE
+OPEX
+CAPEX

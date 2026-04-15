@@ -1,0 +1,26 @@
+﻿Empréstimo
+Crédito
+Dívida
+Mutuário
+Mutuante
+Banco
+Juros
+Capital
+Maturidade
+Reembolso
+Incumprimento
+Covenant
+Garantia
+Penhor
+Subordinado
+Sénior
+Garantido
+Não garantido
+Taxa fixa
+Taxa variável
+Refinanciamento
+Reembolso antecipado
+Utilização
+Rating
+Investment grade
+Agência de rating

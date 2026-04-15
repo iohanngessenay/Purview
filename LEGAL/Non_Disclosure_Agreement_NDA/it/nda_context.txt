@@ -1,10 +1,23 @@
-Parte Divulgante
-Parte Ricevente
-Informazioni Riservate
-Limitazione Uso
+﻿Riservato
+Segreto
+Proprietario
+Divulgazione
+Parte divulgante
+Parte ricevente
+Obbligo
 Durata
-Data Effettiva
-Scopo
-Restituzione o Distruzione
-Nessuna Licenza
-Ingiunzione
+Eccezione
+Informazione riservata
+Penale
+Indennizzo
+Violazione
+Terzi
+Restituzione
+Distruzione
+Non concorrenza
+Non sollecitazione
+Due diligence
+Negoziazione
+Fornitore
+Partner
+Consulente

@@ -1,10 +1,22 @@
-Studio Legale
-Consulente
+﻿Riservato
+Privilegiato
+Cliente
 Avvocato
-Ufficio Legale
-Consulente Interno
-Consulente Esterno
-Numero Pratica
-Non Distribuire
-Accesso Limitato
-Parere Legale
+Consulente
+Studio legale
+Mandato
+Pratica
+Fascicolo
+Onorari
+Conto fiduciario
+Revisione documentale
+Due diligence
+Divulgazione
+Oscurato
+Sensibile
+Non inoltrare
+Solo uso interno
+Classificazione
+Protezione dei dati
+GDPR
+Barriera informativa

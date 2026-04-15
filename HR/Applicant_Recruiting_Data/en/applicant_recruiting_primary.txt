@@ -1,4 +1,4 @@
-Job Application
+﻿Job Application
 Curriculum Vitae
 CV
 Resume
@@ -8,3 +8,18 @@ Motivation Letter
 Job Offer
 Offer Letter
 Reference Check Letter
+Application Form
+Candidate Profile
+Rejection Letter
+Interview Scorecard
+Interview Feedback Form
+Recruiting Report
+Talent Profile
+Candidate Assessment
+Candidate Evaluation
+Employment Application
+Background Check Report
+Hiring Decision Form
+Job Requisition
+Candidate Screening
+Interview Notes

@@ -1,21 +1,19 @@
-Acuerdo de Tratamiento de Datos
-Contrato de Encargado de Tratamiento
+﻿Acuerdo de tratamiento de datos
 DPA
-Adenda de Protección de Datos
-Términos de Procesamiento
-Responsable del Tratamiento
-Responsable de Tratamiento
-Encargado del Tratamiento
-Encargado de Tratamiento
-Subencargado
-Corresponsables
-Responsables Conjuntos
-Cláusulas Contractuales Estándar
-Cláusulas Tipo
-CCE
-SCC
-Interesado
-Datos Personales
-Violación de Datos
-DPD
-Transferencia de Datos
+Acuerdo de protección de datos
+Cláusulas contractuales tipo
+CCT
+Acuerdo de transferencia de datos
+Acuerdo de subencargado
+Acuerdo de responsabilidad conjunta
+Acuerdo de intercambio de datos
+Addendum RGPD
+Normas corporativas vinculantes
+BCR
+Evaluación de impacto
+EIPD
+Registro de actividades de tratamiento
+Formulario de consentimiento
+Aviso de privacidad
+Política de retención de datos
+Notificación de violación de datos

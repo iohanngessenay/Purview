@@ -1,17 +1,22 @@
-Lanceur d'Alerte
-Ligne Éthique
-Rapport d'Incident
-Faute Professionnelle
-Rapport Anonyme
-Prévention des Représailles
-Signalement
-Divulgation Protégée
-Ligne Confidentielle
-Prise de Parole
-Violation Éthique
-Alerte Fraude
-Ligne de Plainte
-Canal de Signalement
-Signalement Anonyme
-Politique de Signalement
-Non-Rétorsion
+﻿Signalement lanceur d'alerte
+Alerte éthique
+Ligne d'alerte éthique
+Rapport d'éthique
+Signalement anonyme
+Alerte anonyme
+Rapport d'intégrité
+Ligne de conformité
+Signalement Speak-Up
+Rapport de faute
+Signalement de fraude
+Signalement de corruption
+Canal d'alerte
+Canal d'éthique
+Canal d'intégrité
+Divulgation protégée
+Protection du lanceur d'alerte
+Plainte pour représailles
+Signalement interne
+Signalement externe
+Loi Sapin II
+Directive lanceurs d'alerte

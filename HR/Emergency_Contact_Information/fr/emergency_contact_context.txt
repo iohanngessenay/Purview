@@ -1,20 +1,24 @@
-Adresse Domicile
-Email Privé
-Téléphone Privé
-Contact Personnel
-Lien de Parenté
-Numéro Mobile
-Téléphone Portable
+﻿Adresse personnelle
+Email privé
+Téléphone privé
+Contact personnel
+Lien de parenté
+Numéro de portable
 Conjoint
 Partenaire
 Parent
 Tuteur
-Personne à Charge
-Coordonnees Personnelles
-Téléphone Fixe
-Contact Alternatif
-Dossier employé
-Dossier RH
-Données principales
-ERP RH
-Fiche de contact
+Personne à charge
+Coordonnées
+Téléphone fixe
+Contact alternatif
+Dossier du personnel
+Données personnelles
+Membre de la famille
+Proche
+Premiers secours
+Groupe sanguin
+Allergies
+État de santé
+Responsable sécurité
+Évacuation

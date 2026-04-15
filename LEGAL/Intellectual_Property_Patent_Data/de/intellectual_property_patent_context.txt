@@ -1,9 +1,29 @@
-F&E
-Entwicklung
-Prototyp
-Technische Spezifikation
-Konstruktionszeichnung
-Laborbuch
-Technologietransfer
-Lizenzvertrag
-Proprietär
+﻿Patent
+Marke
+Urheberrecht
+Geistiges Eigentum
+IP
+Erfindung
+Innovation
+Anmeldung
+Erteilung
+Ansprüche
+Patentschrift
+Stand der Technik
+Neuheit
+Erfinderische Tätigkeit
+Verletzung
+Lizenzierung
+Lizenzgebühr
+Übertragung
+Erfinder
+Anmelder
+Prüfer
+Patentamt
+EPA
+WIPO
+PCT
+Handelsname
+Open Source
+Designschutz
+Markenschutz

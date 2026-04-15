@@ -1,27 +1,32 @@
-Vertrag
+﻿Vertrag
 Vereinbarung
-Allgemeine Geschäftsbedingungen
 AGB
-Kündigungsklausel
-Dienstleistungsvertrag
-Kaufvertrag
-Lizenzvertrag
-Wirksamkeitsdatum
-Unterschrift
-Gegenstücke
-Anwendbares Recht
-Gerichtsstand
-Partei
-Parteien
-Kunde
-Lieferant
-Anbieter
-Verpflichtungen
-Laufzeit
-Verlängerung
-Verstoß
-Abhilfe
-Vertraulichkeit
+Klausel
+Bestimmung
+Verpflichtung
 Haftung
 Freistellung
+Gewährleistung
+Zusicherung
 Höhere Gewalt
+Kündigung
+Verlängerung
+Wirksamkeitsdatum
+Ablaufdatum
+Laufzeit
+Gegenleistung
+Zahlungsbedingungen
+Leistungen
+Umfang
+Anwendbares Recht
+Gerichtsstand
+Schiedsverfahren
+Streitbeilegung
+Vertragsverletzung
+Rechtsmittel
+Schadenersatz
+Vertragsstrafe
+Unterschrift
+Vertragspartei
+Bindend
+Vollstreckbar

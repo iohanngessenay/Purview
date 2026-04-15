@@ -1,7 +1,23 @@
+﻿Avis
+Mémorandum
 Conseil
+Analyse
+Évaluation
+Juridique
+Conseiller
 Avocat
-Service juridique
-Avis
+Recommandation
+Risque
+Conformité
+Réglementaire
+Interprétation
 Conclusion
-Hypothèses
-Réserves
+Raisonnement
+Jurisprudence
+Loi
+Règlement
+Compétence
+Responsabilité
+Confidentiel
+Brouillon
+Final

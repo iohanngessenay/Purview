@@ -1,10 +1,24 @@
-Kanzlei
-Rechtsbeistand
+﻿Vertraulich
+Privilegiert
+Mandant
 Anwalt
-Rechtsabteilung
-Syndikus
-Externer Rechtsbeistand
-Aktenzeichen
-Nicht weitergeben
-Eingeschränkter Zugriff
-Rechtsrat
+Rechtsanwalt
+Berater
+Kanzlei
+Rechtsberatung
+Mandat
+Fall
+Akte
+Honorar
+Treuhandkonto
+Dokumentenprüfung
+Sorgfaltsprüfung
+Offenlegung
+Geschwärzt
+Sensibel
+Nicht weiterleiten
+Nur für internen Gebrauch
+Klassifizierung
+Datenschutz
+DSGVO
+Informationsbarriere

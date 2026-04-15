@@ -1,0 +1,26 @@
+﻿Mutuo
+Credito
+Debito
+Mutuatario
+Mutuante
+Banca
+Interessi
+Capitale
+Scadenza
+Rimborso
+Inadempimento
+Covenant
+Garanzia
+Pegno
+Subordinato
+Senior
+Garantito
+Non garantito
+Tasso fisso
+Tasso variabile
+Rifinanziamento
+Rimborso anticipato
+Utilizzo
+Rating
+Investment grade
+Agenzia di rating

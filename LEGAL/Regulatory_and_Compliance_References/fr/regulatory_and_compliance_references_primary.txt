@@ -1,28 +1,26 @@
-RGPD
-DSGVO
-LPD
-FINMA
-SEC
-SOX
-Sarbanes-Oxley
-HIPAA
+﻿Référence réglementaire
+Cadre réglementaire
+Norme de conformité
+Règlement
+Directive
+Loi applicable
+Exigence réglementaire
+Politique de conformité
+Manuel de conformité
+Programme de conformité
+Audit de conformité
+Certification de conformité
 ISO 27001
-ISO/IEC 27001
-PCI DSS
-NIST
-FedRAMP
-FISMA
-CCPA
-LGPD
-Loi sur la Protection des Données
-Loi Fédérale sur la Protection des Données
+SOX
 Bâle III
-MiFID II
-FCPA
-OFAC
-LBC
-KYC
-Dodd-Frank
-CNIL
-ACPR
+MiFID
+FINMA
 AMF
+ACPR
+RGPD
+PCI DSS
+SOC 2
+NIST
+COBIT
+COSO
+LPD

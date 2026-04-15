@@ -1,0 +1,31 @@
+﻿Controllo degli accessi
+Diritti di accesso
+Permessi di accesso
+Revisione degli accessi
+Controllo accessi basato sui ruoli
+RBAC
+Minimo privilegio
+Escalation dei privilegi
+Provisioning utente
+Deprovisioning
+Gestione delle identità
+IAM
+Autenticazione a più fattori
+MFA
+Single Sign-On
+SSO
+Gestione accessi privilegiati
+PAM
+Account di servizio
+Account amministratore
+Gruppo di sicurezza
+Lista di distribuzione
+Appartenenza al gruppo
+Richiesta di accesso
+Approvazione di accesso
+Abilitazione
+Matrice dei permessi
+Separazione dei compiti
+SoD
+Certificazione degli accessi
+Ricertificazione

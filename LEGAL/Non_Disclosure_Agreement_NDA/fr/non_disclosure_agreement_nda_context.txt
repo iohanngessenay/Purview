@@ -1,10 +1,23 @@
+﻿Confidentiel
+Secret
+Propriétaire
+Divulgation
 Partie divulgatrice
 Partie réceptrice
-Information confidentielle
-Limitation d'utilisation
+Obligation
 Durée
-Date d'effet
-Objet
-Restitution ou destruction
-Aucune licence
-Injonction
+Exception
+Information confidentielle
+Pénalité
+Indemnisation
+Violation
+Tiers
+Restitution
+Destruction
+Non-concurrence
+Non-sollicitation
+Due diligence
+Négociation
+Fournisseur
+Partenaire
+Consultant

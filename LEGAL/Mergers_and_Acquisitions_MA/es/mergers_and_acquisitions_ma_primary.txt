@@ -1,27 +1,30 @@
-Fusión
+﻿Fusión
 Adquisición
+Fusiones y adquisiciones
+M&A
+Due diligence
+Contrato de compraventa de acciones
+SPA
+Contrato de compraventa de activos
+Acuerdo de fusión
+Protocolo de fusión
 OPA
-Oferta Pública de Adquisición
-F&A
-Fusiones y Adquisiciones
-Debida Diligencia
-Empresa Objetivo
-Adquirente
-Valoración
-Memorandum de Información Confidencial
-MIC
-Acuerdo de Compra de Acciones
-ACA
-Acuerdo de Compra de Activos
-Sala de Datos
-Data Room
-Transacción
-Carta de Intención
-CDI
-Oferta No Vinculante
-ONV
-Acuerdo Definitivo
-Cierre
-Completion
+Oferta pública de adquisición
+Desinversión
+Escisión
+Spin-off
+Management buyout
+MBO
+Leveraged buyout
+LBO
+Sala de datos
+Data room
+Term sheet
+Carta de intención
+Acuerdo de exclusividad
+Opinión de equidad
+Informe de valoración
 Earn-out
-Fideicomiso
+Cierre
+Integración post-fusión
+Aprobación antimonopolio

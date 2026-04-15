@@ -1,0 +1,26 @@
+﻿Contenzioso
+Causa
+Tribunale
+Attore
+Convenuto
+Avvocato
+Atto
+Prova
+Testimone
+Testimonianza
+Udienza
+Sentenza
+Appello
+Transazione
+Danni
+Provvedimento
+Competenza
+Giurisdizione
+Ricorso
+Arringa
+Prescrizione
+Mediazione
+Arbitrato
+Cancelleria
+Pubblico Ministero
+Ufficiale giudiziario

@@ -1,4 +1,4 @@
-IBAN
+﻿IBAN
 BIC
 SWIFT
 SWIFT Code
@@ -6,3 +6,16 @@ SEPA
 ACH
 Routing Number
 Sort Code
+Bank Account Number
+Account Number
+BSB Number
+Bank Details Form
+Direct Deposit Form
+Payment Details Form
+Salary Payment Details
+Banking Information Form
+Payroll Banking Form
+Wire Transfer Details
+Bank Account Details
+Payment Authorization
+Account Holder Name

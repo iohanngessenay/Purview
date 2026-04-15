@@ -1,17 +1,20 @@
-Whistleblower
-Hotline Etica
-Rapporto Incidente
-Cattiva Condotta
-Rapporto Anonimo
-Prevenzione Ritorsioni
-Segnalazione
-Divulgazione Protetta
-Linea Confidenziale
-Parlare Apertamente
-Violazione Etica
-Allerta Frode
-Linea Reclami
-Canale di Segnalazione
-Segnalazione Anonima
-Politica Whistleblowing
-Non Ritorsione
+﻿Segnalazione del segnalante
+Segnalazione anonima
+Canale di segnalazione
+Linea etica
+Rapporto di etica
+Segnalazione di illeciti
+Rapporto di integrità
+Linea di conformità
+Segnalazione di condotta illecita
+Segnalazione di frode
+Segnalazione di corruzione
+Canale etico
+Canale di integrità
+Divulgazione protetta
+Protezione del segnalante
+Denuncia per ritorsione
+Segnalazione interna
+Segnalazione esterna
+Decreto Whistleblowing
+D.Lgs. 24/2023

@@ -1,8 +1,15 @@
-AHV-Nummer
-AVS-Nummer
+﻿AHV-Nummer
+AHV-Nr
 AHV
-AVS
-AHV-Nr.
 Sozialversicherungsnummer
+Versicherungsnummer
 13-stellige Nummer
-Versicherungsausweis
+AHV-Ausweis
+AHV-Versichertennummer
+OASI-Nummer
+Versichertennummer
+756-Nummer
+AHV-Bescheinigung
+Sozialversicherungsausweis
+AHV/IV-Nummer
+Neue AHV-Nummer

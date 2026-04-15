@@ -1,17 +1,32 @@
-AML
-KYC
+﻿Regulation
 Compliance
-Regulation
-Audit
-Audit Finding
-Risk Report
-Risk Assessment
-Legal Obligation
+Standard
+Framework
+Requirement
+Policy
+Procedure
 Control
-Control Failure
-Remediation Plan
+Audit
 Certification
-Conformance
-Policy Violation
-Regulatory Filing
-Compliance Review
+Risk
+Mitigation
+Monitoring
+Reporting
+Supervision
+Authority
+Regulator
+Sanction
+Fine
+Penalty
+License
+Authorization
+Registration
+Notification
+Deadline
+Obligation
+Accountability
+Governance
+Best Practice
+Guideline
+Benchmark
+Assessment

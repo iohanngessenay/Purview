@@ -1,0 +1,19 @@
+﻿Banca
+Conto
+Pagamento
+Stipendio
+Bonifico
+Dati bancari
+Metodo di pagamento
+Conto corrente
+Conto risparmio
+Estratto conto
+Filiale
+Nome della banca
+Beneficiario
+Busta paga
+Certificato bancario
+Verifica del conto
+Istituto bancario
+Addebito diretto
+RID

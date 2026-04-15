@@ -1,6 +1,18 @@
-Recibo de Nómina
-Nómina
-Formulario de Nómina
-Carta de Compensación
-Carta de Bonus
-Plan de Compensación
+﻿Nómina
+Recibo de salario
+Certificado de salario
+Carta de compensación
+Carta de bonificación
+Plan de compensación
+Revisión salarial
+Confirmación de salario
+Desglose de compensación
+Estado de prestaciones
+Carta de aumento
+Resumen de compensación anual
+Estado de comisiones
+Escala salarial
+Hoja de salario
+Recibo de nómina
+Finiquito
+Liquidación

@@ -1,24 +1,23 @@
-Patent
-Patentanmeldung
-Marke
-Geistiges Eigentum
-Urheberrecht
-Designregistrierung
-IP-Portfolio
-Erfindungsmeldung
-Patent anhängig
-Gebrauchsmuster
-Eingetragenes Design
-Patentanspruch
-Stand der Technik
-WIPO
-EPO
-USPTO
-Geschäftsgeheimnis
-Lizenzvereinbarung
-Lizenzgebühr
-PCT
-Schutzrechte
+﻿Patentanmeldung
+Patenterteilung
 Patentnummer
+Gebrauchsmuster
+Geschmacksmuster
+Patentansprüche
+Patentschrift
 Markenanmeldung
-DPMA
+Markenregistrierung
+Urheberrechtsregistrierung
+Geschäftsgeheimnis
+IP-Übertragung
+IP-Lizenz
+Erfindungsmeldung
+Patentportfolio
+Stand-der-Technik-Recherche
+Freizeichnungsanalyse
+IP-Due-Diligence
+Patentfamilie
+Patentverfolgung
+IP-Bewertung
+Technologietransfervertrag
+Lizenzvertrag

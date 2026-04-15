@@ -1,13 +1,25 @@
-Versicherungsnummer
-Sozialvers.-Nr
+﻿Versicherungsnummer
+Sozialversicherung
+AHV
 Alters- und Hinterlassenenversicherung
-Schweizer Sozialversicherung
+Schweizerische Sozialversicherung
+Mitarbeiter
+Lohnbuchhaltung
+Personalwesen
+Einarbeitung
+Identitätsdokument
+Ausweiskopie
+Pensionskasse
+BVG
+Berufliche Vorsorge
+Schweiz
+Bund
+Kanton
+Arbeitgeber
+Anmeldung
+Versicherungsausweis
+Abzug
 IV
 Invalidenversicherung
-Mitarbeiter
-Lohnabrechnung
-HR
-Onboarding
-Ausweis
-Identitätskarte
-Nationale ID
+EO
+Erwerbsersatzordnung

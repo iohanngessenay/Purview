@@ -1,9 +1,32 @@
-Contrôle de conformité
-KYC
-LBC
-Licence d'exportation
-Demande de licence
-Pays à haut risque
-Pays restreint
-Contrôle des transactions
-Réglementaire
+﻿Sanction
+Embargo
+Exportation
+Importation
+Restriction
+Interdiction
+Liste
+Criblage
+Vérification
+Conformité
+Pays
+Territoire
+Entité
+Personne
+Désignation
+Gel des avoirs
+Blocage
+Licence
+Autorisation
+Exemption
+ONU
+UE
+OFAC
+Double usage
+Militaire
+Technologie
+Contrôlé
+Commerce
+Pénalité
+Violation
+Enquête
+Risque

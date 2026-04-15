@@ -1,0 +1,25 @@
+﻿Imposta
+Fiscale
+Tributario
+Agenzia delle Entrate
+Dichiarazione
+Deduzione
+Credito
+Rimborso
+Debito
+Pagamento
+IVA
+Reddito
+Società
+Plusvalenza
+Ammortamento
+Imponibile
+Esente
+Anno fiscale
+Conformità
+Sanzione
+Interessi
+Verifica
+Prezzi di trasferimento
+Doppia imposizione
+Convenzione fiscale

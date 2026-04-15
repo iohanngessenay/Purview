@@ -1,0 +1,29 @@
+﻿Audit-Protokoll
+Sicherheitsprotokoll
+Ereignisprotokoll
+Zugriffsprotokoll
+Authentifizierungsprotokoll
+SIEM
+Protokollverwaltung
+Protokollaggregation
+Protokollkorrelation
+Protokollaufbewahrung
+Protokollanalyse
+Syslog
+Windows-Ereignisprotokoll
+Anwendungsprotokoll
+Firewall-Protokoll
+Intrusion Detection
+IDS
+Intrusion Prevention
+IPS
+Sicherheitsüberwachung
+Bedrohungsüberwachung
+Echtzeitüberwachung
+Alarmregel
+Erkennungsregel
+Korrelationsregel
+SOAR
+Audit-Trail
+Ereigniskorrelation
+Protokollweiterleitung

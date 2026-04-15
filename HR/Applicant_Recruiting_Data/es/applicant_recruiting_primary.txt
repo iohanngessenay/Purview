@@ -1,10 +1,21 @@
-Solicitud de Empleo
-Curriculum Vitae
+﻿Solicitud de empleo
+Currículum Vitae
 CV
-Currículum
-Hoja de Vida
-Carta de Presentación
-Carta de Motivación
-Oferta de Trabajo
-Carta Oferta
-Verificación de Referencias
+Hoja de vida
+Carta de presentación
+Carta de motivación
+Oferta de empleo
+Carta de oferta
+Carta de rechazo
+Formulario de solicitud
+Perfil del candidato
+Evaluación del candidato
+Ficha de entrevista
+Informe de reclutamiento
+Notas de entrevista
+Verificación de referencias
+Prueba de aptitud
+Expediente de candidatura
+Selección de candidatos
+Informe de selección
+Promesa de contratación

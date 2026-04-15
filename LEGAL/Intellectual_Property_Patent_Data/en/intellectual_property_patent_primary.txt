@@ -1,16 +1,26 @@
-Patent Application
-Trademark Application
-Patent
-Trademark
-Design Registration
-Invention Disclosure
-Patent Pending
-Utility Model
-Registered Design
-PCT Application
-License Agreement
-IP Rights
+﻿Patent Application
+Patent Filing
+Patent Grant
 Patent Number
+Utility Patent
+Design Patent
+Provisional Patent
+Patent Claims
+Patent Specification
 Trademark Registration
-Service Mark
-DPMA
+Trademark Application
+Copyright Registration
+Trade Secret
+IP Assignment
+IP License
+Intellectual Property Agreement
+Patent Portfolio
+Prior Art Search
+Freedom to Operate
+FTO
+IP Due Diligence
+Invention Disclosure
+Patent Family
+Patent Prosecution
+IP Valuation
+Technology Transfer Agreement

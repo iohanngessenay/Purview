@@ -1,17 +1,20 @@
-Opinión Legal
-Memorandum de Asesoría
-Nota Consultiva
-Carta de Opinión
-Memorando
-Documento de Posición
-Parecer Jurídico
-Dictamen Legal
-Memo Legal
-Nota de Asesoramiento
-Análisis Legal
-Escrito
-Opinión del Abogado
-Evaluación Legal
-Memo de Estrategia
-Evaluación de Riesgos
-Análisis de Caso
+﻿Dictamen jurídico
+Memorando jurídico
+Memorando del consejero
+Asesoría legal
+Opinión consultiva
+Análisis jurídico
+Informe jurídico
+Nota de investigación
+Memorando interno
+Memorando privilegiado
+Evaluación jurídica
+Dictamen regulatorio
+Dictamen fiscal
+Dictamen de cumplimiento
+Evaluación de riesgos
+Recomendación jurídica
+Documento de posición
+Comentario jurídico
+Carta de opinión
+Dictamen formal

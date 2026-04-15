@@ -1,21 +1,23 @@
-Verbale Consiglio
-Verbale CdA
-Verbale Riunione
-Risoluzione
-Risoluzione Consiglio
-Risoluzione Azionisti
+﻿Delibera del consiglio
+Verbale del consiglio
+Verbale di assemblea
+Delibera degli azionisti
+Assemblea generale ordinaria
+Assemblea generale straordinaria
+Relazione di governance
 Statuto
-Atto Costitutivo
-Patto Parasociale
-Governance Aziendale
-Regolamento Interno
-Diritti di Voto
-Nomina Amministratore
-Carta del Consiglio
-Assemblea Generale
-Assemblea Straordinaria
-Quorum
-Delega
-Dovere Fiduciario
-Consiglio di Amministrazione
-Comitato Esecutivo
+Atto costitutivo
+Regolamento del consiglio
+Consiglio di amministrazione
+CDA
+Ordine del giorno del consiglio
+Procura
+Nomina del consigliere
+Dimissioni del consigliere
+Delibera societaria
+Comitato di revisione
+Comitato nomine
+Comitato remunerazioni
+Relazione annuale
+Patto parasociale
+Visura camerale

@@ -1,17 +1,20 @@
-Parere Legale
-Memorandum Consulente
-Nota Consultiva
-Lettera Parere
-Memorandum
-Documento Posizione
-Stellungnahme
-Gutachten
-Memo Legale
-Nota di Consulenza
-Analisi Legale
-Memoria
-Parere del Legale
-Valutazione Legale
-Memo Strategico
-Valutazione Rischio
-Analisi del Caso
+﻿Parere legale
+Memorandum legale
+Parere del consulente
+Consulenza legale
+Parere consultivo
+Analisi giuridica
+Memoria legale
+Nota di ricerca
+Memorandum interno
+Memorandum privilegiato
+Valutazione giuridica
+Parere regolatorio
+Parere fiscale
+Parere di conformità
+Valutazione dei rischi
+Raccomandazione legale
+Nota di posizione
+Commento giuridico
+Lettera di parere
+Parere formale

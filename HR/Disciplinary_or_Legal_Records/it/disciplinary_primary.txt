@@ -1,8 +1,20 @@
-Piano di Miglioramento
-Richiamo Scritto Finale
-Richiamo Scritto
-Richiamo Verbale
-Lettera di Licenziamento
+﻿Ammonizione
+Ammonizione scritta
+Richiamo verbale
+Richiamo formale
+Sospensione
+Lettera di licenziamento
 Licenziamento
-Ammonizione
-Contestazione
+Licenziamento disciplinare
+Procedimento disciplinare
+Piano di miglioramento
+Azione correttiva
+Rapporto disciplinare
+Rapporto di incidente
+Rapporto di indagine
+Lettera di appello
+Modulo di reclamo
+Licenziamento per giusta causa
+Sanzione disciplinare
+Contestazione disciplinare
+Provvedimento disciplinare

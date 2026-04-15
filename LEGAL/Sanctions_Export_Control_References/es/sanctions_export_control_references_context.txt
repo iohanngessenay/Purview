@@ -1,9 +1,32 @@
-Cumplimiento Screening
-KYC
-AML
-Export License
-License Application
-High Risk Country
-Restricted Country
-Transaction Screening
-Regulatorio
+﻿Sanción
+Embargo
+Exportación
+Importación
+Restricción
+Prohibición
+Lista
+Filtrado
+Verificación
+Cumplimiento
+País
+Territorio
+Entidad
+Persona
+Designación
+Congelación de activos
+Bloqueo
+Licencia
+Autorización
+Exención
+ONU
+UE
+OFAC
+Doble uso
+Militar
+Tecnología
+Controlado
+Comercio
+Penalización
+Violación
+Investigación
+Riesgo

@@ -1,20 +1,25 @@
-Remboursement
+﻿Remboursement
 Kilométrage
 Hôtel
 Transport
-Indemité Journalière
+Per diem
 Reçu
-Dépenses Professionnelles
-Frais de Déplacement
-Indemité de Repas
-Petite Caisse
+Frais professionnels
+Frais de déplacement
+Indemnité de repas
+Caisse
 Facture
 TVA
-Justificatif
-Bareme Kilometrique
+Reçu fiscal
 Hébergement
 Centre de coûts
-Code GL
 Approbation
-Politique de dépenses
-Carte corporate
+Politique de frais
+Carte entreprise
+Billet d'avion
+Taxi
+Stationnement
+Péage
+Frais de conférence
+Frais de réception
+Déjeuner d'affaires

@@ -1,20 +1,27 @@
+﻿Legal Case
+Litigation File
 Lawsuit
+Court Filing
+Legal Proceeding
 Complaint
-Case Number
-Statement of Claim
-Notice of Appeal
-Writ of Summons
+Petition
+Answer
 Counterclaim
-Judgment
-Subpoena
+Cross-Claim
+Motion to Dismiss
+Summary Judgment
+Preliminary Injunction
+Temporary Restraining Order
+Discovery Request
+Interrogatories
+Request for Production
+Deposition Notice
+Trial Brief
+Appellate Brief
+Amicus Brief
 Court Order
+Judgment
 Settlement Agreement
+Consent Decree
+Class Action
 Arbitration Award
-Deposition Transcript
-Motion
-Brief
-Affidavit
-Exhibit
-Evidence
-Witness Statement
-Testimony

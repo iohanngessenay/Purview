@@ -1,0 +1,29 @@
+﻿Salário
+Vencimento
+Bónus
+Remuneração
+Salário bruto
+Salário líquido
+Subsídio de Natal
+Subsídio de férias
+Comissão
+Salário base
+Remuneração variável
+Aumento por mérito
+Salário anual
+Taxa horária
+Horas extra
+Benefícios
+Pensão
+Opções de ações
+Incentivo
+Remuneração total
+Conta salário
+Nível salarial
+Categoria
+Subsídio
+Dedução
+Imposto
+Segurança Social
+IRS
+Fundo de pensões

@@ -1,24 +1,23 @@
-Patente
-Solicitud de Patente
-Marca Registrada
-Propiedad Intelectual
-Derechos de Autor
-Registro de Diseño
-Cartera de PI
-Divulgación de Invención
-Patente Pendiente
-Modelo de Utilidad
-Diseño Registrado
-Reivindicación de Patente
-Arte Previo
-OMPI
-OEP
-USPTO
-Secreto Comercial
-Acuerdo de Licencia
-Regalía
-PCT
-Derechos de PI
-Número de Patente
-Registro de Marca
-OEPM
+﻿Solicitud de patente
+Registro de patente
+Concesión de patente
+Número de patente
+Patente de utilidad
+Patente de diseño
+Reivindicaciones de patente
+Registro de marca
+Solicitud de marca
+Registro de derechos de autor
+Secreto comercial
+Cesión de PI
+Licencia de PI
+Acuerdo de propiedad intelectual
+Cartera de patentes
+Búsqueda de estado de la técnica
+Libertad de operación
+Due diligence de PI
+Divulgación de invención
+Familia de patentes
+Valoración de PI
+Acuerdo de transferencia de tecnología
+Contrato de licencia

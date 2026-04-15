@@ -1,6 +1,19 @@
-IBAN
+﻿IBAN
 BIC
 SWIFT
 Código SWIFT
 SEPA
-CCC
+Número de cuenta
+Cuenta bancaria
+Datos bancarios
+Cuenta de nómina
+Formulario bancario
+Datos de pago
+Orden de transferencia
+Domiciliación bancaria
+Titular de la cuenta
+Autorización de pago
+Transferencia bancaria
+Código de sucursal
+Clabe
+CBU

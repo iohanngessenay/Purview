@@ -1,8 +1,26 @@
-Enquête
-Numéro d'affaire
-Suivi
+﻿Lanceur d'alerte
+Signalement
+Anonyme
 Confidentiel
-Sensible
 Éthique
-Affaire ligne d'assistance
-Prise en charge
+Intégrité
+Fraude
+Corruption
+Faute
+Violation
+Enquête
+Protection
+Représailles
+Canal
+Ligne
+Formulaire
+Allégation
+Conformité
+Code de conduite
+Politique
+Responsable
+Comité d'éthique
+Médiateur
+Bonne foi
+Preuve
+Témoin

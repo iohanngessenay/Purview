@@ -1,4 +1,4 @@
-Training Record
+﻿Training Record
 Learning Plan
 Course Attendance
 Workshop
@@ -15,3 +15,20 @@ L&D
 Learning and Development
 Compliance Training
 Mandatory Training
+E-Learning
+Instructor-Led Training
+Webinar
+Conference
+Bootcamp
+Certification Exam
+Renewal
+Expiry
+Training Budget
+LMS
+Learning Management System
+Training Provider
+Onboarding Training
+Safety Training
+First Aid Training
+ISO Certification
+Audit Training

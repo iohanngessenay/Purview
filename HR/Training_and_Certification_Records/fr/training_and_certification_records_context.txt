@@ -1,15 +1,28 @@
-Dossier de Formation
-Plan d'Apprentissage
-Présence au Cours
+﻿Dossier de formation
+Plan de formation
+Participation au cours
 Atelier
 Séminaire
-Développement Professionnel Continu
-Formation Continue
-Heures de Formation
+DPC
+Développement professionnel continu
+Développement professionnel
+Formation continue
+Heures de formation
 Compétence
-Développement des Compétences
+Développement des compétences
 Apprentissage
-F&D
-Formation et développement
-Formation à la conformité
 Formation obligatoire
+E-learning
+Formation présentielle
+Webinaire
+Conférence
+Examen
+Renouvellement
+Expiration
+Budget formation
+LMS
+Prestataire de formation
+Formation d'intégration
+Formation sécurité
+Formation premiers secours
+Certification ISO

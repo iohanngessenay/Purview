@@ -1,0 +1,27 @@
+﻿Financiero
+Estado
+Balance
+Ingresos
+Gastos
+Beneficio
+Pérdida
+Activo
+Pasivo
+Patrimonio
+Flujo de efectivo
+Operativo
+Inversión
+Financiación
+NIIF
+Consolidación
+Filial
+Amortización
+Provisión
+Deterioro
+Valor razonable
+Fondo de comercio
+Intangible
+Tangible
+Resultado neto
+EBIT
+EBITDA

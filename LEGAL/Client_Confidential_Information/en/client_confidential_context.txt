@@ -1,23 +1,30 @@
-Client Confidential
-Confidential Information
+﻿Confidential
 Privileged
-Attorney-Client
-Confidential Communication
-Strictly Confidential
-Internal Use Only
-Proprietary Information
-Client Matter
-Client File
-Legal Advice
-Not for Distribution
-In Confidence
-Legal Privilege
-Law Firm
-Counsel
+Client
 Attorney
-Legal Department
-In-House Counsel
-External Counsel
-Matter Number
-Do Not Distribute
-Restricted Access
+Lawyer
+Counsel
+Solicitor
+Law Firm
+Legal Counsel
+Engagement
+Matter
+Case
+Docket
+Retainer
+Billing
+Trust Account
+Escrow
+Legal Hold
+Document Review
+Due Diligence
+Disclosure
+Redacted
+Sensitive
+Do Not Forward
+Internal Use Only
+Classification
+Data Protection
+GDPR
+Information Barrier
+Chinese Wall

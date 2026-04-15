@@ -1,0 +1,23 @@
+﻿Fascicolo giudiziario
+Causa legale
+Contenzioso
+Citazione
+Procedimento giudiziario
+Atto di citazione
+Comparsa di risposta
+Domanda riconvenzionale
+Eccezione di inammissibilità
+Provvedimento cautelare
+Ordinanza
+Istanza di esibizione
+Interrogatorio
+Arringa
+Appello
+Sentenza
+Decreto
+Accordo transattivo
+Azione collettiva
+Lodo arbitrale
+Esecuzione forzata
+Decreto ingiuntivo
+Precetto

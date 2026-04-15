@@ -1,7 +1,20 @@
-Arztzeugnis
+﻿Arztzeugnis
 Ärztliches Attest
-Krankmeldung
 Krankschreibung
+Arbeitsunfähigkeitsbescheinigung
+AU-Bescheinigung
+Gesundheitszeugnis
+Arbeitsfähigkeit
+Arbeitsunfähigkeit
+Betriebsärztlicher Bericht
+Untersuchungsbericht
 Gesundheitsbericht
-Arbeitstauglichkeitszeugnis
-Arbeitsunfähigkeitszeugnis
+Rückkehr zur Arbeit
+Medizinische Freigabe
+Gesundheitserklärung
+Einstellungsuntersuchung
+Impfnachweis
+Impfzertifikat
+Drogentest
+Gesundheitscheck
+Tauglichkeitszeugnis

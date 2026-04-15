@@ -1,4 +1,4 @@
-Certificate of Completion
+﻿Certificate of Completion
 Training Certificate
 Certification
 License
@@ -8,3 +8,16 @@ Qualification
 Credential
 CPD Certificate
 Training Transcript
+Course Certificate
+Professional Certificate
+Diploma
+Training Completion Report
+Skills Assessment
+Competency Certificate
+Attendance Certificate
+Online Course Certificate
+Certification Exam
+Professional License
+Training Record
+Learning Transcript
+Compliance Training Certificate

@@ -1,18 +1,13 @@
-Acuerdo de No Divulgación
+﻿Acuerdo de no divulgación
 NDA
-Acuerdo de Confidencialidad
-Convenio de Confidencialidad
-Pacto de Confidencialidad
-Acuerdo de Secreto
-Compromiso de Confidencialidad
-NDA Mutuo
-NDA Unilateral
-NDA Bilateral
-Restricción de Divulgación
-Información Confidencial
-Información Reservada
-ANP
-CDA
-Período de Confidencialidad
-Parte Divulgadora
-Parte Receptora
+Acuerdo de confidencialidad
+Compromiso de confidencialidad
+NDA mutuo
+NDA unilateral
+Cláusula de confidencialidad
+Cláusula de secreto
+Protocolo de confidencialidad
+Acuerdo de protección de información
+Acuerdo de secreto
+Compromiso de no divulgación
+Convenio de confidencialidad

@@ -1,4 +1,4 @@
-Sickness
+﻿Sickness
 Disability
 Illness
 Sick Leave
@@ -17,3 +17,19 @@ Manager
 Absence
 Return to Work
 Medical
+Doctor
+Physician
+Hospital
+Clinic
+Chronic Condition
+Workplace Injury
+Accident Report
+Workers Compensation
+Ergonomic Assessment
+Mental Health
+Stress Leave
+Maternity
+Paternity
+Pregnancy
+Physiotherapy
+Rehabilitation

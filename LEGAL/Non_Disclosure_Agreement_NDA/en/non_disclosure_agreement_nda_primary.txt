@@ -1,9 +1,18 @@
-Non-Disclosure Agreement
+﻿Non-Disclosure Agreement
 NDA
 Confidentiality Agreement
+Secrecy Agreement
+Confidentiality Undertaking
 Mutual NDA
 Unilateral NDA
+One-Way NDA
+Two-Way NDA
 Bilateral NDA
-Confidential Disclosure Agreement
-CDA
-Confidentiality Undertaking
+Confidentiality Clause
+Secrecy Clause
+Confidentiality Protocol
+Non-Disclosure Undertaking
+Information Protection Agreement
+Proprietary Information Agreement
+Confidentiality Deed
+Trade Secret Agreement

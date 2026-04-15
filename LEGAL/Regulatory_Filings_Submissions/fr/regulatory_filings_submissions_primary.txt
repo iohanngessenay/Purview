@@ -1,15 +1,18 @@
-Dépôt Réglementaire
-Soumission
+﻿Déclaration réglementaire
+Soumission réglementaire
+Rapport annuel
+Déclaration trimestrielle
+Déclaration d'enregistrement
 Prospectus
-Divulgation
-Formulaire SEC
-Dépôt FINMA
-Rapport à l'Autorité
-Rapport Annuel
-Rapport Trimestriel
-Rapport de Conformité
-Divulgation Obligatoire
-Soumission Réglementaire
-Délai de Dépôt
-Déclaration Obligatoire
-Document de Référence
+Demande de licence
+Renouvellement de licence
+Déclaration de conformité
+Notification au régulateur
+Notification préalable
+Rapport de marché
+Rapport de risque
+Rapport de solvabilité
+Déclaration anti-blanchiment
+Déclaration de soupçon
+Rapport périodique
+Communication ad hoc

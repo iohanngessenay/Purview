@@ -1,0 +1,20 @@
+﻿Número de processo
+Número de causa
+Referência judicial
+Número de autos
+Número de procedimento
+Número de sentença
+Despacho
+Sentença
+Petição inicial
+Citação
+Requerimento
+Alegações
+Acórdão
+Decisão judicial
+Ata de audiência
+Recurso
+Recurso de revista
+Mandado
+Sentença arbitral
+Ato judicial

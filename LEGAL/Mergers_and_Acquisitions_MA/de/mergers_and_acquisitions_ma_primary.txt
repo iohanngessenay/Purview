@@ -1,36 +1,32 @@
-Fusion
-Verschmelzung
+﻿Fusion
 Übernahme
-Unternehmensübernahme
-Aufkauf
-Komplettübernahme
-M&A
 Fusionen und Übernahmen
+M&A
 Due Diligence
-Prüfung
-Zielunternehmen
-Erwerber
-Bewertung
-Unternehmensbewertung
-Vertrauliches Informationsmemorandum
-CIM
-Kaufvertrag
 Aktienkaufvertrag
-Share Purchase Agreement
 SPA
-Asset Deal
-Vermögenskaufvertrag
-APA
-Datenraum
-Transaktion
-Absichtserklärung
-LOI
-Unverbindliches Angebot
-NBO
+Unternehmenskaufvertrag
+Asset-Kaufvertrag
+Fusionsvertrag
+Fusionsprotokoll
 Übernahmeangebot
-Endgültige Vereinbarung
-Abschlussvereinbarung
-Closing
-Abschluss
-Earn-out
-Treuhand
+Kaufangebot
+Öffentliches Übernahmeangebot
+Veräusserung
+Abspaltung
+Spin-Off
+Management-Buyout
+MBO
+Leveraged Buyout
+LBO
+Datenraum
+Term Sheet
+Absichtserklärung
+Exklusivitätsvereinbarung
+Fairness-Gutachten
+Bewertungsbericht
+Earn-Out
+Vollzug
+Post-Merger-Integration
+Kartellfreigabe
+Regulatorische Genehmigung

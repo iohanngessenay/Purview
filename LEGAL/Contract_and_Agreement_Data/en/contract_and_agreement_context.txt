@@ -1,25 +1,37 @@
-Contract
+﻿Contract
 Agreement
 Terms and Conditions
-Termination Clause
-Service Agreement
-Purchase Agreement
+Clause
+Provision
+Obligation
+Liability
+Indemnification
+Indemnity
+Warranty
+Representation
+Force Majeure
+Termination
+Renewal
+Extension
 Effective Date
-Signature
-Counterparts
+Expiry Date
+Term
+Consideration
+Payment Terms
+Deliverables
+Scope
 Governing Law
 Jurisdiction
-Party
-Parties
-Client
-Supplier
-Vendor
-Obligations
-Term
-Renewal
+Arbitration
+Dispute Resolution
 Breach
 Remedy
-Confidentiality
-Liability
-Indemnity
-Force Majeure
+Damages
+Penalty
+Signature
+Execution
+Counterpart
+Party
+Parties
+Binding
+Enforceable

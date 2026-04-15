@@ -1,8 +1,20 @@
-Plan de Mejora del Desempeño
-Advertencia Final por Escrito
-Advertencia Escrita
-Advertencia Verbal
-Carta de Despido
+﻿Amonestación
+Amonestación escrita
+Advertencia verbal
+Advertencia formal
+Suspensión
+Carta de despido
 Despido
-Amonestación
-Reclamación
+Despido disciplinario
+Expediente disciplinario
+Plan de mejora del rendimiento
+Acción correctiva
+Informe disciplinario
+Informe de incidentes
+Informe de investigación
+Carta de apelación
+Formulario de queja
+Despido procedente
+Despido improcedente
+Sanción disciplinaria
+Acta de mediación

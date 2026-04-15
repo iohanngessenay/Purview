@@ -1,20 +1,25 @@
-Privatadresse
+﻿Privatadresse
 Private E-Mail
-Private Telefonnummer
+Privattelefon
 Persönlicher Kontakt
-Beziehung
+Verwandtschaftsverhältnis
 Mobilnummer
-Handy
 Ehepartner
 Partner
 Elternteil
-Erziehungsberechtigter
+Vormund
 Angehöriger
 Kontaktdaten
-Festnetz
+Festnetznummer
 Alternativer Kontakt
-Mitarbeiterakte
-HR-Akte
+Personalakte
 Stammdaten
-HR-System
-Kontaktdatenblatt
+Familienmitglied
+Verwandter
+Erste Hilfe
+Blutgruppe
+Allergien
+Medizinischer Zustand
+Sicherheitsbeauftragter
+Personaldaten
+Evakuierungskontakt

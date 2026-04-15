@@ -1,14 +1,28 @@
+﻿Contentieux
+Litige
+Affaire
 Tribunal
-Cour
-Juge
+Demandeur
+Défendeur
 Avocat
-Avocat
-Conseil général
-Parajuriste
-Rôle
-Dépôt
-ID d'affaire
-Dossier d'affaire
-Équipe juridique
+Conclusions
+Preuve
+Pièce
+Témoin
+Témoignage
+Audience
+Jugement
+Appel
+Règlement
+Dommages
+Injonction
+Compétence
+Juridiction
+Requête
+Mémoire
+Prescription
+Médiation
+Arbitrage
+Huissier
+Greffe
 Procureur
-Avocat de la défense

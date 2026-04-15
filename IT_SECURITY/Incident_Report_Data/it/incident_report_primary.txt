@@ -1,0 +1,29 @@
+﻿Incidente di sicurezza
+Report di incidente
+Notifica di violazione
+Violazione dei dati
+Piano di risposta agli incidenti
+Risposta agli incidenti
+Revisione post-incidente
+Analisi delle cause
+Lezioni apprese
+Rapporto post-azione
+Allarme di sicurezza
+Evento di sicurezza
+Rilevamento delle minacce
+Compromissione
+Incidente ransomware
+Incidente di phishing
+Incidente malware
+Accesso non autorizzato
+Esfiltrazione di dati
+Minaccia interna
+Gravità dell'incidente
+Incidente critico
+Incidente maggiore
+Ticket di incidente
+Cronologia dell'incidente
+Catena di custodia
+Analisi forense
+Indagine digitale
+Preservazione delle prove

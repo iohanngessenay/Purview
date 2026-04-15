@@ -1,25 +1,30 @@
-Gehalt
+﻿Gehalt
 Lohn
 Bonus
 Vergütung
-Bruttolohn
-Nettolohn
+Bruttogehalt
+Nettogehalt
 13. Monatslohn
 Provision
-Fixlohn
-Variabler Lohn
+Grundgehalt
+Variable Vergütung
+Leistungszulage
 Jahresgehalt
 Stundenlohn
 Überstunden
-Sozialleistungen
-Rente
+Leistungen
+Pensionskasse
 Aktienoptionen
-Beteiligung
 Anreiz
 Gesamtvergütung
-Gehaltsrunde
-Vergütungsplan
-Jahresgespräch
+Gehaltsüberprüfung
 Lohnkonto
-Band
-Stufe
+Gehaltsband
+Gehaltsstufe
+Zulage
+Abzug
+Steuer
+Sozialversicherung
+Altersvorsorge
+BVG
+Gratifikation

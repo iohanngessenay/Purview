@@ -1,4 +1,4 @@
-Passport
+﻿Passport
 Passport Number
 ID Card
 National ID
@@ -10,3 +10,15 @@ Driver's License
 Driving Licence
 Social Security Number
 SSN
+Identity Card
+Travel Document
+Alien Registration
+Green Card
+Work Authorization
+Employment Authorization
+Biometric Residence Permit
+National Insurance Number
+Tax ID
+Tax Identification Number
+TIN
+Personal ID

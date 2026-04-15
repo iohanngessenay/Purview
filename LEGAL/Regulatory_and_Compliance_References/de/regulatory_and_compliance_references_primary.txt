@@ -1,23 +1,26 @@
-DSGVO
-Datenschutz-Grundverordnung
-DSG
-Schweizer Datenschutzgesetz
-FINMA
-Sarbanes-Oxley
+﻿Regulatorische Referenz
+Regulatorischer Rahmen
+Compliance-Standard
+Verordnung
+Richtlinie
+Anwendbares Recht
+Regulatorische Anforderung
+Compliance-Richtlinie
+Compliance-Handbuch
+Compliance-Programm
+Compliance-Audit
+Compliance-Zertifizierung
 ISO 27001
-PCI DSS
-NIST
-FISMA
-CCPA
-LGPD
+SOX
 Basel III
-MiFID II
-Datenschutzgesetz
-Aufsichtsbehörde
-Geldwäschegesetz
-KYC
+MiFID
+FINMA
 BaFin
-FCA
-EBA
+DSGVO
+PCI DSS
+SOC 2
+NIST
 COBIT
-ITIL
+COSO
+KRITIS
+IT-Sicherheitsgesetz

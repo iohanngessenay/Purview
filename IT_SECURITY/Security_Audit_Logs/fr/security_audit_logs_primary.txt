@@ -1,0 +1,29 @@
+﻿Journal d'audit
+Journal de sécurité
+Journal d'événements
+Journal d'accès
+Journal d'authentification
+SIEM
+Gestion des journaux
+Agrégation de logs
+Corrélation de logs
+Rétention des logs
+Analyse des logs
+Syslog
+Journal d'événements Windows
+Journal applicatif
+Journal du pare-feu
+Détection d'intrusion
+IDS
+Prévention d'intrusion
+IPS
+Surveillance de sécurité
+Surveillance des menaces
+Surveillance en temps réel
+Règle d'alerte
+Règle de détection
+Règle de corrélation
+SOAR
+Piste d'audit
+Corrélation d'événements
+Transfert de logs

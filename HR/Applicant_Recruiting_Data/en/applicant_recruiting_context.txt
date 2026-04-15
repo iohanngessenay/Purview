@@ -1,4 +1,4 @@
-Application
+﻿Application
 Candidate
 Applicant
 Job Candidate
@@ -11,3 +11,25 @@ Job Posting
 Requisition
 HR
 Talent Acquisition
+Recruiting
+Headhunter
+Staffing
+Vacancy
+Open Position
+Hiring Manager
+Screening
+Onboarding
+Probation
+Assessment Center
+Cultural Fit
+Notice Period
+Background Check
+Pre-Employment
+Talent Pool
+Pipeline
+Career Page
+ATS
+Applicant Tracking
+Panel Interview
+Phone Screen
+Technical Interview

@@ -1,0 +1,36 @@
+﻿Acesso
+Permissão
+Função
+Privilégio
+Identidade
+Utilizador
+Grupo
+Autenticação
+Autorização
+Aprovisionamento
+Desaprovisionamento
+MFA
+SSO
+PAM
+IAM
+RBAC
+Admin
+Administrador
+Root
+Leitura
+Escrita
+Execução
+Conceder
+Revogar
+Negar
+Permitir
+Restringir
+Active Directory
+Entra ID
+LDAP
+SAML
+OAuth
+Revisão
+Certificação
+Auditoria
+Conformidade

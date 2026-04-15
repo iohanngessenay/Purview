@@ -1,8 +1,22 @@
-Leistungsverbesserungsplan
-Abschlussverwarnung
-Schriftliche Abmahnung
-Mündliche Verwarnung
+﻿Abmahnung
+Verwarnung
+Kündigung
 Kündigungsschreiben
-Entlassung
-Abmahnung
+Ermahnung
+Verweis
 Beschwerde
+Disziplinarverfahren
+Suspendierung
+Fristlose Kündigung
+Ordentliche Kündigung
+Anhörung
+Leistungsverbesserungsplan
+Korrekturmaßnahme
+Disziplinarbericht
+Formelle Verwarnung
+Vorfallbericht
+Fehlverhaltensbericht
+Untersuchungsbericht
+Einspruch
+Beschwerdeformular
+Betriebsratsanhörung

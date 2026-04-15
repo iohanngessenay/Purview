@@ -1,21 +1,34 @@
-Sanction
-Sanctions
+﻿Sanctions
 Embargo
-Export Control
-Restricted Party
-Denied Entity
-Blocked Person
-BIS
-SECO
-Dual Use Goods
-Watchlist
-Trade Compliance
-Compliance Screening
-KYC
-AML
-Export License
-License Application
-High Risk Country
-Restricted Country
-Transaction Screening
-Regulatory
+Export
+Import
+Restriction
+Prohibition
+List
+Screening
+Check
+Compliance
+Country
+Territory
+Entity
+Person
+Designation
+Asset Freeze
+Blocking
+License
+Authorization
+Exemption
+UN
+EU
+OFAC
+UK
+Dual-Use
+Military
+Technology
+Controlled
+Trade
+Commerce
+Penalty
+Violation
+Investigation
+Risk

@@ -1,14 +1,26 @@
-Solicitud
-Candidato
-Aspirante
+﻿Candidato
 Postulante
 Entrevista
-Entrevista Laboral
 Reclutamiento
-Proceso de Contratación
-Lista Reducida
-Empleo Posting
-Requisition
-HR
-Talent Adquisición
-Reference Check
+Contratación
+Proceso de selección
+Preselección
+Referencia
+Vacante
+Puesto vacante
+Recursos Humanos
+RRHH
+Headhunter
+Agencia de empleo
+Responsable de selección
+Incorporación
+Período de prueba
+Assessment Center
+Preaviso
+Bolsa de trabajo
+Talento
+Marca empleadora
+Portal de empleo
+Entrevista telefónica
+Entrevista técnica
+ATS

@@ -1,6 +1,24 @@
-Law Firm
-Legal Fees
-Abogado Fees
-Hours Billed
-Matter ID
-Retainer
+﻿Factura
+Facturación
+Honorarios
+Coste
+Gasto
+Horas
+Tarifa
+Presupuesto
+Pago
+Cliente
+Expediente
+Asunto
+Servicio
+Abogado
+Asesor
+Despacho
+Anticipo
+IVA
+Impuesto
+Descuento
+Cuenta por cobrar
+Socio
+Asociado
+Pasante

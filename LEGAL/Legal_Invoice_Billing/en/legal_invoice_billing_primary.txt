@@ -1,9 +1,28 @@
-Legal Invoice
-Legal Fee Invoice
-Invoice Number
-Fee Note
-Statement of Account
-Counsel Fees Invoice
-Time Entry Record
-Expenses
-Payment Terms
+﻿Legal Invoice
+Legal Fee
+Legal Billing
+Attorney Fee
+Counsel Fee
+Hourly Rate
+Fee Schedule
+Billing Statement
+Time Entry
+Timesheet
+Disbursement
+Legal Expense
+Cost Allocation
+Fee Arrangement
+Retainer Invoice
+Pro Bono
+Flat Fee
+Contingency Fee
+Success Fee
+Blended Rate
+LEDES Invoice
+UTBMS Code
+Task Code
+Activity Code
+Legal Budget
+Matter Budget
+Proforma Invoice
+Trust Account Statement

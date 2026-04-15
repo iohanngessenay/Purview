@@ -1,0 +1,24 @@
+﻿Morada pessoal
+Email privado
+Telefone privado
+Contacto pessoal
+Parentesco
+Número de telemóvel
+Cônjuge
+Parceiro
+Pai
+Tutor
+Dependente
+Dados de contacto
+Telefone fixo
+Contacto alternativo
+Processo individual
+Dados pessoais
+Familiar
+Parente
+Primeiros socorros
+Grupo sanguíneo
+Alergias
+Condição médica
+Responsável de segurança
+Evacuação

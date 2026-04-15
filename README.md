@@ -2,7 +2,7 @@
 
 A collection of **multilingual keyword definitions** and **PowerShell scripts** for generating and uploading custom [Sensitive Information Types (SITs)](https://learn.microsoft.com/en-us/purview/sit-sensitive-information-type-entity-definitions) to **Microsoft Purview**.
 
-Covers **28 categories** across HR and Legal domains in **5 languages** (English, German, French, Spanish, Italian).
+Covers **40 categories** across HR, Legal, Finance, and IT Security domains in **6 languages** (English, German, French, Spanish, Italian, Portuguese).
 
 ## Why This Exists
 
@@ -48,6 +48,28 @@ Microsoft Purview ships with many built-in SITs (credit card numbers, SSNs, etc.
 | Sanctions / Export Control References | Sanctions lists, export control data |
 | Whistleblower Reports | Whistleblower submissions, anonymous reports |
 
+### Finance (6)
+
+| Category | Description |
+|---|---|
+| Audit Report Data | Internal/external audit reports, findings, opinions |
+| Tax Filing Records | Tax returns, declarations, assessments, fiscal documents |
+| Budget and Forecast Data | Budgets, forecasts, variance analysis, financial projections |
+| Invoice and Purchase Order | Invoices, POs, procurement, accounts payable/receivable |
+| Financial Statements | Balance sheets, P&L, cash flow, IFRS/GAAP reports |
+| Credit and Loan Records | Loan agreements, credit facilities, debt instruments |
+
+### IT Security (6)
+
+| Category | Description |
+|---|---|
+| Credentials and Secrets | Passwords, API keys, tokens, certificates, private keys |
+| Incident Report Data | Security incidents, breach reports, incident response |
+| Vulnerability Assessment | Vulnerability scans, penetration tests, CVE/CVSS data |
+| Network and Infrastructure Data | Network diagrams, IP schemes, firewall/server configs |
+| Access Control Records | IAM, RBAC, permissions, privilege management, access reviews |
+| Security Audit Logs | SIEM data, event logs, monitoring, audit trails |
+
 ## Repository Structure
 
 ```
@@ -60,12 +82,15 @@ Microsoft Purview ships with many built-in SITs (credit card numbers, SSNs, etc.
 │       ├── de/                  # German
 │       ├── fr/                  # French
 │       ├── es/                  # Spanish
-│       └── it/                  # Italian
+│       ├── it/                  # Italian
+│       └── pt/                  # Portuguese
 ├── LEGAL/                       # 16 Legal SIT categories (same structure)
+├── FINANCE/                     # 6 Finance SIT categories (same structure)
+├── IT_SECURITY/                 # 6 IT Security SIT categories (same structure)
 └── scripts/
     ├── Generate-SIT-XML-Files.ps1              # Per-language individual XML files
     ├── Generate-Multilingual-SIT-XML-Files.ps1 # Multilingual XML (one SIT per category)
-    ├── Generate-Combined-SIT-XML.ps1           # Single XML with all 28 SITs combined
+    ├── Generate-Combined-SIT-XML.ps1           # Single XML with all 40 SITs combined
     ├── Upload-Individual-SITs.ps1              # Upload individual XMLs to tenant
     └── Upload-SITs-From-Folder.ps1             # Upload all XMLs from a folder
 ```
@@ -84,7 +109,7 @@ Install-Module -Name ExchangeOnlineManagement -Scope CurrentUser
 
 ### Generate SIT XML Files
 
-**Option 1 — Combined (recommended):** All 28 SITs in a single rule package XML. This is the preferred approach since Microsoft limits tenants to **10 custom rule packages**.
+**Option 1 — Combined (recommended):** All 40 SITs in a single rule package XML. This is the preferred approach since Microsoft limits tenants to **10 custom rule packages**.
 
 ```powershell
 .\scripts\Generate-Combined-SIT-XML.ps1
@@ -96,7 +121,7 @@ Install-Module -Name ExchangeOnlineManagement -Scope CurrentUser
 .\scripts\Generate-Multilingual-SIT-XML-Files.ps1
 ```
 
-**Option 3 — Individual per-language:** Separate XML files per category and language (112 files).
+**Option 3 — Individual per-language:** Separate XML files per category and language (up to 240 files).
 
 ```powershell
 .\scripts\Generate-SIT-XML-Files.ps1

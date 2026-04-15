@@ -1,19 +1,20 @@
-Mandantenvertraulich
-Vertrauliche Informationen
-Vertraulich
-Anwalt-Mandant
-Anwaltliche Verschwiegenheit
-Privilegiert und Vertraulich
-Vertrauliche Kommunikation
-Streng Vertraulich
-Nur für den internen Gebrauch
-Geschützte Information
-Mandat
-Mandatsakte
+﻿Mandantengeheimnis
+Anwaltsgeheimnis
+Vertrauliche Mandantendaten
+Mandantenakte
+Mandantenangelegenheit
+Aktennummer
+Mandantenengagement
+Mandanteninformation
+Vertraulich und privilegiert
+Arbeitsprodukt
+Anwaltsprodukt
 Berufsgeheimnis
-Rechtsberatungsprivileg
-Internes Arbeitsergebnis
-Nur für Anwalt
-Rechtsberatung
-Nicht zur Weitergabe
-Unter Verschwiegenheit
+Privilegiertes Dokument
+Mandantenunterlagen
+Mandantenportfolio
+Mandantendossier
+Vertrauliche Information
+Eingeschränkter Zugang
+Mandatsgeheimnis
+Kanzleigeheimnis

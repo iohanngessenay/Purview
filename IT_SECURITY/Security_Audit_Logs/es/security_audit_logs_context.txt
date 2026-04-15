@@ -1,0 +1,34 @@
+﻿Registro
+Auditoría
+Evento
+Seguridad
+Monitorización
+Alerta
+Detección
+SIEM
+SOC
+IDS
+IPS
+Correlación
+Agregación
+Retención
+Syslog
+Marca de tiempo
+Origen
+Destino
+Usuario
+Acción
+Inicio de sesión
+Cierre de sesión
+Fallido
+Éxito
+Anomalía
+Referencia
+Umbral
+Regla
+Política
+Cumplimiento
+Tiempo real
+Panel de control
+Informe
+Investigación

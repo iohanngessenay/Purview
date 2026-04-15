@@ -1,24 +1,27 @@
-Sanktion
-Sanktionen
-Embargo
-Exportkontrolle
+﻿Sanktionen
 Sanktionsliste
-Gesperrte Partei
-Gesperrte Person
+Exportkontrolle
+Embargo
+Sanktionierte Person
 SDN-Liste
-OFAC
+OFAC-Liste
 EU-Sanktionen
 UN-Sanktionen
-UK-Sanktionen
-BIS
-EAR
-ITAR
-SECO
-Güter mit doppeltem Verwendungszweck
-Watchlist
-Handelscompliance
-Genehmigungspflicht
-Ausfuhrgenehmigung
-Screening
 Sanktionsprüfung
-Verbotsliste
+Sanktions-Screening
+Sanktions-Due-Diligence
+Exportlizenz
+Exportklassifizierung
+ECCN
+EAR
+Dual-Use-Güter
+Kontrollierte Güter
+Handelsbeschränkung
+Endverbleibserklärung
+Endverbraucherzertifikat
+Schwarze Liste
+Vermögenssperre
+Reiseverbot
+Sektorale Sanktionen
+Ausfuhrliste
+Kriegswaffenliste

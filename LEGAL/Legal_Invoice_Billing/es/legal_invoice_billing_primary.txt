@@ -1,20 +1,22 @@
-Factura
-Nota de Honorarios
-Referencia
-Ref.
-Número
-Número de Factura
-Honorarios Legales
-Horas Facturables
-Anticipo
-Desembolsos
-Registro de Tiempo
-Tarifa Horaria
-Nota de Honorarios
-Estado de Cuenta
-Honorarios de Abogado
-Servicios Legales
-Honorarios Profesionales
-Tiempo Facturado
-Gastos
-Términos de Pago
+﻿Factura de honorarios
+Honorarios legales
+Facturación legal
+Honorarios de abogado
+Tarifa horaria
+Tabla de honorarios
+Estado de facturación
+Registro de tiempo
+Desembolso
+Gastos legales
+Asignación de costes
+Acuerdo de honorarios
+Factura de anticipo
+Pro bono
+Tarifa plana
+Honorarios de éxito
+Tarifa mixta
+Presupuesto legal
+Factura proforma
+Estado de cuenta fiduciaria
+Provisión de fondos
+Minutas

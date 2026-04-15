@@ -1,0 +1,28 @@
+﻿Financier
+État
+Bilan
+Chiffre d'affaires
+Charge
+Bénéfice
+Perte
+Actif
+Passif
+Capitaux propres
+Trésorerie
+Exploitation
+Investissement
+Financement
+IFRS
+Consolidation
+Filiale
+Amortissement
+Provision
+Dépréciation
+Juste valeur
+Survaleur
+Incorporel
+Corporel
+Courant
+Résultat net
+EBIT
+EBITDA

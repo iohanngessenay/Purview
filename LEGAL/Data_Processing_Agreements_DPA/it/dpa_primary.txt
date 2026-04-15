@@ -1,16 +1,19 @@
-Accordo Trattamento Dati
+﻿Accordo sul trattamento dei dati
 DPA
-Addendum Protezione Dati
-Termini di Trattamento
-Titolare
-Responsabile
-Sub-Responsabile
-Contitolare
-Clausole Contrattuali Standard
+Accordo di protezione dei dati
+Clausole contrattuali standard
 SCC
-Interessato
-Dati Personali
-Violazione Dati
-DPO
-Data Protection Officer
-Trasferimento Dati
+Accordo di trasferimento dati
+Accordo con sub-responsabile
+Accordo di contitolarità
+Accordo di condivisione dati
+Addendum GDPR
+Norme vincolanti d'impresa
+BCR
+Valutazione d'impatto
+DPIA
+Registro delle attività di trattamento
+Modulo di consenso
+Informativa sulla privacy
+Politica di conservazione dei dati
+Notifica di violazione dei dati

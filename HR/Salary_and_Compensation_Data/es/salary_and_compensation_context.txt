@@ -1,26 +1,29 @@
-Salario
-Bonus
+﻿Salario
+Nómina
+Bonificación
 Compensación
-Retribución
-Salario Bruto
-Salario Neto
-Paga Extra
-13ª Mensualidad
-14ª Mensualidad
+Salario bruto
+Salario neto
+Paga extra
 Comisión
-Salario Base
-Remuneración Variable
-Aumento por Mérito
-Incentivo
-Salario Anual
-Tarifa por Hora
-Horas Extra
-Beneficios
+Sueldo base
+Retribución variable
+Aumento por mérito
+Salario anual
+Tarifa por hora
+Horas extra
+Prestaciones
 Pensión
-Opciones sobre Acciones
-Salario Evaluación
-Annual Evaluación
-Total Rewards
-Nómina Cuenta
-Band
-Grade
+Opciones sobre acciones
+Incentivo
+Compensación total
+Revisión salarial
+Cuenta de nómina
+Banda salarial
+Categoría
+Complemento
+Deducción
+Impuesto
+Seguridad Social
+IRPF
+Plan de pensiones

@@ -1,18 +1,27 @@
-Malattia
+﻿Malattia
 Disabilità
-Inabilità
 Patologia
-Congedo per Malattia
-Assenza per Malattia
-Medicina del Lavoro
-INPS
-Cartella Clinica
-Assicurazione Sanitaria
+Congedo per malattia
+Medicina del lavoro
+Cartella clinica
+Assicurazione sanitaria
 Ricetta
 Diagnosi
+Trattamento
+Assenza per malattia
+Visita medica
 Dipendente
-Risorse Umane
-Manager
+HR
+Responsabile
 Assenza
-Rientro al Lavoro
+Rientro al lavoro
 Medico
+Ospedale
+Clinica
+Infortunio sul lavoro
+Malattia professionale
+Ergonomia
+Salute mentale
+Congedo di maternità
+Congedo di paternità
+Riabilitazione

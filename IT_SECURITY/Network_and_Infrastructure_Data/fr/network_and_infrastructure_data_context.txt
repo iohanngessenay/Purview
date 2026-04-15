@@ -1,0 +1,30 @@
+﻿Réseau
+Infrastructure
+Serveur
+Topologie
+Configuration
+Pare-feu
+Routeur
+Commutateur
+DNS
+DHCP
+VLAN
+Sous-réseau
+IP
+Port
+Protocole
+TCP
+UDP
+Cloud
+Azure
+AWS
+GCP
+Centre de données
+Noeud
+Point de terminaison
+Bande passante
+Latence
+Disponibilité
+SLA
+Redondance
+Basculement

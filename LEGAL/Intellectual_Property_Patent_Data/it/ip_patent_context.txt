@@ -1,9 +1,26 @@
-Ricerca e Sviluppo
-Ingegneria
-Prototipo
-Specifica Tecnica
-Disegno Tecnico
-Quaderno di Laboratorio
-Trasferimento Tecnologia
-Accordo di Licenza
-Proprietario
+﻿Brevetto
+Marchio
+Diritto d'autore
+Proprietà intellettuale
+PI
+Invenzione
+Innovazione
+Deposito
+Concessione
+Rivendicazioni
+Arte nota
+Novità
+Contraffazione
+Licenza
+Royalty
+Cessione
+Inventore
+Richiedente
+Esaminatore
+Ufficio brevetti
+UEB
+OMPI
+PCT
+Design industriale
+Open source
+Nome commerciale

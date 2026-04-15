@@ -1,6 +1,27 @@
-Dati Personali
+﻿Protezione dei dati
+GDPR
+Dati personali
 Interessato
-Trasferimento Internazionale
-Allegato
-Misure Tecniche e Organizzative
-MTO
+Titolare del trattamento
+Responsabile del trattamento
+Sub-responsabile
+Trattamento
+Consenso
+Interesse legittimo
+Violazione dei dati
+Notifica
+Trasferimento
+Paese terzo
+Decisione di adeguatezza
+Autorità di controllo
+DPO
+Responsabile della protezione dei dati
+Anonimizzazione
+Pseudonimizzazione
+Crittografia
+Minimizzazione dei dati
+Limitazione della finalità
+Diritto alla cancellazione
+Diritto di accesso
+Portabilità
+Trasferimento transfrontaliero

@@ -1,4 +1,4 @@
-Warning
+﻿Warning
 Suspension
 Termination
 Misconduct
@@ -14,3 +14,20 @@ Hearing
 Meeting Notes
 Breach
 Policy Violation
+Workplace Conduct
+Code of Conduct
+Due Process
+Right to Appeal
+Witness Statement
+Evidence
+Sanction
+Probation
+Progressive Discipline
+Insubordination
+Harassment
+Bullying
+Gross Misconduct
+Final Review
+Outcome Letter
+Union Representative
+Employee Relations

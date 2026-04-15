@@ -1,6 +1,20 @@
-Contrato de Trabajo
-Contrato Laboral
-Acuerdo de Empleo
-Carta Oferta
-Oferta de Trabajo
-Carta de Oferta de Empleo
+﻿Contrato de trabajo
+Contrato laboral
+Acuerdo de empleo
+Carta de oferta
+Oferta de empleo
+Carta de nombramiento
+Contrato de servicios
+Extensión de contrato
+Renovación de contrato
+Adenda al contrato
+Contrato temporal
+Contrato indefinido
+Contrato a tiempo parcial
+Confirmación de período de prueba
+Certificado de empleo
+Condiciones de empleo
+Contrato en prácticas
+Contrato de obra
+Convenio colectivo
+Acuerdo laboral

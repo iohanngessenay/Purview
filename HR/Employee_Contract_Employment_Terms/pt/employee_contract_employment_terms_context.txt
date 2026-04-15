@@ -1,0 +1,30 @@
+﻿Data de admissão
+Data de início
+Aviso prévio
+Cargo
+Posição
+Período experimental
+Despedimento
+Indemnização
+Tempo inteiro
+Tempo parcial
+Sem termo
+A termo
+Trabalhador
+Funcionário
+RH
+Assinatura
+Data de efeito
+Salário bruto
+Férias anuais
+Horário de trabalho
+Cláusula de não concorrência
+Cláusula de confidencialidade
+Benefícios
+Pensão
+Bónus
+Comissão
+Superior hierárquico
+Local de trabalho
+Teletrabalho
+Acordo coletivo

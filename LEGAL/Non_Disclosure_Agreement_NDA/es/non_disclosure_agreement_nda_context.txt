@@ -1,10 +1,24 @@
-Disclosing Party
-Receiving Party
-Confidencial Information
-Use Limitation
-Term
-Effective Date
-Purpose
-Return or Destroy
-No License
-Injunction
+﻿Confidencial
+Secreto
+Propietario
+Divulgación
+Parte divulgadora
+Parte receptora
+Obligación
+Plazo
+Duración
+Excepción
+Información confidencial
+Penalización
+Indemnización
+Incumplimiento
+Terceros
+Devolución
+Destrucción
+No competencia
+No captación
+Due diligence
+Negociación
+Proveedor
+Socio
+Consultor

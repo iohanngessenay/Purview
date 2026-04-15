@@ -1,0 +1,41 @@
+﻿Access
+Permission
+Role
+Privilege
+Identity
+User
+Group
+Authentication
+Authorization
+Provisioning
+Deprovisioning
+MFA
+SSO
+PAM
+IAM
+RBAC
+ABAC
+Admin
+Administrator
+Root
+Superuser
+Read
+Write
+Execute
+Grant
+Revoke
+Deny
+Allow
+Restrict
+Elevate
+Active Directory
+Entra ID
+Azure AD
+LDAP
+SAML
+OAuth
+OIDC
+Review
+Certification
+Audit
+Compliance

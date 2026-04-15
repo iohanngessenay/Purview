@@ -1,15 +1,28 @@
-Stellengesuch
+﻿Bewerber
 Kandidat
-Bewerber
 Vorstellungsgespräch
-Bewerbungsgespräch
 Rekrutierung
-Einstellungsprozess
+Einstellung
+Personalbeschaffung
 Shortlist
-Auswahlliste
-Kurzliste
-Stellenausschreibung
+Referenzcheck
+Stellenanzeige
 Anforderungsprofil
-HR
-Talentakquise
-Referenzprüfung
+Personalwesen
+Talent Acquisition
+Headhunter
+Personalvermittlung
+Vakanz
+Offene Stelle
+Hiring Manager
+Screening
+Einarbeitung
+Probezeit
+Assessment Center
+Kündigungsfrist
+Talentpool
+Bewerbermanagement
+Personalsuche
+Fachkräftemangel
+Arbeitgeber
+Stellenprofil

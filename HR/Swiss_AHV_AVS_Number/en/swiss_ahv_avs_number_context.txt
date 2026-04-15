@@ -1,4 +1,4 @@
-Insurance Number
+﻿Insurance Number
 Social Security Number
 Social Security
 Social Ins. No.
@@ -12,3 +12,16 @@ Onboarding
 Identity Document
 Copy of ID
 National ID
+Pension Fund
+BVG
+Occupational Pension
+Social Insurance
+Switzerland
+Suisse
+Schweiz
+Federal
+Canton
+Employer
+Registration
+Insurance Card
+Deduction

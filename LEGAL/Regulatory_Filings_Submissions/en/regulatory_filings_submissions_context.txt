@@ -1,18 +1,28 @@
+﻿Regulator
+Authority
 Submission
-Disclosure
-SEC Form
-Report to Authority
-10-K
-10-Q
-8-K
-Annual Report
-Quarterly Report
-Compliance Report
-Mandatory Disclosure
-Filing Deadline
+Filing
+Declaration
+Report
+Notification
+Authorization
+License
+Registration
+Deadline
 Form
-Filing No
-Filing Number
-Submission ID
-Attachment
-Annex
+Compliance
+Supervision
+Inspection
+Approval
+Requirement
+Obligation
+Sanction
+Fine
+Warning
+Examination
+Review
+Disclosure
+Periodic
+Annual
+Quarterly
+Material

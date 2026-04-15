@@ -1,0 +1,34 @@
+﻿Journal
+Audit
+Événement
+Sécurité
+Surveillance
+Alerte
+Détection
+SIEM
+SOC
+IDS
+IPS
+Corrélation
+Agrégation
+Rétention
+Syslog
+Horodatage
+Source
+Destination
+Utilisateur
+Action
+Connexion
+Déconnexion
+Échoué
+Réussi
+Anomalie
+Référence
+Seuil
+Règle
+Politique
+Conformité
+Temps réel
+Tableau de bord
+Rapport
+Investigation

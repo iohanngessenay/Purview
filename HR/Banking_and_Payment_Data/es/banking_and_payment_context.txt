@@ -1,14 +1,20 @@
-Banco
+﻿Banco
 Cuenta
 Pago
-Cuenta de Salario
-Cuenta de Nómina
+Salario
+Nómina
 Transferencia
-Remesa
-Transferencia Bancaria
-Datos Bancarios
-Método de Pago
-Cuenta Corriente
-Cuenta de Ahorros
+Datos bancarios
+Método de pago
+Cuenta corriente
+Cuenta de ahorro
+Extracto bancario
+Sucursal
+Nombre del banco
+Beneficiario
+Comprobante de pago
+Certificado bancario
+Verificación de cuenta
+Entidad bancaria
 Domiciliación
-Depósito Directo
+Débito automático

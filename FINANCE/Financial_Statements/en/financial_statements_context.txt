@@ -1,0 +1,36 @@
+﻿Financial
+Statement
+Balance
+Income
+Revenue
+Expense
+Profit
+Loss
+Asset
+Liability
+Equity
+Cash Flow
+Operating
+Investing
+Financing
+IFRS
+GAAP
+Consolidation
+Subsidiary
+Group
+Depreciation
+Amortization
+Provision
+Impairment
+Fair Value
+Goodwill
+Intangible
+Tangible
+Current
+Non-Current
+Retained Earnings
+Shareholder Equity
+Net Income
+Gross Profit
+EBIT
+EBITDA

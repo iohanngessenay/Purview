@@ -1,0 +1,26 @@
+﻿Fattura
+Ordine
+Acquisto
+Approvvigionamento
+Fornitore
+Acquirente
+Pagamento
+Importo
+Totale
+Imposta
+IVA
+Sconto
+Scadenza
+Condizioni di pagamento
+Valuta
+Articolo
+Quantità
+Prezzo unitario
+Riga
+Approvazione
+Autorizzazione
+ERP
+SAP
+Libro mastro
+Registrazione
+Riconciliazione

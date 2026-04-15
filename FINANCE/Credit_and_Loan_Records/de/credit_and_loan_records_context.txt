@@ -1,0 +1,26 @@
+﻿Darlehen
+Kredit
+Schulden
+Kreditnehmer
+Kreditgeber
+Bank
+Zinsen
+Kapital
+Fälligkeit
+Rückzahlung
+Ausfall
+Auflage
+Sicherheit
+Bürgschaft
+Nachrangig
+Vorrangig
+Besichert
+Unbesichert
+Festzins
+Variabler Zins
+Refinanzierung
+Vorfällige Rückzahlung
+Inanspruchnahme
+Rating
+Investment Grade
+Ratingagentur

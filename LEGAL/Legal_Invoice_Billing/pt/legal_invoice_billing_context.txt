@@ -1,0 +1,22 @@
+﻿Honorários
+Faturação
+Taxa
+Horas
+Custo
+Despesa
+Orçamento
+Pagamento
+Receita
+Cliente
+Mandato
+Processo
+Serviços jurídicos
+Consultoria
+Parecer
+Escritório
+Advogado
+Custas
+IVA
+Provisão
+Timesheet
+Deslocação

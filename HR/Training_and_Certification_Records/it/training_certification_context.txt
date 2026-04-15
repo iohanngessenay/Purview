@@ -1,15 +1,27 @@
-Registro Formazione
-Piano Formativo
-Partecipazione Corso
+﻿Registro formativo
+Piano di formazione
+Frequenza corso
 Workshop
 Seminario
-Formazione Professionale Continua
-Sviluppo Professionale
-Formazione Continua
-Ore di Formazione
+Formazione continua
+Sviluppo professionale continuo
+Sviluppo professionale
+Ore di formazione
 Competenza
-Sviluppo delle Competenze
+Sviluppo competenze
 Apprendimento
-Formazione e Sviluppo
-Formazione Compliance
-Formazione Obbligatoria
+Formazione obbligatoria
+E-learning
+Formazione in aula
+Webinar
+Conferenza
+Esame
+Rinnovo
+Scadenza
+Budget formazione
+LMS
+Fornitore di formazione
+Formazione di inserimento
+Formazione sicurezza
+Formazione primo soccorso
+Certificazione ISO

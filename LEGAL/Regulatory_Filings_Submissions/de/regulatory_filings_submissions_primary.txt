@@ -1,16 +1,21 @@
-Behördliche Einreichung
-Einreichung
-Prospekt
-Offenlegung
-SEC-Formular
-FINMA-Meldung
-Bericht an Behörde
+﻿Regulatorische Einreichung
+Regulatorische Meldung
 Jahresbericht
-Quartalsbericht
-Compliance-Bericht
-Pflichtveröffentlichung
-Regulatorische Einreichung
-Einreichungsfrist
-Meldepflicht
-Behördenmeldung
-Offenlegungspflicht
+Quartalsmeldung
+Registrierungserklärung
+Prospekt
+Wertpapierprospekt
+Lizenzantrag
+Lizenzverlängerung
+Compliance-Meldung
+Meldung an Aufsichtsbehörde
+Voranmeldung
+Marktnachbericht
+Risikomeldung
+Eigenkapitalbericht
+Geldwäschebericht
+Verdachtsmeldung
+SAR
+Grosstransaktionsmeldung
+Finanzberichterstattung
+Ad-hoc-Mitteilung

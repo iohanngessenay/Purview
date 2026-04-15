@@ -1,7 +1,15 @@
-Numéro AVS
+﻿Numéro AVS
+Num AVS
+No AVS
 AVS
-AHV
-Numéro d'Assurance
-Numéro de Sécurité Sociale
+Numéro d'assurance sociale
+Numéro d'assuré
 Numéro à 13 chiffres
-N° AVS
+Certificat AVS
+Numéro OASI
+Numéro d'assurance vieillesse
+Numéro AVS/AI
+756
+Carte d'assuré
+Attestation AVS
+Nouveau numéro AVS

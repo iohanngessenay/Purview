@@ -1,4 +1,4 @@
-Identity Document
+﻿Identity Document
 Nationality
 Citizenship
 Expiry Date
@@ -10,3 +10,19 @@ Issuing Authority
 Scan
 Copy of Passport
 Copy of ID
+Photo ID
+Government ID
+Country of Origin
+Date of Issue
+Valid Until
+Immigration
+Border Control
+Consulate
+Embassy
+Right to Work
+Work Eligibility
+Background Check
+KYC
+Know Your Customer
+Verification
+Onboarding

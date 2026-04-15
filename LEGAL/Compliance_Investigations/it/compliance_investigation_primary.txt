@@ -1,19 +1,21 @@
-Indagine Interna
-Incidente Compliance
-Cattiva Condotta
-Whistleblower
-Rapporto Risultati
-Revisione Etica
-Accertamento Fatti
-Rapporto Indagine
-AML
-Antiriciclaggio
-KYC
-Conosci il tuo Cliente
-Indagine Frode
-Due Diligence
-Audit Conformità
-Violazione
-Indagine Normativa
-Audit Forense
-Revisione Conformità
+﻿Indagine di conformità
+Indagine interna
+Rapporto di indagine
+Revisione di conformità
+Audit di conformità
+Indagine etica
+Indagine per frode
+Indagine forense
+Rilievo di conformità
+Sintesi dell'indagine
+Conclusioni dell'indagine
+Analisi delle cause
+Rapporto di azione correttiva
+Incidente di conformità
+Indagine regolatoria
+Indagine anticorruzione
+Indagine antiriciclaggio
+Nota d'indagine
+Intervista testimone
+Registro delle prove
+Chiusura dell'indagine

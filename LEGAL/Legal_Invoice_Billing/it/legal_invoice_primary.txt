@@ -1,20 +1,22 @@
-Fattura
+﻿Fattura di onorari
+Nota di onorari
+Spese legali
+Compenso dell'avvocato
+Tariffa oraria
+Tariffario
+Estratto conto
+Registrazione tempo
+Anticipazione
+Costi legali
+Allocazione costi
+Accordo sugli onorari
+Fattura di acconto
+Pro bono
+Forfait
+Compenso di successo
+Tariffa mista
+Budget legale
+Fattura proforma
+Estratto conto fiduciario
+Fondo spese
 Parcella
-Riferimento
-Rif
-Numero
-Numero Fattura
-Onorari Legali
-Ore Fatturabili
-Acconto
-Spese Legali
-Registrazione Tempo
-Tariffa Oraria
-Nota Spese
-Estratto Conto
-Compensi Legali
-Servizi Legali
-Onorari Professionali
-Tempo Addebitato
-Spese
-Condizioni di Pagamento

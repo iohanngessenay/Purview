@@ -1,4 +1,4 @@
-Reimbursement
+﻿Reimbursement
 Mileage
 Hotel
 Transport
@@ -18,3 +18,16 @@ GL Code
 Approval
 Expense Policy
 Corporate Card
+Airfare
+Taxi
+Parking
+Toll
+Conference Fee
+Subsistence
+Allowance
+Out-of-Pocket
+Travel Booking
+Daily Rate
+Entertainment
+Client Dinner
+Budget Code

@@ -1,30 +1,23 @@
-Contrato
-Acuerdo
-Convenio
-Términos y Condiciones
-Condiciones Generales
-Acuerdo Marco
-Contrato Marco de Servicios
-Declaración de Trabajo
-Alcance de Trabajo
-DDT
-SOW
-Enmienda
-Adenda
-Cláusula de Terminación
-Cláusula de Rescisión
-Contrato de Servicio
-Contrato de Compra
-Carta de Compromiso
-Orden de Trabajo
-Orden de Cambio
-Formulario de Pedido
-Anexo
-Apéndice
-Calendario
-Documento Adjunto
+﻿Acuerdo marco de servicios
+Acuerdo de nivel de servicio
 SLA
-Acuerdo de Nivel de Servicio
-Contrato de Licencia
-Renovación
-Fecha de Vigencia
+Pliego de condiciones
+Acuerdo marco
+Contrato de licencia
+Contrato de suministro
+Contrato de distribución
+Acuerdo de asociación
+Contrato de joint venture
+Contrato de consultoría
+Contrato de subcontratación
+Adenda
+Acuerdo de resolución
+Acuerdo transaccional
+Memorando de entendimiento
+Carta de intención
+Carta de compromiso
+Contrato de servicios
+Contrato de proveedor
+Contrato de compra
+Contrato de arrendamiento
+Convenio

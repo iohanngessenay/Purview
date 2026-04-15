@@ -1,6 +1,22 @@
+﻿Régulateur
+Autorité
+Soumission
+Déclaration
+Rapport
+Notification
+Autorisation
+Licence
+Enregistrement
+Délai
 Formulaire
-N° de dépôt
-Numéro de dépôt
-ID de soumission
-Pièce jointe
-Annexe
+Conformité
+Supervision
+Inspection
+Approbation
+Exigence
+Obligation
+Sanction
+Amende
+Avertissement
+Divulgation
+Périodique

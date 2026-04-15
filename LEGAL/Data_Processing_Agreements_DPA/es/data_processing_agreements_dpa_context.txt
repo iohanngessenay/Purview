@@ -1,6 +1,28 @@
-Personal Data
-Data Subject
-International Transfer
-Annex
-Technical and Organisational Measures
-TOMs
+﻿Protección de datos
+RGPD
+Datos personales
+Interesado
+Responsable del tratamiento
+Encargado del tratamiento
+Subencargado
+Tratamiento
+Consentimiento
+Interés legítimo
+Violación de datos
+Notificación
+Transferencia
+País tercero
+Decisión de adecuación
+Autoridad de control
+DPD
+Delegado de protección de datos
+Anonimización
+Seudonimización
+Cifrado
+Minimización de datos
+Limitación de finalidad
+Derecho de supresión
+Derecho de acceso
+Portabilidad
+LOPDGDD
+Transferencia transfronteriza

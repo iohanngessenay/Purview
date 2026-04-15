@@ -1,4 +1,4 @@
-Appraisal
+﻿Appraisal
 Feedback
 Development Plan
 Evaluation
@@ -16,3 +16,21 @@ Competency
 Calibration
 Objective Setting
 Talent Review
+OKR
+Objectives and Key Results
+SMART Goals
+Score
+Ranking
+Top Performer
+High Potential
+Underperformer
+Promotion
+Salary Review
+Merit Increase
+Bonus
+Career Development
+Succession Planning
+Individual Development Plan
+IDP
+Strengths
+Areas for Improvement

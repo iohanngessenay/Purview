@@ -1,7 +1,14 @@
-Numero AVS
+﻿Numero AVS
 Numero AHV
 AVS
 AHV
-Numero Previdenza Sociale
+Numero di assicurazione sociale
+Numero di assicurato
 Numero a 13 cifre
-Numero Assicurazione Sociale
+Certificato AVS
+Numero OASI
+Numero AVS/AI
+756
+Tessera di assicurazione
+Attestato AVS
+Nuovo numero AVS

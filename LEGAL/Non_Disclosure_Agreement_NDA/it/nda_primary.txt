@@ -1,18 +1,13 @@
-Accordo di Riservatezza
+﻿Accordo di non divulgazione
 NDA
-Accordo di Confidenzialità
-Patto di Riservatezza
-Patto di Confidenzialità
-Accordo di Segretezza
-Impegno di Riservatezza
-NDA Reciproco
-NDA Unilaterale
-NDA Bilaterale
-Limitazione Divulgazione
-Informazioni Proprietarie
-Informazioni Riservate
-CDA
-Segreto Commerciale
-Periodo di Riservatezza
-Parte Divulgante
-Parte Ricevente
+Accordo di riservatezza
+Impegno di riservatezza
+NDA reciproco
+NDA unilaterale
+Clausola di riservatezza
+Clausola di segretezza
+Protocollo di riservatezza
+Accordo di protezione delle informazioni
+Accordo di segretezza
+Impegno di non divulgazione
+Patto di riservatezza

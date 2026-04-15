@@ -1,18 +1,24 @@
-Verschwiegenheitsvereinbarung
-Offenlegungsbeschränkung
-Geschützte Information
-Geschäftsgeheimnisschutz
-Geheimhaltungsfrist
-Wettbewerbsverbot
-Geheimhaltungspflicht
-Empfänger
-Offenlegender
+﻿Vertraulich
+Geheim
+Proprietär
+Offenlegung
 Offenlegende Partei
 Empfangende Partei
-Vertrauliche Informationen
-Zweckbindung
+Verpflichtung
 Laufzeit
-Wirksamkeitsdatum
-Rückgabe oder Vernichtung
-Keine Lizenz
-Unterlassungsanspruch
+Dauer
+Ausnahme
+Vertrauliche Information
+Strafe
+Freistellung
+Verletzung
+Dritte
+Rückgabe
+Vernichtung
+Wettbewerbsverbot
+Abwerbeverbot
+Due Diligence
+Verhandlung
+Lieferant
+Partner
+Berater

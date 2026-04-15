@@ -1,11 +1,19 @@
-Número de Seguro
-Seguridad Social
-Seguro de Vejez y Supervivencia
-Seguridad Social Suiza
+﻿Número de seguro
+Seguridad social
+Seguro social
+OASI
+Seguro de vejez y supervivientes
+Seguridad social suiza
 Empleado
 Nómina
-HR
-Onboarding
-Identity Document
-Copy of ID
-National ID
+RRHH
+Incorporación
+Documento de identidad
+Fondo de pensiones
+Previsión profesional
+Seguro social
+Suiza
+Cantón
+Empleador
+Registro
+Deducción

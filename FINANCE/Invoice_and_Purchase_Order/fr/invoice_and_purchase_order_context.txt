@@ -1,0 +1,26 @@
+﻿Facture
+Commande
+Achat
+Approvisionnement
+Fournisseur
+Acheteur
+Paiement
+Montant
+Total
+Taxe
+TVA
+Remise
+Échéance
+Conditions de paiement
+Devise
+Article
+Quantité
+Prix unitaire
+Ligne
+Approbation
+Autorisation
+ERP
+SAP
+Grand livre
+Écriture
+Rapprochement

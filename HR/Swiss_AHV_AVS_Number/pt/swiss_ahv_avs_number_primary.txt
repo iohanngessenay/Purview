@@ -1,0 +1,14 @@
+﻿Número AHV
+Número AVS
+AHV
+AVS
+Número de segurança social suíço
+Número de seguro suíço
+Número de 13 dígitos
+Número OASI
+Certificado AHV
+Certificado AVS
+Número de segurado
+756
+Cartão de seguro
+Número AHV/AVS

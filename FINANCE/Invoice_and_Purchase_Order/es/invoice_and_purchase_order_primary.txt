@@ -1,0 +1,22 @@
+﻿Factura
+Orden de compra
+OC
+Solicitud de compra
+Factura proforma
+Nota de crédito
+Nota de débito
+Albarán
+Recepción de mercancías
+Cuentas por pagar
+Cuentas por cobrar
+Aviso de pago
+Número de factura
+Confirmación de pedido
+Factura de proveedor
+Factura de cliente
+Factura recurrente
+Factura final
+Factura a cuenta
+Conciliación tripartita
+Nota de recepción
+Conocimiento de embarque

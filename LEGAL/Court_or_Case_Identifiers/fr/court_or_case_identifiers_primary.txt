@@ -1,15 +1,20 @@
-Numéro d'Affaire
-Numéro de Dossier
-Numéro de Rôle
-ID d'Affaire
-Référence du Tribunal
-Numéro de Procédure
-Dossier Judiciaire
-Citation
-Action Civile
-Affaire Pénale
-Registre du Tribunal
-Numéro de Plainte
-Numéro de Recours
-Référence du Jugement
-Numéro d'Appel
+﻿Numéro de dossier
+Numéro d'affaire
+Référence judiciaire
+Numéro de rôle
+Numéro de procédure
+Numéro de jugement
+Ordonnance
+Jugement
+Assignation
+Citation à comparaître
+Requête
+Conclusions
+Arrêt
+Décision de justice
+Procès-verbal d'audience
+Appel
+Pourvoi en cassation
+Injonction
+Commandement
+Sentence arbitrale

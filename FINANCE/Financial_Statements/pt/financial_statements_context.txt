@@ -1,0 +1,27 @@
+﻿Financeiro
+Demonstração
+Balanço
+Receitas
+Gastos
+Lucro
+Prejuízo
+Ativo
+Passivo
+Capital próprio
+Fluxo de caixa
+Operacional
+Investimento
+Financiamento
+IFRS
+Consolidação
+Subsidiária
+Amortização
+Provisão
+Imparidade
+Justo valor
+Goodwill
+Intangível
+Tangível
+Resultado líquido
+EBIT
+EBITDA

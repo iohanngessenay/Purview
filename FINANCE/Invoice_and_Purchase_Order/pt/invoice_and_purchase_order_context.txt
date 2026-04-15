@@ -1,0 +1,26 @@
+﻿Fatura
+Encomenda
+Compra
+Aprovisionamento
+Fornecedor
+Comprador
+Pagamento
+Montante
+Total
+Imposto
+IVA
+Desconto
+Vencimento
+Condições de pagamento
+Moeda
+Artigo
+Quantidade
+Preço unitário
+Linha
+Aprovação
+Autorização
+ERP
+SAP
+Razão geral
+Lançamento
+Reconciliação

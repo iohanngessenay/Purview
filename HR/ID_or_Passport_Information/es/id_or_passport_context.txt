@@ -1,14 +1,23 @@
-Documento de Identidad
-Número de Identidad
+﻿Documento de identidad
 Nacionalidad
 Ciudadanía
-Fecha de Caducidad
-Fecha de Nacimiento
-Lugar de Nacimiento
-Estado de Inmigración
-Document Number
-Expiry Date
-Issuing Authority
-Scan
-Copy of Pasaporte
-Copia de Pasaporte
+Fecha de vencimiento
+Fecha de nacimiento
+Lugar de nacimiento
+Estatus migratorio
+Número de documento
+Autoridad emisora
+Copia
+Copia del pasaporte
+Copia del DNI
+Foto de identidad
+Documento oficial
+País de origen
+Fecha de emisión
+Válido hasta
+Inmigración
+Consulado
+Embajada
+Derecho a trabajar
+Verificación
+Incorporación

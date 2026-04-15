@@ -1,17 +1,20 @@
-Denunciante
-Línea Ética
-Informe de Incidente
-Mala Conducta
-Informe Anónimo
-Prevención de Represalias
+﻿Informe de denunciante
 Denuncia
-Divulgación Protegida
-Línea Confidencial
-Hablar Claro
-Violación Ética
-Alerta de Fraude
-Línea de Quejas
-Canal de Denuncia
-Denuncia Anónima
-Política de Denuncias
-No Represalias
+Canal de denuncias
+Línea ética
+Informe de ética
+Denuncia anónima
+Informe anónimo
+Informe de integridad
+Línea de cumplimiento
+Informe de conducta indebida
+Denuncia de fraude
+Denuncia de corrupción
+Canal ético
+Canal de integridad
+Divulgación protegida
+Protección del denunciante
+Denuncia por represalias
+Denuncia interna
+Denuncia externa
+Sistema de denuncias

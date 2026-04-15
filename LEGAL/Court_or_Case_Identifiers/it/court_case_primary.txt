@@ -1,17 +1,20 @@
-Numero Caso
-Numero Fascicolo
-Numero Ruolo
-ID Caso
-Riferimento Tribunale
-Numero Procedimento
-Archivio Giudiziario
+﻿Numero di causa
+Numero di ruolo
+Riferimento giudiziario
+Numero di fascicolo
+Numero di procedimento
+Numero di sentenza
+Ordinanza
+Sentenza
 Citazione
-Azione Civile
-Caso Penale
-Registro Tribunale
-Numero Causa
-Numero Ricorso
-Riferimento Sentenza
-Numero Appello
-RG
-RGNR
+Mandato di comparizione
+Ricorso
+Conclusioni
+Decreto
+Decisione giudiziaria
+Verbale d'udienza
+Appello
+Ricorso in Cassazione
+Ingiunzione
+Lodo arbitrale
+Atto giudiziario

@@ -1,16 +1,29 @@
-Trainingsnachweis
-Weiterbildung
+﻿Schulungsakte
 Lernplan
 Kursteilnahme
 Workshop
 Seminar
 Fortbildung
-Berufliche Weiterentwicklung
+Berufliche Weiterbildung
+Weiterbildung
 Schulungsstunden
 Kompetenz
-Fachliche Entwicklung
+Kompetenzentwicklung
 Lernen
 Personalentwicklung
-PE
-Compliance-Schulung
 Pflichtschulung
+E-Learning
+Präsenzschulung
+Webinar
+Konferenz
+Prüfung
+Verlängerung
+Ablauf
+Schulungsbudget
+LMS
+Lernmanagementsystem
+Schulungsanbieter
+Einarbeitungsschulung
+Sicherheitsschulung
+Erste-Hilfe-Schulung
+ISO-Zertifizierung

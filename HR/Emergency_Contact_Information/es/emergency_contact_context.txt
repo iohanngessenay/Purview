@@ -1,20 +1,24 @@
-Dirección Particular
-Correo Electrónico Personal
-Teléfono Personal
-Contacto Personal
-Relación
-Número Móvil
-Teléfono Celular
+﻿Dirección personal
+Email privado
+Teléfono privado
+Contacto personal
+Parentesco
+Número de móvil
 Cónyuge
 Pareja
 Padre
 Tutor
 Dependiente
-Datos de Contacto
-Teléfono Fijo
-Contacto Alternativo
-Empleado Record
-HR Record
-Master Data
-ERP HR
-Contacto Sheet
+Datos de contacto
+Teléfono fijo
+Contacto alternativo
+Expediente personal
+Datos personales
+Familiar
+Pariente
+Primeros auxilios
+Grupo sanguíneo
+Alergias
+Condición médica
+Responsable de seguridad
+Evacuación

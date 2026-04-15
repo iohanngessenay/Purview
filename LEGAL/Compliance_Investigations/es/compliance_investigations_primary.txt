@@ -1,19 +1,21 @@
-Investigación Interna
-Incidente de Cumplimiento
-Mala Conducta
-Denunciante
-Informe de Hallazgos
-Evaluación Ética
-Investigación Preliminar
-Informe de Investigación
-PBC
-Prevención Blanqueo Capitales
-KYC
-Conocer al Cliente
-Investigación de Fraude
-Debida Diligencia
-Auditoría de Cumplimiento
-Infracción
-Investigación Regulatoria
-Auditoría Forense
-Revisión de Cumplimiento
+﻿Investigación de cumplimiento
+Investigación interna
+Informe de investigación
+Revisión de cumplimiento
+Auditoría de cumplimiento
+Investigación ética
+Investigación de fraude
+Investigación forense
+Hallazgo de cumplimiento
+Resumen de investigación
+Conclusiones de investigación
+Análisis de causa raíz
+Informe de acción correctiva
+Incidente de cumplimiento
+Investigación regulatoria
+Investigación anticorrupción
+Investigación antilavado
+Memo de investigación
+Entrevista de testigo
+Registro de evidencia
+Cierre de investigación

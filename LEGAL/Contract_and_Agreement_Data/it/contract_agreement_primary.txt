@@ -1,25 +1,23 @@
-Contratto
-Accordo
-Termini e Condizioni
-Accordo Quadro
-Contratto Quadro di Servizi
-Dichiarazione di Lavoro
-SOW
-Modifica
-Addendum
-Clausola di Risoluzione
-Contratto di Servizio
-Contratto di Acquisto
-Lettera di Incarico
-Ordine di Lavoro
-Ordine di Modifica
-Modulo Ordine
-Allegato
-Cronoprogramma
-Esibizione
+﻿Contratto quadro
+Accordo di livello di servizio
 SLA
-Accordo Livello Servizio
-Contratto di Licenza
-Rinnovo
-Data Effettiva
-Sottoscrizione
+Capitolato
+Accordo quadro
+Contratto di licenza
+Contratto di fornitura
+Contratto di distribuzione
+Accordo di partnership
+Contratto di joint venture
+Contratto di consulenza
+Contratto di subappalto
+Addendum
+Accordo di risoluzione
+Accordo transattivo
+Memorandum d'intesa
+Lettera d'intenti
+Lettera d'incarico
+Contratto di servizi
+Contratto fornitore
+Contratto d'acquisto
+Contratto di locazione
+Convenzione

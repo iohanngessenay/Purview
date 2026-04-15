@@ -1,4 +1,4 @@
-Hire Date
+﻿Hire Date
 Start Date
 Notice Period
 Job Title
@@ -20,3 +20,20 @@ Manager
 HR
 Signature
 Effective Date
+End Date
+Gross Salary
+Annual Leave
+Working Hours
+Non-Compete
+Non-Solicitation
+Confidentiality Clause
+Restrictive Covenant
+Garden Leave
+Benefits
+Pension
+Bonus
+Commission
+Reporting Line
+Place of Work
+Remote Work
+Collective Agreement

@@ -1,6 +1,17 @@
-Contatto di Emergenza
-Parente più Prossimo
-Emergenza
-Numero di Emergenza
-Contatto ICE
-Telefono di Emergenza
+﻿Contatto di emergenza
+Parente più prossimo
+Numero di emergenza
+Telefono di emergenza
+Email di emergenza
+Modulo contatto di emergenza
+Scheda di emergenza
+Notifica di emergenza
+Dati contatto di emergenza
+Lista contatti di emergenza
+Informazioni di emergenza
+Contatto di emergenza personale
+Scheda contatto di emergenza
+Persona di fiducia
+ICE
+Contatto in caso di emergenza
+Familiare più vicino

@@ -1,13 +1,26 @@
-Sécurité Sociale
-N° Ass. Sociale
-Assurance-Vieillesse et Survivants
-Sécurité Sociale Suisse
-AI
-Assurance-Invalidité
+﻿Numéro d'assurance
+Assurance sociale
+Sécurité sociale
+AVS
+Assurance vieillesse et survivants
+Sécurité sociale suisse
 Employé
 Paie
 RH
 Intégration
 Document d'identité
-Copie de pièce d'identité
-Pièce d'identité nationale
+Copie de la carte d'identité
+Caisse de pension
+LPP
+Prévoyance professionnelle
+Assurance sociale
+Suisse
+Confédération
+Canton
+Employeur
+Inscription
+Carte d'assurance
+Déduction
+AI
+Assurance invalidité
+APG

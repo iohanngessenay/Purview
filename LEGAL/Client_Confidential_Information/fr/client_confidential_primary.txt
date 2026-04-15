@@ -1,18 +1,20 @@
-Client Confidentiel
-Information Confidentielle
-Privilégié
-Avocat-Client
-Privilégié et Confidentiel
-Communication Confidentielle
-Strictement Confidentiel
-Usage Interne Uniquement
-Information Propriétaire
-Affaire Client
-Dossier Client
-Secret Professionnel
-Privilège Avocat-Client
-Document de Travail
-Pour Conseil Uniquement
-Conseil Juridique
-Ne Pas Diffuser
-Sous Confidentialité
+﻿Confidentiel client
+Secret professionnel
+Privilège avocat-client
+Communication privilégiée
+Données confidentielles client
+Dossier client
+Affaire client
+Numéro de dossier
+Engagement client
+Information client
+Confidentiel et privilégié
+Produit de travail
+Produit de travail de l'avocat
+Document privilégié
+Archives client
+Portefeuille client
+Dossier confidentiel
+Information restreinte
+Besoin de connaître
+Secret avocat

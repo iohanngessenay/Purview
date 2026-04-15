@@ -1,32 +1,23 @@
-Demanda
+﻿Expediente judicial
+Caso legal
 Litigio
-Proceso Judicial
-Denuncia
-Número de Caso
-Demandado
-Demandante
-Citación
-Orden del Tribunal
-Procedimientos
-Arbitraje
-Mediación
-Acuerdo
-Transacción
-Declaración de Reclamación
-Aviso de Apelación
-Escrito de Citación
+Demanda
+Procedimiento judicial
+Escrito de demanda
+Contestación
 Reconvención
+Excepción de inadmisibilidad
+Medida cautelar
+Auto judicial
+Solicitud de prueba
+Interrogatorio
+Alegato
+Recurso de apelación
 Sentencia
-Fallo
-Resolucíon
-Veredicto
-Declaración
-Descubrimiento
-Audiencia
-Juicio
-Alegatos
-Moción
-Escrito
-Declaración Jurada
-Prueba
-Testimonio
+Resolución
+Acuerdo transaccional
+Acción colectiva
+Laudo arbitral
+Ejecución forzosa
+Proceso monitorio
+Diligencias previas

@@ -1,0 +1,30 @@
+﻿Audit
+Auditor
+Finding
+Opinion
+Report
+Review
+Assessment
+Internal Control
+Material
+Significant
+Weakness
+Deficiency
+Recommendation
+Compliance
+Financial Statements
+Fiscal Year
+Engagement
+Risk
+Assurance
+Attestation
+Sampling
+Substantive Testing
+Analytical Procedures
+Big Four
+PCAOB
+IAASB
+ISA
+GAAS
+SOX 404
+Materiality

@@ -1,31 +1,24 @@
+﻿Dossier contentieux
+Affaire judiciaire
 Procès
-Contentieux
-Action en Justice
-Plainte
-Numéro d'Affaire
-Défendeur
-Demandeur
-Assignation à Comparaître
-Ordonnance du Tribunal
-Procédure
-Arbitrage
-Médiation
-Règlement Amiable
-Déclaration de Créance
-Avis d'Appel
+Litige
+Procédure judiciaire
 Assignation
-Demande Reconventionnelle
+Requête
+Conclusions
+Demande reconventionnelle
+Exception d'irrecevabilité
+Référé
+Ordonnance
+Demande de communication de pièces
+Interrogatoire
+Plaidoirie
+Mémoire d'appel
+Mémoire ampliatif
 Jugement
-Décision
-Verdict
-Déposition
-Découverte
-Audience
-Procès
-Plaidoiries
-Requete
-Mémoire
-Attestation
-Pièce à Conviction
-Preuve
-Témoignage
+Arrêt
+Accord transactionnel
+Action collective
+Sentence arbitrale
+Exécution forcée
+Injonction de payer

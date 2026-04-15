@@ -1,6 +1,24 @@
-Cabinet d'avocats
-Frais juridiques
-Honoraires d'avocat
-Heures facturées
-ID d'affaire
+﻿Facture
+Facturation
+Honoraires
+Coût
+Frais
+Heures
+Taux
+Budget
+Paiement
+Client
+Dossier
+Affaire
+Service
+Avocat
+Conseil
+Cabinet
 Provision
+TVA
+Taxe
+Remise
+Créance
+Associé
+Collaborateur
+Secrétaire juridique

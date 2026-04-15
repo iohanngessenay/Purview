@@ -1,0 +1,25 @@
+﻿Jahresbudget
+Budgetplan
+Budgetvorschlag
+Budgetgenehmigung
+Finanzprognose
+Rollierende Prognose
+Umsatzprognose
+Kostenprognose
+Cashflow-Prognose
+Absatzprognose
+Budgetabweichung
+Abweichungsanalyse
+Budget vs. Ist
+Finanzprojektion
+Fünfjahresplan
+Dreijahresplan
+Investitionsbudget
+Betriebsbudget
+Abteilungsbudget
+Budgetrevision
+Halbjahresüberprüfung
+Budget-Reforecast
+GuV-Prognose
+EBITDA-Prognose
+Personalbudget

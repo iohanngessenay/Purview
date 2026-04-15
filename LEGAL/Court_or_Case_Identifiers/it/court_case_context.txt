@@ -1,6 +1,23 @@
-Tribunale
-Udienza
+﻿Tribunale
+Corte
 Giudice
-Sentenza
-ID Caso
+Attore
+Convenuto
 Procedimento
+Udienza
+Sentenza
+Appello
+Prova
+Testimone
+Testimonianza
+Deposizione
+Mediazione
+Arbitrato
+Transazione
+Competenza
+Giurisdizione
+Legge
+Avvocato
+Pubblico Ministero
+Cancelleria
+Esecuzione

@@ -1,9 +1,26 @@
-R&D
-Ingénierie
-Prototype
-Spécification technique
-Plan
-Cahier de laboratoire
-Transfert de technologie
-Accord de licence
-Propriétaire
+﻿Brevet
+Marque
+Droit d'auteur
+Propriété intellectuelle
+PI
+Invention
+Innovation
+Dépôt
+Délivrance
+Revendications
+Antériorité
+Nouveauté
+Contrefaçon
+Licence
+Redevance
+Cession
+Inventeur
+Déposant
+Examinateur
+Office de brevets
+OEB
+OMPI
+PCT
+Design industriel
+Open source
+Nom commercial

@@ -1,0 +1,25 @@
+﻿Prüfungsbericht
+Interner Revisionsbericht
+Externer Prüfungsbericht
+Gesetzliche Prüfung
+Abschlussprüfung
+Prüfungsfeststellung
+Bestätigungsvermerk
+Uneingeschränkter Bestätigungsvermerk
+Eingeschränkter Bestätigungsvermerk
+Versagungsvermerk
+Management Letter
+Prüfungsausschussbericht
+Wirtschaftsprüferbericht
+Compliance-Prüfung
+Betriebsprüfung
+IT-Prüfungsbericht
+Prüfungsempfehlung
+Nachfolgeprüfung
+Prüfungsplan
+Prüfungsnachweis
+Prüfpfad
+Prüfungsumfang
+Arbeitspapiere
+Fortführungsprognose
+Wesentliche Schwäche

@@ -1,19 +1,32 @@
-Invoice
-Bill
-Reference
-Ref
-Number
-Legal Fees
-Billable Hours
-Disbursements
-Time Entry
-Hourly Rate
-Counsel Fees
-Legal Services
-Professional Fees
-Time Charged
-Law Firm
-Attorney Fees
-Hours Billed
-Matter ID
+﻿Invoice
+Billing
+Fee
+Cost
+Expense
+Hours
+Rate
+Time
+Budget
+Payment
+Revenue
+Client
+Matter
+Case
+Service
+Attorney
+Counsel
+Lawyer
+Solicitor
+Firm
 Retainer
+Disbursement
+Tax
+VAT
+Discount
+Write-off
+Collection
+Accounts Receivable
+Timekeeper
+Partner
+Associate
+Paralegal

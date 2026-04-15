@@ -1,19 +1,31 @@
-Effective Date
-Signature
-Counterparts
-Governing Law
-Jurisdiction
-Party
-Parties
-Cliente
-Supplier
-Vendor
-Obligations
-Term
-Renewal
-Breach
-Remedy
-Confidentiality
-Liability
-Indemnity
-Force Majeure
+﻿Contrato
+Acuerdo
+Términos y condiciones
+Cláusula
+Disposición
+Obligación
+Responsabilidad
+Indemnización
+Garantía
+Fuerza mayor
+Resolución
+Renovación
+Prórroga
+Fecha de efecto
+Fecha de vencimiento
+Plazo
+Condiciones de pago
+Entregables
+Alcance
+Ley aplicable
+Jurisdicción
+Arbitraje
+Resolución de disputas
+Incumplimiento
+Recurso
+Daños
+Penalización
+Firma
+Parte
+Ejecución
+Vinculante

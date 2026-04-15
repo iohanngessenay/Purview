@@ -1,8 +1,27 @@
-Indagine
-Numero Caso
-Follow-up
+﻿Segnalante
+Segnalazione
+Anonimo
 Riservato
-Sensibile
 Etica
-Caso Hotline
-Registrazione
+Integrità
+Frode
+Corruzione
+Condotta illecita
+Violazione
+Indagine
+Protezione
+Ritorsione
+Rappresaglia
+Canale
+Linea
+Modulo
+Accusa
+Conformità
+Codice di condotta
+Politica
+Responsabile
+Comitato etico
+Garante
+Buona fede
+Prova
+Testimone

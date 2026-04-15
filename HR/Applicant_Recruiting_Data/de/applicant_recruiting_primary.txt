@@ -1,4 +1,4 @@
-Bewerbung
+﻿Bewerbung
 Lebenslauf
 CV
 Anschreiben
@@ -6,3 +6,18 @@ Motivationsschreiben
 Stellenangebot
 Jobangebot
 Referenzprüfung
+Bewerbungsformular
+Kandidatenprofil
+Absageschreiben
+Interviewbewertung
+Interview-Feedback
+Bewerbungsunterlagen
+Kandidatenbeurteilung
+Eignungstest
+Einstellungszusage
+Bewerbungsgespräch
+Vorstellungsgespräch
+Gesprächsnotizen
+Hintergrundprüfung
+Stellenausschreibung
+Kandidaten-Screening

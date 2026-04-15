@@ -1,15 +1,30 @@
+﻿Datenschutz
+DSGVO
+Personenbezogene Daten
+Betroffener
 Verantwortlicher
 Auftragsverarbeiter
 Unterauftragsverarbeiter
-Gemeinsame Verantwortliche
-Betroffene Person
-Datenschutzverletzung
+Verarbeitung
+Einwilligung
+Berechtigtes Interesse
+Datenpanne
+Meldung
+Übermittlung
+Drittland
+Angemessenheitsbeschluss
+Aufsichtsbehörde
 DSB
 Datenschutzbeauftragter
-Verarbeitungsverzeichnis
-Datenübermittlung
-Personenbezogene Daten
-Internationale Übermittlung
-Anlage
-Technische und organisatorische Maßnahmen
-TOM
+Anonymisierung
+Pseudonymisierung
+Verschlüsselung
+Datenminimierung
+Zweckbindung
+Speicherbegrenzung
+Recht auf Löschung
+Auskunftsrecht
+Datenportabilität
+DSG
+Neues DSG
+Grenzüberschreitende Übermittlung

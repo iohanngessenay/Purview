@@ -1,15 +1,28 @@
+﻿Règlement
 Conformité
-Réglementation
-Audit
-Constatation d'audit
-Rapport de risque
-Évaluation des risques
-Obligation juridique
+Norme
+Cadre
+Exigence
+Politique
+Procédure
 Contrôle
-Défaillance de contrôle
-Plan de remédiation
+Audit
 Certification
-Conformité
-Violation de politique
-Dépôt réglementaire
-Évaluation de conformité
+Risque
+Atténuation
+Surveillance
+Rapportage
+Supervision
+Autorité
+Régulateur
+Sanction
+Amende
+Pénalité
+Licence
+Autorisation
+Enregistrement
+Notification
+Délai
+Obligation
+Responsabilité
+Gouvernance

@@ -1,0 +1,19 @@
+﻿Banco
+Conta
+Pagamento
+Salário
+Vencimento
+Transferência
+Dados bancários
+Método de pagamento
+Conta à ordem
+Conta poupança
+Extrato bancário
+Agência
+Nome do banco
+Beneficiário
+Recibo de vencimento
+Certificado bancário
+Verificação de conta
+Instituição bancária
+Débito direto

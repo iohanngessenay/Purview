@@ -1,12 +1,28 @@
-Demande d'Emploi
-Candidat
+﻿Candidat
 Postulant
 Entretien
-Entretien d'Embauche
 Recrutement
-Processus d'Embauche
-Liste Restreinte
-Réquisition
+Embauche
+Processus de recrutement
+Présélection
+Référence
+Offre
+Annonce
+Ressources Humaines
 RH
-Acquisition de talents
-Vérification des références
+Chasseur de têtes
+Cabinet de recrutement
+Poste vacant
+Responsable recrutement
+Intégration
+Période d'essai
+Centre d'évaluation
+Préavis
+Vivier de talents
+Gestion des candidatures
+Marque employeur
+Employeur
+Profil de poste
+Entretien téléphonique
+Entretien technique
+ATS

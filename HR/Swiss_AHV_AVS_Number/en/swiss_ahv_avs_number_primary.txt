@@ -1,4 +1,4 @@
-AHV Number
+﻿AHV Number
 AVS Number
 AHV
 AVS
@@ -6,3 +6,13 @@ Swiss Social Security Number
 Swiss Insurance Number
 13-digit number
 OASI Number
+AHV-Nr
+AVS-Nr
+AHV/AVS Number
+Swiss Social Insurance Number
+Social Insurance Number
+OASI
+Insurant Number
+756 Number
+AHV Certificate
+AVS Certificate

@@ -1,16 +1,21 @@
-Banque
+﻿Banque
 Compte
 Paiement
-Compte Salaire
-Compte Paie
+Salaire
 Virement
-Remise
-Virement Bancaire
-Coordonnées Bancaires
-Mode de Paiement
-Compte Courant
-Compte Épargne
-Prélèvement
-Dépôt Direct
-Titulaire du compte
+Virement bancaire
+Données bancaires
+Mode de paiement
+Compte courant
+Compte épargne
 Relevé bancaire
+Agence
+Nom de la banque
+Bénéficiaire
+Paie
+Bulletin de paie
+Attestation bancaire
+Vérification de compte
+Établissement bancaire
+Code guichet
+Clé RIB

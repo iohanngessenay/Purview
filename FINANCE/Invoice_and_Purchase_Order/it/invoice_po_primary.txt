@@ -1,0 +1,22 @@
+﻿Fattura
+Ordine d'acquisto
+ODA
+Richiesta d'acquisto
+Fattura proforma
+Nota di credito
+Nota di debito
+Bolla di consegna
+Ricevimento merci
+Contabilità fornitori
+Contabilità clienti
+Avviso di pagamento
+Numero di fattura
+Conferma d'ordine
+Fattura fornitore
+Fattura cliente
+Fattura ricorrente
+Fattura finale
+Fattura in acconto
+Riconciliazione a tre vie
+Documento di trasporto
+Polizza di carico

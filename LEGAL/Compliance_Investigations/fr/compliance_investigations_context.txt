@@ -1,7 +1,30 @@
-Ligne d'assistance
+﻿Conformité
+Enquête
+Éthique
+Fraude
+Faute
+Violation
+Non-conformité
+Manquement
+Lanceur d'alerte
+Ligne d'alerte
 Anonyme
-Représailles
-Action disciplinaire
-Gestion d'affaire
 Allégation
-Notes d'entretien
+Preuve
+Témoin
+Entretien
+Conclusion
+Recommandation
+Remédiation
+Action corrective
+Sanction
+Pénalité
+Amende
+Régulateur
+Code de conduite
+Due diligence
+Forensique
+Piste d'audit
+Audit interne
+Évaluation des risques
+Escalade

@@ -1,18 +1,20 @@
-Cliente Confidencial
-Información Confidencial
-Privilegiado
-Abogado-Cliente
-Privilegiado y Confidencial
-Comunicación Confidencial
-Estrictamente Confidencial
-Uso Interno Únicamente
-Información Confidencial
-Asunto del Cliente
-Expediente del Cliente
-Secreto Profesional
-Privilegio Abogado-Cliente
-Documento de Trabajo
-Solo para Abogado
-Asesoramiento Legal
-No Distribuir
-Bajo Confidencialidad
+﻿Confidencial del cliente
+Privilegio abogado-cliente
+Secreto profesional
+Comunicación privilegiada
+Datos confidenciales del cliente
+Expediente del cliente
+Asunto del cliente
+Número de expediente
+Compromiso del cliente
+Información del cliente
+Confidencial y privilegiado
+Producto de trabajo
+Producto de trabajo del abogado
+Documento privilegiado
+Archivos del cliente
+Portafolio del cliente
+Dossier confidencial
+Información restringida
+Necesidad de conocer
+Secreto de abogado

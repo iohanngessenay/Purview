@@ -1,14 +1,22 @@
-Consiglio di Amministrazione
+﻿Consiglio
+Consigliere
+Azionista
+Governance
+Delibera
+Verbale
+Seduta
 Presidente
-Amministratore Delegato
-Direttore Finanziario
-Segretario Societario
-Ordine del Giorno
+Amministratore delegato
+Segretario
 Quorum
-Mozione
-Approvato
-Firmato
-Partecipanti
-Delega
-Assemblea Generale
-Assemblea Ordinaria
+Voto
+Dovere di diligenza
+Conformità
+Capitale sociale
+Dividendo
+Revisore
+Comitato rischi
+Consigliere indipendente
+Conflitto di interessi
+Direzione generale
+Sostenibilità

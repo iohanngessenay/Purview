@@ -1,0 +1,26 @@
+﻿Préstamo
+Crédito
+Deuda
+Prestatario
+Prestamista
+Banco
+Intereses
+Capital
+Vencimiento
+Reembolso
+Impago
+Covenant
+Garantía
+Colateral
+Subordinado
+Senior
+Garantizado
+No garantizado
+Tipo fijo
+Tipo variable
+Refinanciación
+Amortización anticipada
+Disposición
+Calificación
+Grado de inversión
+Agencia de calificación

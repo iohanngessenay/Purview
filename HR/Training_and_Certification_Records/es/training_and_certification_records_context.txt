@@ -1,15 +1,28 @@
-Registro de Capacitación
-Plan de Aprendizaje
-Asistencia al Curso
+﻿Registro de formación
+Plan de formación
+Asistencia al curso
 Taller
 Seminario
-Desarrollo Profesional Continuo
-Formación Continua
-Horas de Formación
+DPC
+Desarrollo profesional continuo
+Desarrollo profesional
+Formación continua
+Horas de formación
 Competencia
-Desarrollo de Habilidades
-Learning
-L&D
-Learning and Development
-Cumplimiento Capacitación
-Mandatory Capacitación
+Desarrollo de habilidades
+Aprendizaje
+Formación obligatoria
+E-learning
+Formación presencial
+Webinar
+Conferencia
+Examen
+Renovación
+Caducidad
+Presupuesto de formación
+LMS
+Proveedor de formación
+Formación de incorporación
+Formación en seguridad
+Formación en primeros auxilios
+Certificación ISO

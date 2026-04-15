@@ -1,19 +1,21 @@
+﻿Compliance-Untersuchung
 Interne Untersuchung
-Compliance-Vorfall
-Fehlverhalten
-Whistleblower
-Ergebnisbericht
-Ethikprüfung
-Sachverhaltsabklärung
 Untersuchungsbericht
-Geldwäscheprüfung
-KYC
-Kundensorgfaltspflicht
+Compliance-Überprüfung
+Compliance-Audit
+Ethik-Untersuchung
 Betrugsuntersuchung
-Due Diligence
-Compliance-Prüfung
-Verletzung
-Aufsichtsbehördliche Untersuchung
-Forensische Prüfung
-Compliance-Review
-Vorfallreaktion
+Forensische Untersuchung
+Compliance-Feststellung
+Untersuchungszusammenfassung
+Untersuchungsergebnisse
+Ursachenanalyse
+Korrekturbericht
+Compliance-Vorfall
+Regulatorische Untersuchung
+Anti-Korruptionsuntersuchung
+Geldwäscheuntersuchung
+Untersuchungsmemo
+Zeugenbefragung
+Beweisprotokoll
+Untersuchungsabschluss

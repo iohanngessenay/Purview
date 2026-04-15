@@ -1,20 +1,24 @@
-Indirizzo di Casa
-Email Privata
-Telefono Privato
-Contatto Personale
-Relazione
-Numero Cellulare
-Cellulare
+﻿Indirizzo personale
+Email privata
+Telefono privato
+Contatto personale
+Rapporto di parentela
+Numero di cellulare
 Coniuge
 Partner
 Genitore
 Tutore
-Persona a Carico
-Dati di Contatto
-Telefono Fisso
-Contatto Alternativo
-Scheda Dipendente
-Dati HR
-Anagrafica
-Sistema HR
-Scheda Contatti
+Persona a carico
+Dati di contatto
+Telefono fisso
+Contatto alternativo
+Fascicolo personale
+Dati personali
+Familiare
+Parente
+Primo soccorso
+Gruppo sanguigno
+Allergie
+Condizione medica
+Responsabile sicurezza
+Evacuazione

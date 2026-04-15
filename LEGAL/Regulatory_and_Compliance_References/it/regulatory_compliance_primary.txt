@@ -1,28 +1,24 @@
-GDPR
-DSGVO
-FADP
-FINMA
-SEC
-SOX
-Sarbanes-Oxley
-HIPAA
+﻿Riferimento normativo
+Quadro normativo
+Standard di conformità
+Regolamento
+Direttiva
+Legge applicabile
+Requisito normativo
+Politica di conformità
+Manuale di conformità
+Programma di conformità
+Audit di conformità
+Certificazione di conformità
 ISO 27001
-ISO/IEC 27001
-PCI DSS
-NIST
-FedRAMP
-FISMA
-CCPA
-LGPD
-Legge Protezione Dati
-Legge Svizzera Protezione Dati
+SOX
 Basilea III
-MiFID II
-FCPA
-OFAC
-AML
-KYC
-Dodd-Frank
-Garante Privacy
+MiFID
 CONSOB
-Banca d'Italia
+GDPR
+PCI DSS
+SOC 2
+NIST
+COBIT
+COSO
+AgID

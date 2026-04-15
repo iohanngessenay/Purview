@@ -1,17 +1,20 @@
-Avis Juridique
-Mémorandum de Conseil
-Note Consultative
-Lettre d'Avis
-Mémorandum
-Document de Position
-Prise de Position
-Expertise Juridique
-Note Juridique
-Note de Conseil
-Analyse Juridique
-Mémoire
-Opinion du Conseil
-Évaluation Juridique
-Note Stratégique
-Évaluation des Risques
-Analyse de Cas
+﻿Avis juridique
+Mémorandum juridique
+Mémorandum de conseil
+Conseil juridique
+Avis consultatif
+Analyse juridique
+Mémoire juridique
+Note de recherche
+Mémorandum interne
+Mémorandum privilégié
+Évaluation juridique
+Avis réglementaire
+Avis fiscal
+Avis de conformité
+Évaluation des risques
+Recommandation juridique
+Note de position
+Commentaire juridique
+Lettre d'opinion
+Avis formel

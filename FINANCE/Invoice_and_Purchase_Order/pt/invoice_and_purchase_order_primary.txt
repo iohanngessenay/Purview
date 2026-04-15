@@ -1,0 +1,22 @@
+﻿Fatura
+Ordem de compra
+OC
+Requisição de compra
+Fatura proforma
+Nota de crédito
+Nota de débito
+Guia de remessa
+Receção de mercadorias
+Contas a pagar
+Contas a receber
+Aviso de pagamento
+Número de fatura
+Confirmação de encomenda
+Fatura de fornecedor
+Fatura de cliente
+Fatura recorrente
+Fatura final
+Fatura parcial
+Reconciliação tripartida
+Guia de receção
+Conhecimento de embarque

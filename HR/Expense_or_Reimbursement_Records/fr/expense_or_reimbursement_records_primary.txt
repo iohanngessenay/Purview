@@ -1,5 +1,19 @@
-Note de Frais
-Demande de Voyage
-Formulaire de Frais
-Formulaire de Remboursement
-Justificatif de Frais
+﻿Note de frais
+Demande de remboursement
+Formulaire de frais
+Formulaire de remboursement
+Justificatif de frais
+Rapport de frais de déplacement
+Indemnité kilométrique
+Indemnité journalière
+Relevé de frais
+Bordereau de frais
+Réclamation de frais
+Remboursement de frais
+Frais professionnels
+Approbation de frais
+Relevé carte entreprise
+Bon de caisse
+Réconciliation des frais
+Autorisation de déplacement
+Avance de frais

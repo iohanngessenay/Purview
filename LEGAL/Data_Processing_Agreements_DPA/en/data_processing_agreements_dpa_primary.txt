@@ -1,8 +1,25 @@
-Data Processing Agreement
+﻿Data Processing Agreement
 DPA
-Data Protection Addendum
+Data Protection Agreement
+Data Processing Addendum
 Standard Contractual Clauses
 SCC
-Processing Terms
-Transfer Impact Assessment
-TIA
+Data Transfer Agreement
+Sub-Processor Agreement
+Joint Controller Agreement
+Data Sharing Agreement
+Privacy Agreement
+GDPR Addendum
+Data Protection Addendum
+Binding Corporate Rules
+BCR
+Privacy Impact Assessment
+PIA
+Data Protection Impact Assessment
+DPIA
+Record of Processing Activities
+ROPA
+Consent Form
+Privacy Notice
+Data Retention Policy
+Data Breach Notification

@@ -1,20 +1,24 @@
-Rimborso
+﻿Rimborso
 Chilometraggio
 Hotel
 Trasporto
 Diaria
 Ricevuta
-Spese Aziendali
-Spese di Viaggio
-Indendità Pasto
-Piccola Cassa
+Spese aziendali
+Spese di viaggio
+Indennità pasto
+Piccola cassa
 Fattura
 IVA
-Giustificativo
-Tariffa Chilometrica
+Ricevuta fiscale
 Alloggio
-Centro di Costo
-Codice Contabile
+Centro di costo
 Approvazione
-Policy Spese
-Carta Aziendale
+Policy spese
+Carta aziendale
+Biglietto aereo
+Taxi
+Parcheggio
+Pedaggio
+Spese di rappresentanza
+Cena di lavoro

@@ -1,22 +1,30 @@
-Fecha de Contratación
-Fecha de Inicio
-Período de Aviso
-Título del Puesto
-Puesto
-Período de Prueba
-Terminación
-Finiquito
-Indemnización por Despido
-Jornada Completa
-Media Jornada
+﻿Fecha de contratación
+Fecha de inicio
+Preaviso
+Puesto de trabajo
+Posición
+Período de prueba
+Despido
+Indemnización
+Jornada completa
+Media jornada
 Indefinido
 Temporal
-Fijo Discontinuo
-Condiciones Laborales
 Empleado
-Personal
-Worker
-Manager
-HR
-Signature
-Effective Date
+Trabajador
+RRHH
+Firma
+Fecha de efecto
+Salario bruto
+Vacaciones anuales
+Jornada laboral
+Cláusula de no competencia
+Cláusula de confidencialidad
+Prestaciones
+Pensión
+Bonus
+Comisión
+Superior jerárquico
+Centro de trabajo
+Teletrabajo
+Comité de empresa

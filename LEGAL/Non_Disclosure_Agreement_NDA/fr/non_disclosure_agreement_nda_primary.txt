@@ -1,18 +1,13 @@
-Accord de Non-Divulgation
+﻿Accord de non-divulgation
 NDA
-Accord de Confidentialité
-Convention de Confidentialité
-Clause de Confidentialité
-Accord de Secret
-Engagement de Confidentialité
-NDA Mutuel
-NDA Unilatéral
-NDA Bilatéral
-Restriction de Divulgation
-Informations Confidentielles
-Informations Protégées
-Secret des Affaires
-CDA
-Période de Confidentialité
-Partie Divulgatrice
-Partie Destinataire
+Accord de confidentialité
+Engagement de confidentialité
+NDA mutuel
+NDA unilatéral
+Clause de confidentialité
+Clause de secret
+Protocole de confidentialité
+Accord de protection de l'information
+Accord de secret
+Engagement de non-divulgation
+Convention de confidentialité

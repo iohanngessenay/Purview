@@ -1,6 +1,24 @@
-Tribunal
-Hearing
-Tribunal
-Judgment
-Caso ID
-Proceeding
+﻿Tribunal
+Juzgado
+Juez
+Demandante
+Demandado
+Procedimiento
+Vista
+Sentencia
+Apelación
+Prueba
+Testigo
+Testimonio
+Deposición
+Mediación
+Arbitraje
+Acuerdo
+Competencia
+Jurisdicción
+Ley
+Abogado
+Fiscal
+Procurador
+Ejecución
+Secretario judicial

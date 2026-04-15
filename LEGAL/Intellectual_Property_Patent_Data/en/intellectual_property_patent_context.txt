@@ -1,20 +1,35 @@
-Intellectual Property
+﻿Patent
+Trademark
 Copyright
-IP Portfolio
-Patent Claim
+Intellectual Property
+IP
+Invention
+Innovation
+Filing
+Application
+Grant
+Claims
+Specification
 Prior Art
-WIPO
-EPO
-USPTO
-Trade Secret
+Novelty
+Non-Obvious
+Infringement
+Licensing
 Royalty
+Assignment
+Inventor
+Applicant
+Examiner
+Patent Office
+USPTO
+EPO
+WIPO
 PCT
-R&D
-Engineering
-Prototype
-Technical Specification
-Blueprint
-Laboratory Notebook
-Technology Transfer
-Licensing Agreement
-Proprietary
+Madrid Protocol
+Trade Dress
+Open Source
+Creative Commons
+Domain Name
+Brand
+Logo
+Industrial Design

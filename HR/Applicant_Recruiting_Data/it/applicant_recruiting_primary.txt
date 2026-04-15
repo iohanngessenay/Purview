@@ -1,9 +1,20 @@
-Candidatura
-Domanda di Lavoro
+﻿Candidatura
 Curriculum Vitae
 CV
-Curriculum
-Lettera di Presentazione
-Lettera Motivazionale
-Offerta di Lavoro
-Lettera di Offerta
+Lettera di presentazione
+Lettera motivazionale
+Offerta di lavoro
+Lettera di offerta
+Lettera di rifiuto
+Modulo di candidatura
+Profilo del candidato
+Valutazione del candidato
+Scheda colloquio
+Rapporto di selezione
+Note di colloquio
+Verifica referenze
+Test attitudinale
+Fascicolo di candidatura
+Screening candidato
+Promessa di assunzione
+Scheda di valutazione

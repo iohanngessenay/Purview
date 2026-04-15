@@ -1,28 +1,29 @@
-Fusione
+﻿Fusione
 Acquisizione
-OPA
-Offerta Pubblica Acquisto
+Fusioni e acquisizioni
 M&A
-Fusioni e Acquisizioni
-Due Diligence
-Verifica
-Società Target
-Acquirente
-Valutazione
-Memorandum Informazioni Riservate
-CIM
-Contratto Compravendita Azioni
+Due diligence
+Contratto di acquisto azioni
 SPA
-Contratto Compravendita Azienda
-APA
-Data Room
-Transazione
-Lettera di Intenti
-LOI
-Offerta Non Vincolante
-NBO
-Accordo Definitivo
-Chiusura
-Closing
+Contratto di acquisto attività
+Accordo di fusione
+Protocollo di fusione
+OPA
+Offerta pubblica d'acquisto
+Disinvestimento
+Scissione
+Spin-off
+Management buyout
+MBO
+Leveraged buyout
+LBO
+Data room
+Term sheet
+Lettera d'intenti
+Accordo di esclusiva
+Parere di congruità
+Relazione di valutazione
 Earn-out
-Fideiussione
+Closing
+Integrazione post-fusione
+Autorizzazione antitrust

@@ -1,0 +1,29 @@
+﻿Registo de auditoria
+Registo de segurança
+Registo de eventos
+Registo de acesso
+Registo de autenticação
+SIEM
+Gestão de registos
+Agregação de logs
+Correlação de logs
+Retenção de logs
+Análise de logs
+Syslog
+Registo de eventos do Windows
+Registo aplicacional
+Registo do firewall
+Deteção de intrusões
+IDS
+Prevenção de intrusões
+IPS
+Monitorização de segurança
+Monitorização de ameaças
+Monitorização em tempo real
+Regra de alerta
+Regra de deteção
+Regra de correlação
+SOAR
+Trilha de auditoria
+Correlação de eventos
+Encaminhamento de logs

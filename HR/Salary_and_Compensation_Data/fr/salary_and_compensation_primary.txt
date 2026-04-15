@@ -1,6 +1,18 @@
-Fiche de Paie
-Bulletin de Paie
-Fiche de Salaire
-Lettre de Rémunération
-Lettre de Bonus
+﻿Bulletin de paie
+Fiche de paie
+Attestation de salaire
+Certificat de salaire
+Lettre de rémunération
+Lettre de prime
 Plan de rémunération
+Revue salariale
+Confirmation de salaire
+Relevé de rémunération
+Lettre d'augmentation
+Bilan de rémunération
+État des prestations
+Fiche de rémunération
+Décompte de salaire
+Relevé de commission
+Grille salariale
+Avenant de rémunération

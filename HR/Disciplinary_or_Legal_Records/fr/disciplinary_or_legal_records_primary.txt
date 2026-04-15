@@ -1,8 +1,21 @@
-Plan d'Amélioration des Performances
-Dernier Avertissement Écrit
-Avertissement Écrit
-Avertissement Verbal
-Lettre de Licenciement
-Licenciement
+﻿Avertissement
+Avertissement écrit
 Blâme
-Réclamation
+Mise à pied
+Licenciement
+Lettre de licenciement
+Convocation à entretien préalable
+Sanction disciplinaire
+Procédure disciplinaire
+Rappel à l'ordre
+Avertissement formel
+Plan d'amélioration
+Rapport disciplinaire
+Rapport d'incident
+Rapport d'enquête
+Lettre d'appel
+Formulaire de réclamation
+Licenciement pour faute
+Licenciement pour faute grave
+Mise en demeure
+Rétrogradation

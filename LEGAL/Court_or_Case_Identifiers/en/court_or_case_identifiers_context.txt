@@ -1,10 +1,33 @@
-Case ID
-Docket
-Court File
-Citation
-Court Registry
-Court
-Hearing
+﻿Court
 Tribunal
-Judgment
+Judge
+Magistrate
+Plaintiff
+Defendant
+Respondent
+Petitioner
+Appellant
+Litigation
 Proceeding
+Hearing
+Trial
+Verdict
+Judgment
+Appeal
+Motion
+Filing
+Discovery
+Exhibit
+Evidence
+Witness
+Testimony
+Deposition
+Mediation
+Arbitration
+Settlement
+Jurisdiction
+Venue
+Statute
+Precedent
+Legal Counsel
+Attorney

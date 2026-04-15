@@ -1,4 +1,4 @@
-Performance Review
+﻿Performance Review
 Performance Appraisal
 Annual Review
 Mid-Year Review
@@ -7,3 +7,16 @@ Employee Evaluation
 Self-Assessment
 Performance Rating Form
 Appraisal Form
+Performance Summary
+Year-End Review
+Quarterly Review
+Probation Review
+Development Review
+Talent Review
+Calibration Report
+Goal Setting Form
+Objective Setting Form
+Performance Feedback
+Manager Assessment
+Peer Review Form
+Competency Assessment

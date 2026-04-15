@@ -1,0 +1,27 @@
+﻿Doença
+Deficiência
+Patologia
+Baixa por doença
+Saúde ocupacional
+Registo médico
+Seguro de saúde
+Receita
+Diagnóstico
+Tratamento
+Ausência médica
+Exame médico
+Trabalhador
+RH
+Responsável
+Ausência
+Regresso ao trabalho
+Médico
+Hospital
+Clínica
+Acidente de trabalho
+Doença profissional
+Ergonomia
+Saúde mental
+Licença de maternidade
+Licença de paternidade
+Reabilitação

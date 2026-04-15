@@ -1,17 +1,25 @@
-Avertissement
+﻿Avertissement
 Suspension
-Résiliation
-Faute Professionnelle
+Licenciement
+Faute
 Plainte
-Disciplinaire
+Discipline
 Enquête
-Mesure Disciplinaire
-Rapport d'Incident
-Sanction
-Action Disciplinaire
-Procédure Disciplinaire
-Affaire RH
+Action disciplinaire
+Rapport d'incident
+Enquête RH
 Audience
-Notes de réunion
-Infraction
+Procès-verbal
+Manquement
 Violation de politique
+Droit du travail
+Comité d'entreprise
+Droit de recours
+Témoignage
+Preuve
+Sanction
+Harcèlement
+Faute grave
+Relations sociales
+Dossier du personnel
+Inspection du travail

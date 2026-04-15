@@ -1,10 +1,23 @@
-Law Firm
-Asesor
+﻿Confidencial
+Privilegiado
+Cliente
 Abogado
-Legal Department
-In-House Asesor
-External Asesor
-Matter Number
-Do Not Distribute
-Restricted Access
-Legal Advice
+Asesor
+Despacho
+Bufete
+Mandato
+Asunto
+Expediente
+Honorarios
+Cuenta fiduciaria
+Revisión documental
+Diligencia debida
+Divulgación
+Censurado
+Sensible
+No reenviar
+Uso interno
+Clasificación
+Protección de datos
+RGPD
+Barrera informativa

@@ -1,9 +1,26 @@
-R&D
-Engineering
-Prototype
-Technical Specification
-Blueprint
-Laboratory Notebook
-Technology Transfer
-Licensing Acuerdo
-Proprietary
+﻿Patente
+Marca
+Derecho de autor
+Propiedad intelectual
+PI
+Invención
+Innovación
+Solicitud
+Concesión
+Reivindicaciones
+Estado de la técnica
+Novedad
+Infracción
+Licencia
+Regalía
+Cesión
+Inventor
+Solicitante
+Examinador
+Oficina de patentes
+OEP
+OMPI
+PCT
+Diseño industrial
+Código abierto
+Nombre comercial

@@ -1,0 +1,24 @@
+﻿Advertência
+Suspensão
+Despedimento
+Falta
+Queixa
+Disciplina
+Investigação
+Ação disciplinar
+Relatório de incidente
+Investigação de RH
+Audiência
+Ata
+Incumprimento
+Violação de política
+Direito do trabalho
+Comissão de trabalhadores
+Direito de recurso
+Depoimento de testemunha
+Prova
+Sanção
+Assédio
+Falta grave
+Relações laborais
+Processo individual

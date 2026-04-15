@@ -1,29 +1,34 @@
-Litigation
-Defendant
+﻿Litigation
+Case
+Court
 Plaintiff
-Claimant
-Proceedings
-Arbitration
-Mediation
-Settlement
-Ruling
-Verdict
-Deposition
+Defendant
+Attorney
+Counsel
+Filing
+Pleading
 Discovery
+Evidence
+Exhibit
+Witness
+Testimony
+Deposition
 Hearing
 Trial
-Pleadings
-Court
-Tribunal
-Judge
-Attorney
-Lawyer
-General Counsel
-Paralegal
+Verdict
+Judgment
+Appeal
+Settlement
+Damages
+Injunction
+Relief
+Remedy
+Jurisdiction
+Venue
 Docket
-Filing
-Case ID
-Case File
-Legal Team
-Prosecutor
-Defense Counsel
+Motion
+Brief
+Memorandum
+Statute of Limitations
+Class
+Mediation

@@ -1,18 +1,31 @@
-Data Effettiva
-Firma
-Copie Conformi
-Legge Applicabile
-Giurisdizione
-Parte
-Parti
-Cliente
-Fornitore
-Obbligazioni
-Durata
-Rinnovo
-Violazione
-Rimedio
-Riservatezza
+﻿Contratto
+Accordo
+Termini e condizioni
+Clausola
+Disposizione
+Obbligo
 Responsabilità
 Indennizzo
-Forza Maggiore
+Garanzia
+Forza maggiore
+Risoluzione
+Rinnovo
+Proroga
+Data di decorrenza
+Data di scadenza
+Durata
+Condizioni di pagamento
+Deliverable
+Ambito
+Legge applicabile
+Giurisdizione
+Arbitrato
+Risoluzione delle controversie
+Inadempimento
+Rimedio
+Danni
+Penale
+Firma
+Parte
+Esecuzione
+Vincolante

@@ -1,0 +1,19 @@
+﻿Passaporte
+Número de passaporte
+Bilhete de identidade
+Cartão de cidadão
+Número de identificação
+NIF
+Número de contribuinte
+Autorização de residência
+Autorização de trabalho
+Visto
+Carta de condução
+Número de segurança social
+NISS
+Documento de identidade
+Documento de viagem
+Título de residência
+Cartão de residência
+CPF
+RG

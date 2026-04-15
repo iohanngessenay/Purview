@@ -1,0 +1,30 @@
+﻿Red
+Infraestructura
+Servidor
+Topología
+Configuración
+Firewall
+Router
+Switch
+DNS
+DHCP
+VLAN
+Subred
+IP
+Puerto
+Protocolo
+TCP
+UDP
+Nube
+Azure
+AWS
+GCP
+Centro de datos
+Nodo
+Punto de acceso
+Ancho de banda
+Latencia
+Disponibilidad
+SLA
+Redundancia
+Conmutación por error

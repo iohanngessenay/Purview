@@ -1,20 +1,24 @@
-Reembolso
+﻿Reembolso
 Kilometraje
 Hotel
 Transporte
-Dieta Diaria
+Dieta
 Recibo
-Gastos de Empresa
-Gastos de Viaje
-Dieta de Comida
-Caja Chica
+Gastos de empresa
+Gastos de viaje
+Dieta de comida
+Caja chica
 Factura
 IVA
-Justificante
-Tarifa de Kilometraje
+Recibo fiscal
 Alojamiento
-Cost Center
-GL Code
-Approval
-Gasto Policy
-Corporate Card
+Centro de costes
+Aprobación
+Política de gastos
+Tarjeta corporativa
+Billete de avión
+Taxi
+Aparcamiento
+Peaje
+Gastos de representación
+Cena de negocios

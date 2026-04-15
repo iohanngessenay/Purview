@@ -1,6 +1,22 @@
-Form
-Presentación No
-Presentación Number
-Presentación ID
-Attachment
-Annex
+﻿Regulador
+Autoridad
+Presentación
+Declaración
+Informe
+Notificación
+Autorización
+Licencia
+Registro
+Plazo
+Formulario
+Cumplimiento
+Supervisión
+Inspección
+Aprobación
+Requisito
+Obligación
+Sanción
+Multa
+Advertencia
+Divulgación
+Periódico

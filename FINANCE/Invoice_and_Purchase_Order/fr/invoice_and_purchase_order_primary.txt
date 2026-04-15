@@ -1,0 +1,21 @@
+﻿Facture
+Bon de commande
+Demande d'achat
+Facture proforma
+Avoir
+Note de débit
+Bon de livraison
+Réception de marchandises
+Comptabilité fournisseurs
+Comptabilité clients
+Avis de paiement
+Numéro de facture
+Confirmation de commande
+Facture fournisseur
+Facture client
+Facture récurrente
+Facture finale
+Facture d'acompte
+Rapprochement tripartite
+Bordereau de réception
+Connaissement

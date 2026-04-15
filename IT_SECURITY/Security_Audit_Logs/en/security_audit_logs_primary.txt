@@ -1,0 +1,36 @@
+﻿Audit Log
+Security Log
+Event Log
+Access Log
+Authentication Log
+SIEM
+Security Information and Event Management
+Log Management
+Log Aggregation
+Log Correlation
+Log Retention
+Log Analysis
+Syslog
+Windows Event Log
+Application Log
+Firewall Log
+Intrusion Detection
+IDS
+Intrusion Prevention
+IPS
+Security Monitoring
+Threat Monitoring
+Real-Time Monitoring
+Alert Rule
+Detection Rule
+Correlation Rule
+SOAR
+Audit Trail
+Event Correlation
+Log Forwarding
+Log Source
+Sentinel
+Splunk
+QRadar
+Elastic SIEM
+Chronicle

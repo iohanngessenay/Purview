@@ -1,15 +1,34 @@
-Controller
-Processor
-Sub-Processor
-Joint Controller
+﻿Data Protection
+GDPR
+Personal Data
 Data Subject
+Data Controller
+Data Processor
+Sub-Processor
+Processing
+Consent
+Legitimate Interest
 Data Breach
+Notification
+Transfer
+Third Country
+Adequacy Decision
+Supervisory Authority
 DPO
 Data Protection Officer
-Processing Activity
-Data Transfer
-Personal Data
-International Transfer
-Annex
-Technical and Organisational Measures
-TOMs
+Privacy
+Anonymization
+Pseudonymization
+Encryption
+Data Minimization
+Purpose Limitation
+Storage Limitation
+Right to Erasure
+Right to Access
+Portability
+CCPA
+LGPD
+FADP
+nFADP
+Swiss DPA
+Cross-Border Transfer

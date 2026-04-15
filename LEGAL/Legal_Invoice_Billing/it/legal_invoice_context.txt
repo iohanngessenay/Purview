@@ -1,6 +1,24 @@
-Studio Legale
-Onorari Legali
-Onorari Avvocato
-Ore Fatturate
-ID Pratica
+﻿Fattura
+Fatturazione
+Onorari
+Costo
+Spesa
+Ore
+Tariffa
+Budget
+Pagamento
+Cliente
+Pratica
+Causa
+Servizio
+Avvocato
+Consulente
+Studio
 Acconto
+IVA
+Imposta
+Sconto
+Credito
+Socio
+Collaboratore
+Praticante

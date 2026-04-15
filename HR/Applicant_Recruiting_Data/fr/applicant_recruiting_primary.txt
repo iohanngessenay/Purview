@@ -1,8 +1,21 @@
-Candidature
+﻿Candidature
 Curriculum Vitae
 CV
-Lettre de Motivation
-Lettre de Candidature
-Offre d'Emploi
-Lettre d'Offre
-Vérification de Références
+Lettre de motivation
+Offre d'emploi
+Lettre de refus
+Formulaire de candidature
+Profil du candidat
+Évaluation du candidat
+Fiche d'entretien
+Compte rendu d'entretien
+Dossier de candidature
+Test d'aptitude
+Rapport de recrutement
+Notes d'entretien
+Vérification des références
+Promesse d'embauche
+Fiche de poste
+Grille d'évaluation
+Contrôle de références
+Screening candidat

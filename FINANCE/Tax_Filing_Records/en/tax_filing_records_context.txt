@@ -1,0 +1,37 @@
+﻿Tax
+Fiscal
+Revenue
+IRS
+HMRC
+Filing
+Return
+Assessment
+Declaration
+Deduction
+Credit
+Refund
+Liability
+Payment
+Withholding
+VAT
+GST
+Sales Tax
+Income
+Corporate
+Capital Gains
+Depreciation
+Amortization
+Taxable
+Exempt
+Tax Year
+Fiscal Year
+Compliance
+Penalty
+Interest
+Audit
+Transfer Pricing
+BEPS
+Double Taxation
+Tax Treaty
+Tax Haven
+Permanent Establishment

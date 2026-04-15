@@ -1,4 +1,4 @@
-Home Address
+﻿Home Address
 Private Email
 Private Phone
 Personal Contact
@@ -18,3 +18,15 @@ HR Record
 Master Data
 ERP HR
 Contact Sheet
+Family Member
+Relative
+Emergency Procedure
+First Aid
+Medical Alert
+Blood Type
+Allergies
+Medical Condition
+Emergency Services
+Evacuation Contact
+Safety Officer
+Personal Data

@@ -1,7 +1,29 @@
-Hotline
+﻿Conformità
+Indagine
+Etica
+Frode
+Condotta illecita
+Violazione
+Non conformità
+Infrazione
+Segnalante
+Linea di segnalazione
 Anonimo
-Ritorsione
-Azione Disciplinare
-Gestione Casi
-Allegazione
-Note Colloquio
+Accusa
+Prova
+Testimone
+Intervista
+Conclusione
+Raccomandazione
+Rimediazione
+Azione correttiva
+Sanzione
+Penalità
+Multa
+Regolatore
+Codice di condotta
+Due diligence
+Forense
+Audit interno
+Valutazione dei rischi
+Escalation

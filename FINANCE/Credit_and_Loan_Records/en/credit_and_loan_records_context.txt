@@ -1,0 +1,36 @@
+﻿Loan
+Credit
+Debt
+Borrower
+Lender
+Bank
+Financial Institution
+Interest
+Principal
+Maturity
+Repayment
+Default
+Covenant
+Collateral
+Security
+Guarantee
+Subordination
+Senior
+Junior
+Secured
+Unsecured
+Fixed Rate
+Variable Rate
+Spread
+Refinancing
+Prepayment
+Drawdown
+Commitment
+Availability
+Rating
+Investment Grade
+High Yield
+Agency
+Moody's
+S&P
+Fitch

@@ -1,6 +1,17 @@
-Contact d'Urgence
-Proche Parent
-Urgence
-Numéro d'Urgence
-Numéro d'Urgence ICE
-Contact ICE
+﻿Contact d'urgence
+Personne à prévenir
+Numéro d'urgence
+Téléphone d'urgence
+Email d'urgence
+Formulaire de contact d'urgence
+Carte d'urgence
+Notification d'urgence
+Coordonnées d'urgence
+Liste de contacts d'urgence
+Informations d'urgence
+Contact d'urgence personnel
+Fiche de contact d'urgence
+Personne de confiance
+ICE
+Contact en cas d'urgence
+Plus proche parent

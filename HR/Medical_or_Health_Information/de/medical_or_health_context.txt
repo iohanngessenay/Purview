@@ -1,20 +1,28 @@
-Krankheit
+﻿Krankheit
 Behinderung
 Erkrankung
-Arbeitsfähigkeit
+Krankmeldung
 Betriebsarzt
 Krankenakte
 Krankenversicherung
 Rezept
 Diagnose
 Behandlung
-Krankheitsbedingte Abwesenheit
-Arbeitsunfähigkeit
-Ärztliche Untersuchung
-Gesundheitsprüfung
+Krankheitsabwesenheit
+Untersuchung
 Mitarbeiter
 HR
 Vorgesetzter
 Abwesenheit
-Wiedereingliederung
-Medizinisch
+Arzt
+Krankenhaus
+Klinik
+Arbeitsunfall
+Unfallbericht
+Ergonomie
+Psychische Gesundheit
+Stressbedingte Abwesenheit
+Mutterschutz
+Vaterschaft
+Rehabilitation
+Physiotherapie

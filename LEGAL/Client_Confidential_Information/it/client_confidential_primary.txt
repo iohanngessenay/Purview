@@ -1,17 +1,19 @@
-Cliente Riservato
-Informazioni Riservate
-Privilegiato
-Segreto Professionale
-Privilegiato e Riservato
-Comunicazione Riservata
-Strettamente Riservato
-Solo Uso Interno
-Informazioni Proprietarie
-Pratica Cliente
-Fascicolo Cliente
-Privilegio Legale
-Documento di Lavoro
-Solo per Avvocato
-Consulenza Legale
-Non Distribuire
-In Riservatezza
+﻿Confidenziale del cliente
+Segreto professionale
+Privilegio avvocato-cliente
+Comunicazione privilegiata
+Dati riservati del cliente
+Fascicolo del cliente
+Pratica del cliente
+Numero di pratica
+Incarico del cliente
+Informazioni del cliente
+Riservato e privilegiato
+Prodotto del lavoro
+Documento privilegiato
+Archivi del cliente
+Portafoglio del cliente
+Dossier riservato
+Informazioni riservate
+Necessità di conoscere
+Segreto professionale forense

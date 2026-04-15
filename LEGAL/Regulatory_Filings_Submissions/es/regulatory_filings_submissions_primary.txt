@@ -1,15 +1,18 @@
-Presentación Regulatoria
-Presentación
-Prospecto
-Divulgación
-Formulario SEC
-Presentación FINMA
-Informe a la Autoridad
-Informe Anual
-Informe Trimestral
-Informe de Cumplimiento
-Divulgación Obligatoria
-Presentación Normativa
-Plazo de Presentación
-Declaración Obligatoria
-Documento de Registro
+﻿Declaración regulatoria
+Presentación regulatoria
+Informe anual
+Declaración trimestral
+Declaración de registro
+Folleto informativo
+Solicitud de licencia
+Renovación de licencia
+Declaración de cumplimiento
+Notificación al regulador
+Notificación previa
+Informe de mercado
+Informe de riesgos
+Informe de solvencia
+Informe antilavado
+Comunicación de operación sospechosa
+Informe periódico
+Hecho relevante

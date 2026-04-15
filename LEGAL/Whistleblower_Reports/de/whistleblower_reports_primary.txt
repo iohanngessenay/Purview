@@ -1,17 +1,23 @@
-Whistleblower
+﻿Hinweisgeberbericht
+Hinweisgeber-Meldung
 Ethik-Hotline
-Vorfallsbericht
-Fehlverhalten
-Anonymer Bericht
-Schutz vor Repressalien
-Hinweis
-Geschützte Offenlegung
-Vertrauliche Hotline
-Meldesystem
-Ethikverstoß
-Betrugsmeldung
-Beschwerdehotline
-Meldekanal
+Ethik-Bericht
+Anonyme Meldung
 Anonymer Hinweis
+Integritätsbericht
+Compliance-Hotline
+Speak-Up-Meldung
+Fehlverhaltensbericht
+Betrugsmeldung
+Korruptionsmeldung
+Hinweisgeberkanal
+Ethik-Kanal
+Integritätskanal
+Geschützte Offenlegung
 Hinweisgeberschutz
-Whistleblowing-Richtlinie
+Vergeltungsbeschwerde
+Interne Meldung
+Externe Meldung
+Meldestelle
+Hinweisgeberschutzgesetz
+HinSchG
